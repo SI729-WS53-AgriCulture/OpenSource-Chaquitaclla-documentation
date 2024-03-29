@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/UPCPng.png
+<img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UPCPng.png
 style="display: block; 
 width=50%"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
