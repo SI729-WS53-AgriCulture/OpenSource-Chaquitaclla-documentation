@@ -4,10 +4,10 @@
 style="display: block; 
 width=50%"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
-<h4 style="text-align: center;"> Aplicaciones Web </h4>
+<h4 style="text-align: center;"> Desarrollo de Aplicaciones Open Source </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
 <h4 style="text-align: center;"> WS53 </h4>
-<h4 style="text-align: center;"> Docente: Angel Augusto Velasquez Nuñez </h4>
+<h4 style="text-align: center;"> Docente:  </h4>
 <h4 style="text-align: center;"> Startup:  </h4>
 <h4 style="text-align: center;"> Producto:  </h4>
 
