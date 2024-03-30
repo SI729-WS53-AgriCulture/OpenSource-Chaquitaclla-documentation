@@ -105,7 +105,7 @@ URL del repositorio del proyecto:
 4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
-# [Capítulo I: Introducción.](#1.)
+# Capítulo I: Introducción.
 
 
 ## 1.1.  Startup Profile
