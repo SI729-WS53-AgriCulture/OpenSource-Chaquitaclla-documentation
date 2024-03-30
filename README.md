@@ -135,7 +135,7 @@ plan de acción.
 
 ### 1.2.1. Antecedentes y problemática
 
-###  *What*
+####  *What*
  *¿Cuál es el problema?*
  
  El problema es la falta de asesoramiento técnico a los jardineros y agricultores
@@ -143,30 +143,29 @@ plan de acción.
  contexto en el que se debe realizar dichas acciones termina en una mala cosecha
  de cereales.
  
- *When* 
+ #### *When* 
  *¿Cuándo sucede el problema?*
 
 Cuando un agricultor o jardinero independiente presenta dificultades para mantener la gestión de sus sembríos 
  
- *Where*
+ #### *Where*
  *¿Dónde surge el problema?*
  
  El problema surge en los lugares destinados a ser de cosecha y se debe tomar en cuenta el tipo de terreno a trabajar
 
- *Who*
+ #### *Who*
  *¿A quiénes les sucede el problema?*
 
 A los agricultores y jardineros independientes que no logran un mantenimiento constante de sus sembríos
 
- *Why*
+ #### *Why*
  *¿Cuál es la causa del problema?*
 
 El desconocimiento de fases claves de proceso de sembrío para un apropiado cultivo
 
- *How*
+ #### *How*
  *¿En que condiciones utilizarán nuestro producto?*
 
 Al presentar dificultades sobre el sembrío, la aplicación actuará como ayuda a mantener 
 
-
- *How much*
+ #### *How much*
