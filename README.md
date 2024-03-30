@@ -104,4 +104,64 @@ URL del repositorio del proyecto:
 4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
-#Capítulo 1: Introducción
+# Capítulo 1: Introducción
+## 1.1.  Startup Profile
+	En esta sección se presenta la descripción del startup 
+	y la presentación de los equipos
+### 1.1.1. Descripción de la startup
+	En la actualidad, existen pocas o nulas aplicaciones de software que 
+	permitan a un público general alejado del sector empresarial tales 
+	como agricultures o jardineros gestionar sus cultivos de forma 
+	adecuada. Nuestra solución permite poder realizar un seguimiento de 
+	las fases fenológicas, control de calidad y verificación de las 
+	actividades necesarias. Todas estas funcionalidades serán ofrecidas 
+	siendo limitadas por planes de suscripción para nuestros usuarios los 
+	cuales podrán seleccionar el plan de acuerdo a sus necesidades. La 
+	solución planteada enviará alertas de acuerdo a rangos 
+	preestablecidos que se comparan con los valores ingresados por un 
+	usuario y de esta manera lograr un cultivo perfecto. Así mismo, se 
+	podrán evitar plagas tras un ingreso del usuario de alertas sobre 
+	datos de referencia que ofrece la solución y de esa manera brindar un 
+	plan de acción.
+	
+### 1.1.2. Perfiles de integrantes del equipo
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+###  *What*
+ *¿Cuál es el problema?*
+ 
+ El problema es la falta de asesoramiento técnico a los jardineros y agricultores
+ independientes. La mala gestión de producción de cultivo y desconocimiento del
+ contexto en el que se debe realizar dichas acciones termina en una mala cosecha
+ de cereales.
+ 
+ *When* 
+ *¿Cuándo sucede el problema?*
+
+Cuando un agricultor o jardinero independiente presenta dificultades para mantener la gestión de sus sembríos 
+ 
+ *Where*
+ *¿Dónde surge el problema?*
+ 
+ El problema surge en los lugares destinados a ser de cosecha y se debe tomar en cuenta el tipo de terreno a trabajar
+
+ *Who*
+ *¿A quiénes les sucede el problema?*
+
+A los agricultores y jardineros independientes que no logran un mantenimiento constante de sus sembríos
+
+ *Why*
+ *¿Cuál es la causa del problema?*
+
+El desconocimiento de fases claves de proceso de sembrío para un apropiado cultivo
+
+ *How*
+ *¿En que condiciones utilizarán nuestro producto?*
+
+Al presentar dificultades sobre el sembrío, la aplicación actuará como ayuda a mantener 
+
+
+ *How much*
