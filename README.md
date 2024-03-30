@@ -50,11 +50,11 @@ URL del repositorio del proyecto:
 1.2. [***Solution Profile***](#1.2.)<br>
 1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
 1.2.2. [Lean UX Process](#1.2.2.)<br>
-1.2.3. [Lean UX Problem Statements](#1.2.3.)<br>
-1.2.4. [Lean UX Assumptions](#1.2.4.)<br>
-1.2.5. [Lean UX Hypothesis Statements](#1.2.5.)<br>
-1.2.6. [Lean UX Canvas](#1.2.5.)<br>
-1.3. [***Segmentos objetivo***](#1.2.6.)<br>
+1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
+1.2.2.2. [Lean UX Assumptions](#1.2.2.1.)<br>
+1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
+1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
+1.3. [***Segmentos objetivo***](#1.3.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis**](#2.)<br>
 2.1. [***Competidores***](#2.1.)<br>
 2.1.1. [Análisis competitivo](#2.1.1.)<br>
