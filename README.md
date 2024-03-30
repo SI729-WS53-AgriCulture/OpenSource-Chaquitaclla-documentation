@@ -15,7 +15,7 @@ width=50%"/>
 | Nombre |Código de alumno|
 |:-------:|:----------:|
 |Guillen Luna, Paolo César|U202124343|
-|||
+|Cantoral Paredes, Diego André| U20201F568|
 |||
 |||
 |||
@@ -24,6 +24,7 @@ width=50%"/>
 |Fecha|Versión|Autor|Descripción de modificación|
 |:-:|:-:|:-:|:-:|
 |28/03/2024|1.0|Guillen Paolo,|Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula|
+|29/03/24|1.0|Cantoral Diego,|Avance del capítulo 1|
 
 
 
@@ -106,23 +107,23 @@ URL del repositorio del proyecto:
 
 # Capítulo 1: Introducción
 ## 1.1.  Startup Profile
-	En esta sección se presenta la descripción del startup 
-	y la presentación de los equipos
+En esta sección se presenta la descripción del startup 
+y la presentación de los equipos
 ### 1.1.1. Descripción de la startup
-	En la actualidad, existen pocas o nulas aplicaciones de software que 
-	permitan a un público general alejado del sector empresarial tales 
-	como agricultures o jardineros gestionar sus cultivos de forma 
-	adecuada. Nuestra solución permite poder realizar un seguimiento de 
-	las fases fenológicas, control de calidad y verificación de las 
-	actividades necesarias. Todas estas funcionalidades serán ofrecidas 
-	siendo limitadas por planes de suscripción para nuestros usuarios los 
-	cuales podrán seleccionar el plan de acuerdo a sus necesidades. La 
-	solución planteada enviará alertas de acuerdo a rangos 
-	preestablecidos que se comparan con los valores ingresados por un 
-	usuario y de esta manera lograr un cultivo perfecto. Así mismo, se 
-	podrán evitar plagas tras un ingreso del usuario de alertas sobre 
-	datos de referencia que ofrece la solución y de esa manera brindar un 
-	plan de acción.
+En la actualidad, existen pocas o nulas aplicaciones de software que 
+permitan a un público general alejado del sector empresarial tales 
+como agricultures o jardineros gestionar sus cultivos de forma 
+adecuada. Nuestra solución permite poder realizar un seguimiento de 
+las fases fenológicas, control de calidad y verificación de las 
+actividades necesarias. Todas estas funcionalidades serán ofrecidas 
+siendo limitadas por planes de suscripción para nuestros usuarios los 
+cuales podrán seleccionar el plan de acuerdo a sus necesidades. La 
+solución planteada enviará alertas de acuerdo a rangos 
+preestablecidos que se comparan con los valores ingresados por un 
+usuario y de esta manera lograr un cultivo perfecto. Así mismo, se 
+podrán evitar plagas tras un ingreso del usuario de alertas sobre 
+datos de referencia que ofrece la solución y de esa manera brindar un 
+plan de acción.
 	
 ### 1.1.2. Perfiles de integrantes del equipo
 
