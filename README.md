@@ -105,11 +105,14 @@ URL del repositorio del proyecto:
 4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
-# Capítulo 1: Introducción
-## 1.1.  Startup Profile
+# Capítulo 1: Introducción (#1.)
+
+
+## 1.1.  Startup Profile (#1.1.)
 En esta sección se presenta la descripción del startup 
 y la presentación de los equipos
-### 1.1.1. Descripción de la startup
+
+### 1.1.1. Descripción de la startup (#1.1.1)
 En la actualidad, existen pocas o nulas aplicaciones de software que 
 permitan a un público general alejado del sector empresarial tales 
 como agricultures o jardineros gestionar sus cultivos de forma 
@@ -125,11 +128,11 @@ podrán evitar plagas tras un ingreso del usuario de alertas sobre
 datos de referencia que ofrece la solución y de esa manera brindar un 
 plan de acción.
 	
-### 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo (#1.1.2.)
 
-## 1.2. Solution Profile
+## 1.2. Solution Profile (#1.2.)
 
-### 1.2.1. Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática (#1.2.1.)
 
 ###  *What*
  *¿Cuál es el problema?*
