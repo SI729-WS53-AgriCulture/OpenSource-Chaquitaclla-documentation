@@ -105,10 +105,10 @@ URL del repositorio del proyecto:
 4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
-# [Capítulo 1: Introducción](#1.)
+# Capítulo I: Introducción
 
 
-## 1.1.  [Startup Profile](#1.1.)
+## 1.1.  Startup Profile(#1.1.)
 En esta sección se presenta la descripción del startup 
 y la presentación de los equipos
 
@@ -128,11 +128,11 @@ podrán evitar plagas tras un ingreso del usuario de alertas sobre
 datos de referencia que ofrece la solución y de esa manera brindar un 
 plan de acción.
 	
-### 1.1.2. [Perfiles de integrantes del equipo](#1.1.2.)
+### 1.1.2. Perfiles de integrantes del equipo
 
-## 1.2. [Solution Profile](#1.2.)
+## 1.2. Solution Profile
 
-### 1.2.1. [Antecedentes y problemática](#1.2.1.)
+### 1.2.1. Antecedentes y problemática
 
 ###  *What*
  *¿Cuál es el problema?*
