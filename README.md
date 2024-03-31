@@ -169,3 +169,41 @@ El desconocimiento de fases claves de proceso de sembrío para un apropiado cult
 Al presentar dificultades sobre el sembrío, la aplicación actuará como ayuda a mantener 
 
  #### *How much*
+
+ ### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+El propósito de " " es brindar un apoyo de sistema para los jardineros y agricultores que requieran un apoyo externo para monitorear los sembríos que necesiten un cuidado más especial
+
+El problema se manifiesta al no poder estar al tanto de las fases fenológicas que transcurren en el crecimiento de los cultivos, los cuáles son importantes para poder actuar adecuadamente en el momento necesario. Asimismo, el hecho de no poder tomar registro de las fases por las que atraviesan deteriora el producto final que se espera obtener.
+
+¿Cómo podríamos realizar un seguimiento continuo de los sembríos que experimentan diversas fases de crecimiento, y por ende que requiera un cuidado más controlado?
+
+#### 1.2.2.2. Lean UX Assumptions
+
+##### Busineess Assumptions:
+
+Creo que nuestros clientes necesitan ayuda en el mantenimiento de sus sembríos
+Mis clientes primarios serán jardineros y agricultores que necesiten apoyo en sus cultivos
+El valor primario que mi cliente quiere de mi aplicación es ser fiable en la información proporcionada
+Iré adquiriendo nuevos clientes a través del reconocimiento y buenas reseñas de mis primeros clientes
+Haré dinero a través del cobro por el uso de nuestro servicio de apoyo cuando el usuario se registre
+Mi competencia principal serían las aplicaciones que ofrecen un servicio similar de ayuda en el área de agricultura (Agrio, Efemist, etc.).
+Creo que nuestra aplicación prevalecerá debido al enfoque diferencial de una supervisión constante del cultivo en todos los aspectos que involucren la cosecha.
+El mayor inconveniente que podría ocurrirnos es que se brinde un mantenimiento no apropiado a la ayuda que se requiera.
+Resolveremos los inconvenientes que se pueden presentar gracias a una constante actualización de la información que requieran los usuarios.
+
+##### User Outcomes
+
+Los usuarios son los jardineros o agricultores que requieran ayuda en el mantenimiento constante de sus cultivos 
+
+Nuestra aplicación sería una necesidad constante para ellos cuando se encuentren en problemas
+
+Nuestra aplicación no permite a los usuarios escoger asesoramiento de un producto no preestablecido en la aplicación
+
+Nuestra aplicación se caracterizará por ser fácil de interactuar con el usuario y brindar información necesaria y concisa
+
+#### 1.2.2.3. Lean UX Hyphotesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
