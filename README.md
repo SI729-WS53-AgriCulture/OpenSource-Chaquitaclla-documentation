@@ -7,8 +7,8 @@ width=50%"/>
 <h4 style="text-align: center;"> Desarollo de Aplicaciones Open Source </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
 <h4 style="text-align: center;"> WS53 </h4>
-<h4 style="text-align: center;"> Docente:  </h4>
-<h4 style="text-align: center;"> Startup:  </h4>
+<h4 style="text-align: center;"> Docente: Juan Antonio Flores Moroco </h4>
+<h4 style="text-align: center;"> Startup: AgriCulture </h4>
 <h4 style="text-align: center;"> Producto: Chaquitaclla  </h4>
 
 ## Team Members
@@ -17,7 +17,7 @@ width=50%"/>
 |Guillen Luna, Paolo César|U202124343|
 |||
 |||
-|||
+|Rivas Sarango, David Alejandro|U20191E831|
 |||
 
 ## Registro de versiones del informe
@@ -139,7 +139,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 |Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
 |||
 |||
-|||
+|Mi nombre es **David Alejandro Rivas Sarango**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.||
 |||
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
