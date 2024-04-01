@@ -16,7 +16,7 @@ width=50%"/>
 |:-------:|:----------:|
 |Guillen Luna, Paolo César|U202124343|
 |||
-|||
+|Quispe Tipo, Godofredo|U202120772|
 |Rivas Sarango, David Alejandro|U20191E831|
 |||
 
