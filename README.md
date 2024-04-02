@@ -307,7 +307,21 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
-
+<div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
+    |Competitive Analysis Landscape|
+    |¿Por qué llevar a cabo este análisis? ||
+    ||AgroSmart|Cropin|DK-Experto|
+    |Overview||||
+    |Ventaja Competitiva||||
+    |Mercado Objetivo||||
+    |Estrategias de Marketing||||
+    |Productos & Servicios||||
+    |Precios & Costos||||
+    |Canales de distribución (WEB y/o Movil)||||
+    |Fortalezas||||
+    |Debilidades||||
+    |Oportunidades||||
+    |Amenazas||||
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
