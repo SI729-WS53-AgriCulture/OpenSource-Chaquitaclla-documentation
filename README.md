@@ -323,6 +323,13 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
     |Debilidades|||||
     |Oportunidades|||||
     |Amenazas|||||
+    
+    | Column 1 | Column 2 | Column 3 |
+    |----------|----------|----------|
+    | Row 1    | Cell 2   | Cell 3   |
+    | Row 2    | Cell 5   | Cell 6   |
+    | Row 3    | Cell 8   | Cell 9   |
+
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
