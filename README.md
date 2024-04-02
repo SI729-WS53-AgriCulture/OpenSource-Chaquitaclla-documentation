@@ -309,7 +309,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
-||Chaquitaclla|AgroSmart|Cropin|DK-Experto|
+||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|||||
 |Ventaja Competitiva|||||
