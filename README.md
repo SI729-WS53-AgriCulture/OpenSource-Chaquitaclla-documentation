@@ -308,27 +308,21 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
-    |Competitive Analysis Landscape|
-    |:-:|:-:|:-:|:-:|:-:|
-    |¿Por qué llevar a cabo este análisis? ||
-    ||Chaquitaclla|AgroSmart|Cropin|DK-Experto|
-    |Overview|||||
-    |Ventaja Competitiva|||||
-    |Mercado Objetivo|||||
-    |Estrategias de Marketing|||||
-    |Productos & Servicios|||||
-    |Precios & Costos|||||
-    |Canales de distribución (WEB y/o Movil)|||||
-    |Fortalezas|||||
-    |Debilidades|||||
-    |Oportunidades|||||
-    |Amenazas|||||
-    
-    | Column 1 | Column 2 | Column 3 |
-    |----------|----------|----------|
-    | Row 1    | Cell 2   | Cell 3   |
-    | Row 2    | Cell 5   | Cell 6   |
-    | Row 3    | Cell 8   | Cell 9   |
+
+|Chaquitaclla|AgroSmart|Cropin|DK-Experto|
+|:-:|:-:|:-:|:-:|
+||Chaquitaclla|AgroSmart|Cropin|DK-Experto|
+|Overview|||||
+|Ventaja Competitiva|||||
+|Mercado Objetivo|||||
+|Estrategias de Marketing|||||
+|Productos & Servicios|||||
+|Precios & Costos|||||
+|Canales de distribución (WEB y/o Movil)|||||
+|Fortalezas|||||
+|Debilidades|||||
+|Oportunidades|||||
+|Amenazas|||||
 
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
