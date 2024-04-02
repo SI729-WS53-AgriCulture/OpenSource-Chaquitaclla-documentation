@@ -316,9 +316,10 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
-<div id='5.1.'><h3> 5.1. Style Guidelines</h3></div>
+<div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 
-<div id='5.2.'><h3> 5.2. Information Architecture</h3></div>
-
+<div id='5.2.'><h3> 5.2. Sprint 1</h3></div>
+<div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+<div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 
