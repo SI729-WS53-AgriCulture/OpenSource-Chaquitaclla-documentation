@@ -309,9 +309,8 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
-|Chaquitaclla|AgroSmart|Cropin|DK-Experto|
-|:-:|:-:|:-:|:-:|
 ||Chaquitaclla|AgroSmart|Cropin|DK-Experto|
+|:-:|:-:|:-:|:-:|:-:|
 |Overview|||||
 |Ventaja Competitiva|||||
 |Mercado Objetivo|||||
