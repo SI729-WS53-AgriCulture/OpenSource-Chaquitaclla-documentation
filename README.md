@@ -326,6 +326,10 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 <div id='3.2'><h3> 3.2. User Stories</h3></div>
+
+|Epic/StoryID |Título | Descripción | Criterios de Aceptación | Relacionado con (EpicID) |
+|:-:|:-:|:-:|:-:|:-:|
+||||||
 <div id='3.3'><h3> 3.3. Impact Mapping.</h3></div>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
