@@ -311,9 +311,9 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 ||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
-|Overview|||||
+|Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
 |Ventaja Competitiva|||||
-|Mercado Objetivo|||||
+|Mercado Objetivo|Desde agricultores amateurs hasta empresas internacionales.|Empresas agrícolas dedicadas al sector Silvoagropecuario y a gobiernos o entidades gubernamentales.|Empresas agrícolas, agroindustriales e instituciones financieras.|Agricultores especalizados en la siembra de maíz.|
 |Estrategias de Marketing|||||
 |Productos & Servicios|||||
 |Precios & Costos|||||
