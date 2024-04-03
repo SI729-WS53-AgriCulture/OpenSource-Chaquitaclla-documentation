@@ -325,8 +325,9 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
-|migue/de|de|de|de|
-|https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527|
+|Epic/StoryID |
+|[:-:](https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527)|
+
 <div id='3.2'><h3> 3.2. User Stories</h3></div>
 
 |Epic/StoryID |Título | Descripción | Criterios de Aceptación | Relacionado con (EpicID) |
