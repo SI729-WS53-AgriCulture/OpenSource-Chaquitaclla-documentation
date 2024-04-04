@@ -137,7 +137,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 |Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
 | :--------:| :--------: |
 |Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
-|Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambición para realizar trabajos y tareas. ||
+|Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. ||
 |||
 |Mi nombre es **David Alejandro Rivas Sarango**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.||
 |||
