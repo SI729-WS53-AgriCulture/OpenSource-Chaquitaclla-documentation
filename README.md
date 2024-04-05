@@ -319,8 +319,8 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 |Precios & Costos|||||
 |Canales de distribución (WEB y/o Movil)|Plataforma web|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|
 |Fortalezas|||||
-|Debilidades||Enfocado en los agricultores, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
-|Oportunidades|||||
+|Debilidades|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
+|Oportunidades|||Auge actual de las tecnologías basadas en IA.||
 |Amenazas|||||
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
