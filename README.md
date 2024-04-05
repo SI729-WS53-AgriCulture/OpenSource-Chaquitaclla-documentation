@@ -315,13 +315,13 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 |Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
 |Mercado Objetivo|Desde agricultores amateurs hasta empresas internacionales.|Empresas agrícolas dedicadas al sector Silvoagropecuario y a gobiernos o entidades gubernamentales.|Empresas agrícolas, agroindustriales e instituciones financieras.|Agricultores especalizados en la siembra de maíz.|
 |Estrategias de Marketing||Enfoque en sostenibilidad y eficiencia de recursos como principales puntos de venta.|Impacto en la productividad mediante soluciones variadas proporcionadas al cliente.|Personalización y adaptabilidad de soluciones a necesidades específicas del cliente.|
-|Productos & Servicios|||||
-|Precios & Costos||Basado en suscripción.|Basado en el tamaño de la operación, suscripción mensual|Precios personalizados a diferentes países.|
+|Productos & Servicios|Software de gestion agricula, asesoramiento económico.|Sensores de campo, análisis de datos climáticos, asesoramiento agronómico.|Software de gestión agrícola, análisis de datos, servicios de inteligencia de mercado.|Consultoría agrícola, software de gestión de recursos, análisis de rendimiento.|
+|Precios & Costos|Precio basado en <>|Basado en suscripción.|Basado en el tamaño de la operación, suscripción mensual|Precios personalizados a diferentes países.|
 |Canales de distribución (WEB y/o Movil)|Plataforma web|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|
-|Fortalezas||Abarca toda la cadena de cultivos agrícolas.|Análisis apoyadas con herramientas como la IA.|Personalización de las soluciones en maíz.|
+|Fortalezas|Monitoreo de ultima generacion para la gestión agrícola.|Abarca toda la cadena de cultivos agrícolas.|Análisis apoyadas con herramientas como la IA.|Personalización de las soluciones en maíz.|
 |Debilidades|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
-|Oportunidades||Expansión de mercados emergentes con enfoque a la agricultura sostenible completa.|Auge actual de las tecnologías basadas en IA.|Crecimiento del comercio electronico en los países de Latinoamérica.|
-|Amenazas||Aparición de soluciones más elaboradas.|Aparición de diversas soluciones de IA.|Cambios en las tendencias de consumo de los clientes.|
+|Oportunidades|Captar a los agricultores amateurs y principiantes en el mundo de la agricultura.|Expansión de mercados emergentes con enfoque a la agricultura sostenible completa.|Auge actual de las tecnologías basadas en IA.|Crecimiento del comercio electronico en los países de Latinoamérica.|
+|Amenazas|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.|Aparición de soluciones más elaboradas.|Aparición de diversas soluciones de IA.|Cambios en las tendencias de consumo de los clientes.|
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
