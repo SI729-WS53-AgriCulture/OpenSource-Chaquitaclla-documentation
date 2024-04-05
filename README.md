@@ -312,14 +312,14 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 ||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
-|Ventaja Competitiva|||||
+|Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
 |Mercado Objetivo|Desde agricultores amateurs hasta empresas internacionales.|Empresas agrícolas dedicadas al sector Silvoagropecuario y a gobiernos o entidades gubernamentales.|Empresas agrícolas, agroindustriales e instituciones financieras.|Agricultores especalizados en la siembra de maíz.|
-|Estrategias de Marketing|||||
+|Estrategias de Marketing||Enfoque en sostenibilidad y eficiencia de recursos como principales puntos de venta.|Impacto en la productividad mediante soluciones variadas proporcionadas al cliente.|Personalización y adaptabilidad de soluciones a necesidades específicas del cliente.|
 |Productos & Servicios|||||
 |Precios & Costos|||||
-|Canales de distribución (WEB y/o Movil)|||||
+|Canales de distribución (WEB y/o Movil)|Plataforma web|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|
 |Fortalezas|||||
-|Debilidades|||||
+|Debilidades||Enfocado en los agricultores, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
 |Oportunidades|||||
 |Amenazas|||||
 
