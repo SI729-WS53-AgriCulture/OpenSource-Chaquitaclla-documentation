@@ -427,6 +427,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
             <tr>
                 <td colspan="3">Escenario 2</td>
             </tr>
+            
 <div ></div>
     <table border="1">
         <thead>
@@ -476,6 +477,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
             <tr>
                 <td colspan="3">Escenario 2</td>
             </tr>
+            
 <div ></div>
     <table border="1">
         <thead>
@@ -525,6 +527,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
             <tr>
                 <td colspan="3">Escenario 2</td>
             </tr>
+            
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
@@ -559,5 +562,3 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
-
-
