@@ -309,6 +309,110 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
+ <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
+  
+  <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+  <p>En esta sección se procederá a detallar las preguntas para el método de recoleccion de
+  requisitos que son las entrevistas. Para la formulación se siguieron buenas prácicas tales como 
+  formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>  
+
+  <h4>PREGUNTAS GENERALES</h4>
+  <p>Bienvenido gracias por brindarnos esta entrevista (empieza con las preguntas generales) </p>
+  
+  * Nos gustaría saber su nombre, edad y ocupación
+  * ¿Qué tan acostumbrado está con el uso de tecnología en su vida diaria?
+  * Dentro de su vida diaria, ¿tiene incovenientes utilizando dichas herramientas digitales?
+  * Alguna vez tuvo que enfrentarse con una situación donde usted no entendía para nada como servía una aplicación, de ser así, ¿cómo sobrellevo ese problema?
+
+  <h4>SECTOR AGRICULTORES PROFESIONALES: </h4>
+  
+  <p>1. ¿Cuál es el proceso que sigue para llevar un registro de sus cultivos?</p>
+  <p>2. ¿Utiliza alguna herramienta para llevar un registro de sus cultivos?</p>
+  <p>3. ¿Cuáles son los datos que considera más relevante al momento de gestionar sus cultivos?</p>
+  <p>4. ¿Qué dificultades ha encontrado al llevar un registro de sus cultivos?</p>
+  <p>5. Dentro de estas dificultades, ¿hubo alguna vez que tuvo algún tipo de pérdidas, sea económicas o de tiempo? 
+  <p>6. (Comentar la propuesta) ¿Qué mejoras le gustaría ver en una herramienta de gestión de cultivos?</p>
+  <p>7. ¿Qué tan dispuesto estaría en adoptar una herramienta digital para la gestión de sus cultivos?</p>
+  <p>8. Teniendo en cuenta que usted estaría dispuesto en adoptar una herramienta digital para la gestión de sus cultivos ¿Cuánto pagaría por esta?</p>
+  <p>9. ¿Qué tan dispuesto estaría en pagar por una herramienta de gestión de cultivos?</p>
+  <p>10. ¿Qué tan importante considera la trazabilidad de sus cultivos?</p>
+  <p>11. ¿En qué medidas una herramienta de este tipo podría ser útil para sus necesidades como agriculor?</p>
+  
+
+  <h4>SECTOR JARDINEROS EN CASA</h4>
+
+  <p>Bienvenido gracias por brindarnos esta entrevista (empieza con las preguntas al segmento) </p>
+  <p>Bienvenido gracias por brindarnos esta entrevista, primaremente nos gustaría conocer
+  su nombre completo, edad, dónde reside, estado civil y su ocupación. </p>
+  <p>1. ¿Cuál es el proceso que sigue para llevar un registro de sus cultivos en su hogar?</p>
+  <p>2. ¿Utiliza alguna herramienta para llevar un registro de sus cultivos?</p>
+  <p>3. ¿Cuál es su principal motivación para cultivar para usted mismo en casa?</p>
+  <p>3. ¿Cuáles son los datos que considera más relevante al momento de gestionar sus cultivos?</p>
+  <p>4. ¿Qué dificultades ha encontrado al llevar un registro de sus cultivos?</p>
+  <p>5. (Comentar la propuesta) ¿Qué mejoras le gustaría ver en una herramienta de gestión de cultivos?</p>
+  <p>6. ¿Qué tan dispuesto estaría en adoptar una herramienta digital para la gestión de sus cultivos?</p>
+  <p>7. ¿Qué tan importante considera la tecnología en la gestión de sus cultivos?</p>
+  <p>8. ¿Qué tan dispuesto estaría en pagar por una herramienta de gestión de cultivos?</p>
+  <p>9. ¿Qué tan importante considera la trazabilidad de sus cultivos?</p>
+  <p>10. ¿Qué tan importante considera la gestión de los procesos fenológicos de sus cultivos?</p>
+
+
+
+  <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+
+  ***Entrevistas a agricultores profesionales***
+  
+|Nombre entrevistado|Clever Medina|
+|-|-|
+|Edad|42 años|
+|Departamento|Tumbes|
+|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/entrevistaAgricultorMedina.jpeg">|Clever Medina, un agricultor residente en el departamento de Tumbes, se especializa en los cultivos de cacao y limón. Aunque su ocupación actual es la agricultura, también posee conocimientos en mecatrónica. Clever gestiona sus cultivos basándose en su experiencia en el campo. Sin embargo, enfrenta dificultades cuando los cultivos no crecen como esperaría. En esos momentos, recurre a información encontrada en Google y sigue los pasos recomendados, en caso la información encontrada no sirva en la práctica, esto resulta en pérdidas económicas y de tiempo para Clever. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
+|Duración entrevista: 16:15  |URL: [https://drive.google.com/file/d/1G1Q4E9hMcd82o3uekWFwiJWfr5Vp7D5P/view?usp=sharing]|
+
+|Nombre entrevistado|Paulino Guillen|
+|-|-|
+|Edad||
+|Departamento|Lima|
+|||
+|Duración entrevista:   ||
+
+|Nombre entrevistado||
+|-|-|
+|Edad||
+|Departamento|Lima|
+|||
+|Duración entrevista:   ||
+
+ ***Entrevistas a jardineros en casa***
+
+|Nombre entrevistado||
+|-|-|
+|Edad||
+|Departamento|Lima|
+|||
+|Duración entrevista:   ||
+
+|Nombre entrevistado||
+|-|-|
+|Edad||
+|Departamento|Lima|
+|||
+|Duración entrevista:   ||
+
+|Nombre entrevistado||
+|-|-|
+|Edad||
+|Departamento|Lima|
+|||
+|Duración entrevista:   ||
+
+  <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+  
+  <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
+    <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
+    <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
+    nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
+
 ||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
