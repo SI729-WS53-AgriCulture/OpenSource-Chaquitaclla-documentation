@@ -140,7 +140,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 |Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. ||
 |||
 |Mi nombre es **David Alejandro Rivas Sarango**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.||
-|||
+|Mi nombre es **Diego André Cantoral Paredes** y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros. ||
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
