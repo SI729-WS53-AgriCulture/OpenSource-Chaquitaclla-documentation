@@ -548,6 +548,45 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+
+|Tipo de producto de software|Ruta de referencia (URL)|
+|:---:|:---:|
+|SaaS|<>|
+
+Project Management
+
+Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
+
+    Centro de organización de trabajo: Github
+    
+    Planificación de tareas: Trello
+    
+    Reuniones con el equipo: Google Meet
+    
+Requirements Management
+
+Para realizar las actividades del proyecto necesitabamos designarlas a cada integrante del grupo en caso de revision o cambios, esta lista de asignaciones fue realizada en Figma:
+
+Link de referencia: https://www.trello.com/
+
+Product UX/UI Design
+
+Para el diseño de los wireframe y mockups, ademas de un prototipo de Web App se utilizo Figma
+
+Link de referencia: https://www.figma.com/
+
+Software Development
+
+La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
+
+Link de referencia: https://www.jetbrains.com/idea/
+
+Software Testing
+Software Deployment
+Software Documentation
+
+
+    
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
 
 <table>
