@@ -745,6 +745,17 @@ Link de referencia: https://github.com/
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
+Ademáas de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github.
+
+Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/af8d8d6f-628a-4bb8-b7a1-8559b1a4c651)
+
+Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL: 
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/c852bb62-18d3-409e-8b7c-ac3c47a2498e)
+
+
+
+
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
 <div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
