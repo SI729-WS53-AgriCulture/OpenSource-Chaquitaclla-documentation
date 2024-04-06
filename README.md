@@ -671,13 +671,13 @@ Para la organizacion del proyecto necesitabamos una planificación en cuanto a t
     
 Requirements Management
 
-Para realizar las actividades del proyecto necesitabamos designarlas a cada integrante del grupo en caso de revision o cambios, esta lista de asignaciones fue realizada en Figma:
+Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Figma:
 
 Link de referencia: https://www.trello.com/
 
 Product UX/UI Design
 
-Para el diseño de los wireframe y mockups, ademas de un prototipo de Web App se utilizo Figma
+Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma
 
 Link de referencia: https://www.figma.com/
 
@@ -687,12 +687,40 @@ La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
 
 Link de referencia: https://www.jetbrains.com/idea/
 
+HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+
+Link de referencia: https://www.w3schools.com/html/html5_syntax.asp
+
+CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
+
+Link de referencia: https://www.w3schools.com/css/css_intro.asp
+
+Lenguaje empleado en la implementación del proyecto es TypeScript:
+
+Link de referencia: https://www.typescriptlang.org/
+
+Framework de JavaScript Angular para el diseño (Frontend)
+
+Link de referencia: https://angular.io/
+
 Software Testing
+
+Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
+
+Link de referencia: https://cucumber.io/docs/gherkin/
+
 Software Deployment
+
+Se ha utilizado Github para desplegar la landing page con Github Pages:
+
+Link de referencia: https://pages.github.com/
+
 Software Documentation
 
+Se ha utilizado Github para alojar los distintos repositorios creados por los miembros del equipo para la colaboración en tiempo real mientras se codifican distintas áreas del proyecto.
 
-    
+Link de referencia: https://github.com/
+
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
 
 <table>
