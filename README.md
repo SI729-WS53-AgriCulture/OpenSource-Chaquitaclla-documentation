@@ -536,9 +536,21 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
+<div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+<div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
+<div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
+<div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
-<div id='5.2.'><h3> 5.2. Sprint 1</h3></div>
+<div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
+<div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
+<div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
+<div id='5.2.1.3.'><h5> 5.2.1.3.Sprint Backlog 1</h5></div>
+
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+<div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
+<div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+<div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 
