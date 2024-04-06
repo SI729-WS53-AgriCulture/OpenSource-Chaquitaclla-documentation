@@ -309,7 +309,22 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
- <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
+||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
+|:-:|:-:|:-:|:-:|:-:|
+|Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
+|Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
+|Mercado Objetivo|Desde agricultores amateurs hasta empresas internacionales.|Empresas agrícolas dedicadas al sector Silvoagropecuario y a gobiernos o entidades gubernamentales.|Empresas agrícolas, agroindustriales e instituciones financieras.|Agricultores especalizados en la siembra de maíz.|
+|Estrategias de Marketing|Enfoque en nuevos clientes iniciando en el mundo de la agricultura.|Enfoque en sostenibilidad y eficiencia de recursos como principales puntos de venta.|Impacto en la productividad mediante soluciones variadas proporcionadas al cliente.|Personalización y adaptabilidad de soluciones a necesidades específicas del cliente.|
+|Productos & Servicios|Software de gestion agricula, asesoramiento económico.|Sensores de campo, análisis de datos climáticos, asesoramiento agronómico.|Software de gestión agrícola, análisis de datos, servicios de inteligencia de mercado.|Consultoría agrícola, software de gestión de recursos, análisis de rendimiento.|
+|Precios & Costos|Precio basado en suscripción.|Basado en suscripción.|Basado en el tamaño de la operación, suscripción mensual|Precios personalizados a diferentes países.|
+|Canales de distribución (WEB y/o Movil)|Plataforma web|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|
+|Fortalezas|Monitoreo de ultima generacion para la gestión agrícola.|Abarca toda la cadena de cultivos agrícolas.|Análisis apoyadas con herramientas como la IA.|Personalización de las soluciones en maíz.|
+|Debilidades|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
+|Oportunidades|Captar a los agricultores amateurs y principiantes en el mundo de la agricultura.|Expansión de mercados emergentes con enfoque a la agricultura sostenible completa.|Auge actual de las tecnologías basadas en IA.|Crecimiento del comercio electronico en los países de Latinoamérica.|
+|Amenazas|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.|Aparición de soluciones más elaboradas.|Aparición de diversas soluciones de IA.|Cambios en las tendencias de consumo de los clientes.|
+
+
+<div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
   
   <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
   <p>En esta sección se procederá a detallar las preguntas para el método de recoleccion de
@@ -413,19 +428,6 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
     <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
     nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
 
-||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
-|:-:|:-:|:-:|:-:|:-:|
-|Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
-|Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
-|Mercado Objetivo|Desde agricultores amateurs hasta empresas internacionales.|Empresas agrícolas dedicadas al sector Silvoagropecuario y a gobiernos o entidades gubernamentales.|Empresas agrícolas, agroindustriales e instituciones financieras.|Agricultores especalizados en la siembra de maíz.|
-|Estrategias de Marketing|Enfoque en nuevos clientes iniciando en el mundo de la agricultura.|Enfoque en sostenibilidad y eficiencia de recursos como principales puntos de venta.|Impacto en la productividad mediante soluciones variadas proporcionadas al cliente.|Personalización y adaptabilidad de soluciones a necesidades específicas del cliente.|
-|Productos & Servicios|Software de gestion agricula, asesoramiento económico.|Sensores de campo, análisis de datos climáticos, asesoramiento agronómico.|Software de gestión agrícola, análisis de datos, servicios de inteligencia de mercado.|Consultoría agrícola, software de gestión de recursos, análisis de rendimiento.|
-|Precios & Costos|Precio basado en suscripción.|Basado en suscripción.|Basado en el tamaño de la operación, suscripción mensual|Precios personalizados a diferentes países.|
-|Canales de distribución (WEB y/o Movil)|Plataforma web|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|
-|Fortalezas|Monitoreo de ultima generacion para la gestión agrícola.|Abarca toda la cadena de cultivos agrícolas.|Análisis apoyadas con herramientas como la IA.|Personalización de las soluciones en maíz.|
-|Debilidades|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
-|Oportunidades|Captar a los agricultores amateurs y principiantes en el mundo de la agricultura.|Expansión de mercados emergentes con enfoque a la agricultura sostenible completa.|Auge actual de las tecnologías basadas en IA.|Crecimiento del comercio electronico en los países de Latinoamérica.|
-|Amenazas|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.|Aparición de soluciones más elaboradas.|Aparición de diversas soluciones de IA.|Cambios en las tendencias de consumo de los clientes.|
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
