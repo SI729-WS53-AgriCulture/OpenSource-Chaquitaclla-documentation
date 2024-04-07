@@ -552,71 +552,138 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
 
-|Tipo de producto de software|Ruta de referencia (URL)|
-|:---:|:---:|
-|SaaS|<>|
-
 **Project Management**
 
 Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
 
-    Centro de organización de trabajo: Github
+* Centro de organización de trabajo: Github
     
-    Planificación de tareas: Trello
+* Planificación de tareas: Trello
     
-    Reuniones con el equipo: Google Meet
+* Reuniones con el equipo: Google Meet
     
 **Requirements Management**
 
-Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Figma:
+Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
 
-Link de referencia: https://www.trello.com/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.trello.com/</td>
+        </tr>
+    </tbody>
+</table>
 
 **Product UX/UI Design**
 
-Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma
+Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
 
-Link de referencia: https://www.figma.com/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.figma.com/</td>
+        </tr>
+    </tbody>
+</table>
 
 **Software Development**
 
 La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
 
-Link de referencia: https://www.jetbrains.com/idea/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.jetbrains.com/idea/</td>
+        </tr>
+    </tbody>
+</table>
 
 HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
 
-Link de referencia: https://www.w3schools.com/html/html5_syntax.asp
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
+        </tr>
+    </tbody>
+</table>
 
 CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
 
-Link de referencia: https://www.w3schools.com/css/css_intro.asp
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.w3schools.com/css/css_intro.asp</td>
+        </tr>
+    </tbody>
+</table>
 
 Lenguaje empleado en la implementación del proyecto es TypeScript:
 
-Link de referencia: https://www.typescriptlang.org/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.typescriptlang.org/</td>
+        </tr>
+    </tbody>
+</table>
 
-Framework de JavaScript Angular para el diseño (Frontend)
+Framework de JavaScript Angular para el diseño (Frontend):
 
-Link de referencia: https://angular.io/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://angular.io/</td>
+        </tr>
+    </tbody>
+</table>
 
 **Software Testing**
 
 Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
 
-Link de referencia: https://cucumber.io/docs/gherkin/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://cucumber.io/docs/gherkin/</td>
+        </tr>
+    </tbody>
+</table>
 
 **Software Deployment**
 
 Se ha utilizado Github para desplegar la landing page con Github Pages:
 
-Link de referencia: https://pages.github.com/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://pages.github.com/</td>
+        </tr>
+    </tbody>
+</table>
 
 **Software Documentation**
 
 Se ha utilizado Github para alojar los distintos repositorios creados por los miembros del equipo para la colaboración en tiempo real mientras se codifican distintas áreas del proyecto.
 
-Link de referencia: https://github.com/
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://github.com/</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
 
