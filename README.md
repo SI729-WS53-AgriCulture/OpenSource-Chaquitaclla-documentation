@@ -15,7 +15,7 @@ width=50%"/>
 | Nombre |Código de alumno|
 |:-------:|:----------:|
 |Guillen Luna, Paolo César|U202124343|
-|||
+|Llamo Sánchez, Amner Levi|U20221C376|
 |Quispe Tipo, Godofredo|U202120772|
 |Rivas Sarango, David Alejandro|U20191E831|
 |||
@@ -138,7 +138,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 | :--------:| :--------: |
 |Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
 |Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. ||
-|||
+|Mi nombre es **Amner Levi Llamo Sánchez**, soy estudiante del quinto ciclo de ingeniería de software en la UPC. Me gusta jugar fútbol y videojuegos, por eso estoy constantemente investigando sobre nuevas tecnologías. Soy responsable con los trabajos que se me asignan; además soy tolerante y me adapto a las circunstancias del equipo.||
 |Mi nombre es **David Alejandro Rivas Sarango**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.||
 |Mi nombre es **Diego André Cantoral Paredes** y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros. |<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/diegoPhoto.PNG>|
 
