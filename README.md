@@ -637,7 +637,7 @@ Link de referencia: https://github.com/
     </tbody>
 </table>
 
-Flujo de trabajo GitFlow
+**Flujo de trabajo GitFlow**
 
 <img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
 
@@ -650,11 +650,11 @@ Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git
  * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
    
 Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
-* Main branch: Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
-* Hotfix branch: En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
-* Release branch: Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
-* Develop branch: Esta rama está destinada a las constantes implementaciones en caliente de los features, 
-* Features branch: Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
+* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
@@ -662,14 +662,14 @@ Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
-HTML: 
+**HTML:**
 * Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
 * Utilizar UTF-8.
 * Redacción en inglés.
 * En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
 * Terminar cada etiqueta con />.
     
-CSS:
+**CSS:**
 * Width del body al 100%.
 * En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
 * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
