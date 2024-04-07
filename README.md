@@ -639,14 +639,14 @@ Link de referencia: https://github.com/
 
 Flujo de trabajo GitFlow
 
-<img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo de Gitflow"/>
+<img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
 
 Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
  * Una rama de producción.
  * Una rama de pruebas.
  * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
  * Ramas de features a implementar.
- * Cada cambio debe verse como una nueva versión.
+ * Cada cambio en producción debe establecerse como una nueva versión.
  * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
    
 Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
@@ -656,9 +656,24 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 * Develop branch: Esta rama está destinada a las constantes implementaciones en caliente de los features, 
 * Features branch: Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
+Con cada deployment de la aplicación debe establecerse como una nueva versión.
+
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
 
+Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
+HTML: 
+    * Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
+    * Utilizar UTF-8.
+    * Redacción en inglés.
+    * En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+    * Terminar cada etiqueta con />.
+CSS:
+    * Width del body al 100%.
+    * En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
+    * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
+    * Separación de palabras con un guion "-".
+    * Margin y padding en "*" con valor de 0.
 
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
@@ -669,9 +684,6 @@ Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardam
 
 Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL: 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/c852bb62-18d3-409e-8b7c-ac3c47a2498e)
-
-
-
 
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
