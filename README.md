@@ -563,11 +563,11 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 |US08|Editar perfil de usuario |**Como** usuario registrado en la aplicación, **Quiero** poder editar mi perfil **Para** mantener actualizada mi información personal.|||
 
 
-**Test Scenarios**
+**Technical Stories**
 
-|User Story ID | Título | Descripción | Criterios de aceptación |
+|Technical Story ID | Título | Descripción | Criterios de aceptación |
 |-|-|:-:|:-:|
-|US01||**Como**  **Quiero**  **Para** ||
+|TS01||**Como**  **Quiero**  **Para** ||
 
 
 
