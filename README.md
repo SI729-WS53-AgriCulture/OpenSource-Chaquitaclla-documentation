@@ -497,12 +497,12 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 ||Daniel Valverde es un jardinero aficionado que cuenta con un pequeño huerto en el ático de su casa y que en sus tiempos libres cuida de sus cultivos. No cuenta con herramientas tecnológicas o físicas tan sofisticadas o de gran uso, bastándose de una libreta para sus registros y de simples macetas para sus cultivos. Estaría muy dispuesto de contar con una aplicación que le ayuda profesionalizar un poco más los sembríos que tiene y manejar de manera más inteligente sus registros.|
 |Duración entrevista: 6:52 minutos |URL: [https://youtu.be/_FHir31Rt3Y]|
 
-|Nombre entrevistado||
+|Nombre entrevistado|Noe Sánchez|
 |-|-|
-|Edad||
+|Edad| 24 años|
 |Departamento|Lima|
-|||
-|Duración entrevista:   ||
+||Noe es un joven limeño de 24 años apasionado por la agricultura urbana, que reside en Lima. Cultiva en su hogar principalmente para tener acceso a alimentos frescos y saludables, y disfruta cada etapa del proceso, desde sembrar las semillas hasta cosechar los frutos de su esfuerzo. A pesar de su amor por la agricultura, Noe admite que a veces se enfrenta a dificultades debido a la falta de herramientas tecnológicas para gestionar sus cultivos. Esta carencia ocasionalmente resulta en olvidos o confusiones sobre los insumos necesarios para cada tipo de planta. Para monitorear el estado de sus cultivos, Noe confía en métodos tradicionales como la inspección visual de las hojas y los tallos, así como la evaluación de la humedad del suelo. Sin embargo, reconoce la importancia de la tecnología en la gestión agrícola y está dispuesto a invertir en herramientas digitales que puedan mejorar su eficiencia y aumentar la productividad de sus cultivos en el futuro.|
+|Duración entrevista:  6 minutos |URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c376_upc_edu_pe/ETHX5fDWdptGi58hu9OR81oBVrKiTrjFId8kA5bOvgNC9w?e=cJ4axY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]|
 
 |Nombre entrevistado||
 |-|-|
