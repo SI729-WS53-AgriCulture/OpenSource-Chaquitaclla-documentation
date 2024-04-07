@@ -637,9 +637,27 @@ Link de referencia: https://github.com/
     </tbody>
 </table>
 
+Flujo de trabajo GitFlow
 
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
+ * Una rama de producción.
+ * Una rama de pruebas.
+ * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+ * Ramas de features a implementar.
+ * Cada cambio debe verse como una nueva versión.
+ * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
+   
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+* Main branch: Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* Hotfix branch: En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+* Release branch: Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+* Develop branch: Esta rama está destinada a las constantes implementaciones en caliente de los features, 
+* Features branch: Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
+
+
+
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
 Ademáas de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github.
