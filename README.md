@@ -519,6 +519,11 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
     nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
 
 
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Agricultores.png">
+IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Jardineros.png">
+IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.
+
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527
