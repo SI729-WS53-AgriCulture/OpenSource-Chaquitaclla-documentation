@@ -518,6 +518,26 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
     <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
     nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
 
+    
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4></div>
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4></div>
+
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+
+   <p>En esta sección se presentan los escenarios actuales de los usuarios, teniendo en cuenta los segmentos de AGRICULTORES y JARDINEROS. A continuación se presentan los escenarios actuales de los usuarios con el artefacto de As-is.</p>
+    <img src=>
+  <p>La imagen nos muestra las fases que tiene nuestro agriculto antes de la solución, lo que hace, piensa y siente.</p>
+  
+  <img src=>
+  <p>La imagen nos muestra las fases que tiene nuestro jardinero antes de la solución, lo que hace, piensa y siente.</p>
+
+
+
+  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+
 
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Agricultores.png">
 IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.
