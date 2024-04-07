@@ -556,7 +556,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 |:---:|:---:|
 |SaaS|<>|
 
-Project Management
+**Project Management**
 
 Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
 
@@ -566,19 +566,19 @@ Para la organizacion del proyecto necesitabamos una planificación en cuanto a t
     
     Reuniones con el equipo: Google Meet
     
-Requirements Management
+**Requirements Management**
 
 Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Figma:
 
 Link de referencia: https://www.trello.com/
 
-Product UX/UI Design
+**Product UX/UI Design**
 
 Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma
 
 Link de referencia: https://www.figma.com/
 
-Software Development
+**Software Development**
 
 La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
 
@@ -600,19 +600,19 @@ Framework de JavaScript Angular para el diseño (Frontend)
 
 Link de referencia: https://angular.io/
 
-Software Testing
+**Software Testing**
 
 Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
 
 Link de referencia: https://cucumber.io/docs/gherkin/
 
-Software Deployment
+**Software Deployment**
 
 Se ha utilizado Github para desplegar la landing page con Github Pages:
 
 Link de referencia: https://pages.github.com/
 
-Software Documentation
+**Software Documentation**
 
 Se ha utilizado Github para alojar los distintos repositorios creados por los miembros del equipo para la colaboración en tiempo real mientras se codifican distintas áreas del proyecto.
 
@@ -663,17 +663,18 @@ Con cada deployment de la aplicación debe establecerse como una nueva versión.
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
 HTML: 
-    * Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
-    * Utilizar UTF-8.
-    * Redacción en inglés.
-    * En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
-    * Terminar cada etiqueta con />.
+* Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
+* Utilizar UTF-8.
+* Redacción en inglés.
+* En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+* Terminar cada etiqueta con />.
+    
 CSS:
-    * Width del body al 100%.
-    * En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
-    * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
-    * Separación de palabras con un guion "-".
-    * Margin y padding en "*" con valor de 0.
+* Width del body al 100%.
+* En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
+* Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
+* Separación de palabras con un guion "-".
+* Margin y padding en "*" con valor de 0.
 
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
