@@ -638,7 +638,7 @@ Link de referencia: https://github.com/
 </table>
 
 Flujo de trabajo GitFlow
-
+![image](https://nvie.com/img/git-model@2x.png)
 Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
  * Una rama de producción.
  * Una rama de pruebas.
