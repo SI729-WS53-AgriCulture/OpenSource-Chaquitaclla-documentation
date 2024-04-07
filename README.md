@@ -554,13 +554,118 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 
 |User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
 |-|-|:-|:-|:-|
-|US01||**Como**  **Quiero**  **Para** |||
+|US01|Registrarme como cliente|Como cliente deseo registrarme como usuario utilizando los servicios que brinda la aplicación web con mis datos personales para acceder a las funciones exclusivas de mi suscripción |Escenario 1: El cliente se registró exitosamente -Dado que el cliente completó el registro en el aplicativo Cuando este inicie sesión correctamente con su usuario y contraseña -Entonces el aplicativo muestra los diversos servicios y demás información sobre ellos|Datos del usuario|
 
-**Test Scenarios**
+**User Stories**
 
-|User Story ID | Título | Descripción | Criterios de aceptación |
-|-|-|:-:|:-:|
-|US01||**Como**  **Quiero**  **Para** ||
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US02|Buscar los servicios que deseo utilizar|Como cliente quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio|Escenario 1: Cliente busca el servicio de gestión-Dado que el usuario desea utilizar el servicio de gestión-Cuando lo encuentra dentro de los servicios brindados-Entonces lo selecciona y buscara la gestión de su huerto o la sección de esta especificando cual es esa sección de huerto y el estado de esta en la que se debería de encontrar.
+|Busqueda|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US03|Comparar progresos o estado de un mismo producto y seleccionarlo|Como cliente buscare la mejor opción según las necesidades que tenga y elegiré según el progreso o el estado del producto según me convenga |Escenario 1: Cliente busca el servicio de progreso-Dado que el cliente desee utilizar el servicio de progreso del huerto-Cuando este se encuentre dentro de la aplicación-Entonces se deberá de dirigir a este servicio y seleccionar los productos a comparar
+|Comparar estado y progreso|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US04|Comparar el producto ya antes elegido para buscarlo entre el historial de progresos que tuvo ese producto tiempo atrás|Como cliente deseo tener mi producto ya seleccionado y especificado para buscarlo y compararlo con otros productos similares de otros huertos o del mismo con fechas o historial de estas.  |Escenario 1: Cliente ingresa el producto elegido-Dado que el cliente ingresa su producto en especifico-Cuando ya lo haya elegido y presionado un clic-Entonces el cliente podrá visualizar una lista de producto con su estados o progresos de otros huertos o del mismo donde haya existido ese producto
+|Historial|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US05|Guardar un historial de productos finalizados y redirigirlo a la opción de comparar|Como cliente quiero guardar en un historial de búsqueda los productos que previamente he finalizado y buscarlo para poder compararlos con otros productos similares o simplemente tenerlo a la mano para una examinación profunda.|Escenario 1: Usuario accede a su historial de búsqueda -Dado que el cliente desee buscar un producto-Cuando anteriormente lo haya inicializado y finalizado-Entonces podrá dirigirse al menú de historial de búsqueda y encontrará su búsqueda ordenada de más reciente a menos reciente . 
+|Acceso al historial de cultivos finalizados|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US06|Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario.|Como cliente deseo que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto y así tener mas criterio de tomar decisiones |Escenario 1: Cliente mira la variación de estado -Dado que el cliente desee ver la variación del estado de un producto-Cuando desee supervisar el progreso en el estado de esta-Entonces podrá ver la variación del estado en un cierto tiempo y podrá ver si es una buena o mala progresión del producto.
+|Estado del cultivo|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US07|Planificación de cultivos|Como usuario quiero contara con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto para facilitar la gestion del cultivo|Escenario 1: Cliente organiza su huerto-Dado que el cliente quiere un gestor que le ayude a gestionar su huerto-Cuando este ya tenga el cultivo(s) listos para su siembra-Entonces el usuario subirá el cultivo en el gestor y podrá acceder una variedad de herramientas que le ayuden a sobrellevarlo.
+|Planificador|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US08|Contar con un sistema de recompensas y logros |Como usuario quiero recibir reconocimiento con diferentes cosas que voy logrando, como plantar nuevos cultivos , mantenimiento de más tiempo de un huerto entre otros para tener una mejor experiencia en la web|Escenario 1: Cliente decide plantar un nuevo cultivo que no conoce-Dado que el cliente va a plantar un nuevo cultivo-Cuando quiera salir de su rutina diaria de cultivos que ya conoce-Entonces el cliente registra este nuevo cultivo y la web le mostrara una recompensa o logro por cultivar algo nuevo en su huerto
+|Recompensa y logro|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US09|Compatibilidad con otros dispositivos |Como usuario quiero gestionar el huerto desde cualquier dispositivo para realizarlo en cualquier lugar y cuando quiera |Escenario 1: El usuario quiere actualizar su huerto desde su celular-Dado que el usuario desea utilizar la web desde su celular -Cuando este en otro lugar donde no tenga acceso a una laptop o computadora-Entonces el navegador le mostrar la web para acceder a actualizar los datos del huerto del usuario 
+|Compatibilidad|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US10|Integración con redes sociales |Como usuario quiero compartir fotos , consejos y logro de mi huerto con amigos o familiares en las redes sociales para que vean mis logros con el cultivo|Escenario 1: El usuario quiere compartir lo que a logrado con su huerto o cultivo-Dado que usuario quiere compartir sus logros-Cuando finalice un cultivo-Entonces se dirigirá a la opción de compartir en redes y seleccionara la red social en la cual quiera compartir su logro u otro
+|Compartir|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US11|Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios para que me ayude con mi cultivo |Escenario 1: El usuario quiere recibir consejos de otros usuarios-Dado que el usuario quiere tener más información-Cuando ingrese al foro general o de su comunidad-Entonces recopilará toda información que le sea útil para su huerto 
+|Chat|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US12|Asistente virtual de jardinería|Como usuario quiero recibir recomendaciones haciendo preguntas y que estas se respondan de inmediato para no perder tiempo buscando información ni esperando a que respondan |Escenario 1: El usuario tiene dudas que debe resolverse de inmediato-Dado que el usuario tiene dudas-Cuando no conoce sobre el cuidado de una planta nueva-Entonces podrá acceder a un chat virtual el cual le responderá de manera inmediata sus dudas e incluso podría brindarle información según las pregustan que haga
+|chat virtual|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US13|Mercado de intercambio de productos|Como usuario quiero ingresar a una sección donde pueda intercambiar , vender o comprar semillas, plantas o herramientas para poder generar ingresos o obtener lo que quiere de manera más rápida|Escenario 1: El usuario quiere obtener una nueva planta-Dado que el usuario quiere cultivar una nueva planta en su huerto-Cuando decide cambiar de rutina-Entonces ingresara el mercado de la web y buscar lo que desea en esta
+|MiniMercado|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US14|Videos educativos|Como usuario quiero poder visualizar los tutoriales para poder realizarlos de manera más eficiente  |Escenario 1: El usuario no comprende como inicializar con la tutoría-Dado que el usuario ve el tutorial-Cuando no sabe por dónde comenzar-Entonces puede hacer clic en la sección de video y ver como se realiza dicho tutorial
+|Videos|
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US15||**Como**  **Quiero**  **Para** |||
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US16||**Como**  **Quiero**  **Para** |||
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US17||**Como**  **Quiero**  **Para** |||
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US18||**Como**  **Quiero**  **Para** |||
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US19||**Como**  **Quiero**  **Para** |||
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US120||**Como**  **Quiero**  **Para** |||
+
+
 
 
 
