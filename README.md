@@ -554,11 +554,13 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 |User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
 |-|-|:-|:-|:-|
 |US01|Registro inicial de cultivos|**Como** agricultor, **Quiero** poder registrar nuevos cultivos **Para** llevar un seguimiento detallado de cada uno de ellos. |||
-|US02|Visualización de Registros|**Como** agricultor, **Quiero** poder visualizar mis registros de cultivos **Para** evaluar su evolución.|||
-|US03|Editar registro de cultivo|**Como** agricultor, **Quiero** poder editar mis registros de cultivos **Para** corregir errores.|||
-|US04|Eliminar registro de cultivo|**Como** agricultor, **Quiero** poder eliminar mis registros de cultivos **Para** mantener los registros relevantes.|||
-|US05|Ver perfil de usuario|**Como** usuario registrado en la aplicación web, **Quiero** poder ver mi perfil **Para** acceder a información relevante sobre mi cuenta.|||
-|US06|Editar perfil de usuario |**Como** usuario registrado, **Quiero** poder editar mi perfil **Para** mantener actualizada mi información personal.|||
+|US02|Visualización de Registros|**Como** usuario, **Quiero** poder visualizar mis registros de cultivos **Para** evaluar su evolución.|||
+|US03|Editar registro de cultivo|**Como** usuario, **Quiero** poder editar mis registros de cultivos **Para** corregir errores.|||
+|US04|Eliminar registro de cultivo|**Como** usuario, **Quiero** poder eliminar mis registros de cultivos **Para** mantener los registros relevantes.|||
+|US05|Generación de informes|**Como** usuario, **Quiero** poder generar informes basados en los datos registrados y visualizarlos **Para** tomar decisiones fundamentadas.|||
+|US06|Notificaciones sobre cosecha y cambios en fase fenológica de cultivos|**Como** usuario, **Quiero** recibir notificaciones y avisos cuando un cultivo se esté acercando a la cosecha o cuando su fase fenológica esté por cambiar, **Para** que pueda prepararme con los recursos necesarios de manera oportuna.|||
+|US07|Ver perfil de usuario|**Como** usuario registrado en la aplicación web, **Quiero** poder ver mi perfil **Para** acceder a información relevante sobre mi cuenta.|||
+|US08|Editar perfil de usuario |**Como** usuario registrado, **Quiero** poder editar mi perfil **Para** mantener actualizada mi información personal.|||
 
 
 **Test Scenarios**
