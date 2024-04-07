@@ -518,7 +518,11 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
     <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
     nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
 
-    
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Agricultores.png">
+IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Jardineros.png">
+IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.
+
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4></div>
@@ -534,15 +538,10 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
   <img src=>
   <p>La imagen nos muestra las fases que tiene nuestro jardinero antes de la solución, lo que hace, piensa y siente.</p>
 
-
-
   <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
 
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Agricultores.png">
-IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Jardineros.png">
-IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.
+
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
