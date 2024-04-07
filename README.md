@@ -555,6 +555,10 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 |-|-|:-|:-|:-|
 |US01|Registro inicial de cultivos|**Como** agricultor, **Quiero** poder registrar nuevos cultivos **Para** llevar un seguimiento detallado de cada uno de ellos. |||
 |US02|Visualización de Registros|**Como** agricultor, **Quiero** poder visualizar mis registros de cultivos **Para** evaluar su evolución.|||
+|US03|Editar registro de cultivo|**Como** agricultor, **Quiero** poder editar mis registros de cultivos **Para** corregir errores .|||
+|US04|Eliminar registro de cultivo|**Como** agricultor, **Quiero** poder eliminar mis registros de cultivos **Para** mantener los registros relevantes.|||
+
+
 **Test Scenarios**
 
 |User Story ID | Título | Descripción | Criterios de aceptación |
