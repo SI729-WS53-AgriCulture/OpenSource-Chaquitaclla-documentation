@@ -565,12 +565,10 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 Dado que el usuario desea registrar una nueva siembra
 Cuando ingrese los detalles del cultivo, incluyendo el tipo de cultivo, fecha, área sembrada y confirme su intención
 Entonces el id y fecha de creación del cultivo será almacenada en la base de datos de la aplicación
-
 Escenario 2: Cancelación del registro de cultivo
 Dado que el usuario haya intentado registrar un nuevo cultivo
 Cuando cancele la operación antes de confirmarla
 Entonces el sistema revertirá la operación y cancelará el registro del nuevo cultivo
-
 Escenario 3: Sistema impide el registro de un nuevo cultivo debido a un error.
 Dado que el usuario intente registrar una nueva siembra
 Cuando el sistema encuentre un error que impida el registro del cultivo
@@ -580,12 +578,10 @@ Entonces el sistema cancelará la operación e indicará el error al agricultor
 Dado que el usuario desea evaluar la evolución de sus cultivos 
 Cuando acceda a la sección de registros de cultivos
 Entonces se mostrará una lista de todos los cultivos previamente registrados por el usuario
-
 Escenario 2: No existen registros de cultivos. 
 Dado que el usuario acceda a la sección de registros de cultivos 
 Cuando el usuario no tenga ningún cultivo registrado previamente 
 Entonces se mostrará un mensaje indicando que no hay registros de cultivos disponibles
-
 Escenario 3: Error al intentar visualizar sus registros de cultivos. 
 Dado que el usuario intenta acceder a la sección de registros de cultivos 
 Cuando el sistema encuentre un error durante la recuperación o visualización de los registros de cultivos 
