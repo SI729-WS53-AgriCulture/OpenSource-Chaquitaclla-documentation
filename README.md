@@ -512,7 +512,15 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |Duración entrevista:   ||
 
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
-  
+
+  **Análisis del segmento de agricultores profesionales**
+
+De todos los entrevistados de este segmento vemos que el 100% ha tenido la agricultura como su ocupación principal, mencionan que la agricultura desde que empezaron ha cambiado mucho, entre esos cambios, el más significativo es como la tecnología ha ayudado a aprovechar ciertos procesos en los cuales ahora se pueden ahorrar recursos. Cuando a los entrevistados se les pregunta si han logrado trabajar con una herramienta digital, mencionan que normalmente este tipo de herramientas son las que suelen contar las empresas y que no estan a su alcance de su bolsillo. El 66% de los entrevistados mencionan en caso necesiten resolver  dudas sobre algunos temas, no solo recurren a la experiencia obtenida a lo largo de los años sino que usan navegadores como "Google" para solucionar sus consultas;sin embargo, mencionan que a veces la información brindada resulta perjudicial y terminan perdiendo recursos económicos. Finalmente, el 100% de los entrevistados mencionan que el hecho de que pueda existir una aplicación gestión enfocada en sus cultivos que cuente con características como mayor accesibilidad, una interfaz intuitiva y que les brinde la confianza que buscan para la calidad de sus cultivos, ellos estarían dispuestos a adoptar esta herramienta digital, después de todo, en sus propias palabras dicen que su objetivo principal como agricultores profesionales es sobresalir en el mercado con los mejores productos de calidad.
+
+**Análisis del segmento de jardineros en casa**
+
+De todos los entrevistados de este segmento, el 66% principalmente la hacen como hobby puesto que al tener un huerto pequeño no le tienen que dedicar tanto tiempo. Sin embargo el 33% restante menciona que el principal motivo de que empezó un huerto en su hogar es con el fin de obtener alimentos que sabe que son 100% frescos y saludables puesto que el lo ha cultivado. Del 100% de los entrevistados, el uso de herramientas digitales lo verían de buen uso siempre y cuando esta herramienta les asegure que su producto tendrá mejor calidad si sigue sus recomendaciones. El 66% de los entrevistados ha utilizado como mínimo una libreta digital para anotar los registros sus cultivos, sin embargo, mencionan que a veces se olvidaban de seguir estos registros lo que resultaba en un crecimiento inadecuado de sus cultivos. Finalmente, al ser aficionados estos desconocen a ciencia exacta que son los procesos fenológicos de un cultivo, esta información es valiosa, puesto que nos da a entender que nuestra aplicación web debe ser lo más sencilla y con un vocabulario simple. 
+
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
     <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
     <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
