@@ -553,8 +553,8 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 
 |User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
 |-|-|:-|:-|:-|
-|US01||**Como**  **Quiero**  **Para** |||
-
+|US01|Registro inicial de cultivos|**Como** agricultor, **Quiero** poder registrar nuevos cultivos **Para** llevar un seguimiento detallado de cada uno de ellos. |||
+|US02|Visualización de Registros|**Como** agricultor, **Quiero** poder visualizar mis registros de cultivos **Para** evaluar su evolución.|||
 **Test Scenarios**
 
 |User Story ID | Título | Descripción | Criterios de aceptación |
