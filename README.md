@@ -569,7 +569,18 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 |US06|Notificaciones sobre cosecha y cambios en fase fenológica de cultivos|**Como** usuario de la aplicación, **Quiero** recibir notificaciones y avisos cuando un cultivo se esté acercando a la cosecha o cuando su fase fenológica esté por cambiar, **Para** que pueda prepararme con los recursos necesarios de manera oportuna.|<p>**Escenario 1: Usuario recibe notificación sobre la proximidad de la cosecha.**<br>**Dado** que el usuario ha registrado un cultivo en la aplicación<br>**Cuando** el cultivo se acerca a su período de cosecha según los datos registrados y el sistema detecta esta situación<br>**Entonces** el sistema enviará una notificación al usuario, informándole sobre la proximidad de la cosecha y recordándole que prepare los recursos necesarios para este evento.<br>**Escenario 2: Usuario recibe notificación sobre cambio de fase fenológica del cultivo.**<br>**Dado** que el usuario ha registrado un cultivo en la aplicación<br>**Cuando** el cultivo se acerca a un cambio de fase fenológica significativo y el sistema detecta esta situación<br>**Entonces** el sistema enviará una notificación al usuario, indicándole el cambio próximo en la fase fenológica del cultivo y sugiriendo las acciones necesarias para prepararse adecuadamente</p>||
 |US07|Ver perfil de usuario|**Como** usuario registrado en la aplicación, **Quiero** poder ver mi perfil **Para** acceder a información relevante sobre mi cuenta.|<p>**Escenario 1: Usuario accede a su perfil satisfactoriamente.**<br>**Dado** que el usuario desea ver la información de su perfil<br>**Cuando** ingrese al su perfil de usuario<br>**Entonces** se mostrará la información relevante del usuario</p>||
 |US08|Editar perfil de usuario |**Como** usuario registrado en la aplicación, **Quiero** poder editar mi perfil **Para** mantener actualizada mi información personal.|<p>**Escenario 1: Usuario edita su perfil satisfactoriamente.**<br>**Dado** que el usuario registrado desea actualizar su información personal<br>**Cuando** el usuario realiza los cambios necesarios y confirma su intención de guardar los cambios<<br>**Entonces** la información actualizada se guarda correctamente en la base de datos y se refleja en el perfil del usuario.</p>||
-
+|US09|||||
+|US10|||||
+|US11|||||
+|US12|||||
+|US13|||||
+|US14|||||
+|US15|||||
+|US16|||||
+|US17|||||
+|US18|||||
+|US19|||||
+|US20|||||
 
 **Technical Stories**
 
