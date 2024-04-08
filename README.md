@@ -654,11 +654,18 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+
+La solución Chaquitaclla está diseñada para ofrecer a agricultores de todos los niveles una herramienta de gestión de cultivos que sea tanto fácil de usar como ágil. La información se organiza de manera secuencial, permitiendo a los usuarios seguir el progreso de sus cultivos a través de distintas etapas dentro de la aplicación web. A través del "Panel de Control", los usuarios tienen acceso a una visión general de las funcionalidades, lo que ayuda a distinguir claramente entre el registro de procesos. Este enfoque asegura que los agricultores puedan emplear la herramienta de manera eficiente en sus labores cotidianas, mejorando así la administración de sus cultivos.
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+En Chaquitaclla, los encabezados en las secciones no esenciales de la aplicación proporcionan un resumen claro del contenido de la vista actual para los usuarios. Las secciones del panel de control están etiquetadas, lo que facilita la navegación del usuario. Todas las tarjetas incluyen títulos para identificar su contenido, y la barra de navegación muestra etiquetas textuales para las vistas principales. Este enfoque en la etiquetación asegura que tanto agricultores principiantes como experimentados puedan utilizar la herramienta de manera eficiente en sus labores agrícolas.
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+Las secciones del panel de control están etiquetadas, lo que facilita la navegación del usuario. Además, todas las tarjetas incluyen títulos para identificar su contenido, y la barra de navegación muestra etiquetas textuales para las vistas principales. Ademas, los encabezados en las secciones no esenciales de la aplicación proporcionan un resumen claro del contenido de la vista actual para los usuarios. Este enfoque en la etiquetación asegura que tanto agricultores principiantes como experimentados puedan utilizar la herramienta de manera eficiente en sus labores agrícolas.
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+La funcionalidad de búsqueda desempeña un papel crucial al facilitar a los usuarios la distinción y filtrado de la información de los registros almacenados en la aplicación. El principal propósito del sistema es presentar de manera precisa y rápida la amplia cantidad de información producida por los usuarios que emplean la herramienta. Los usuarios tienen la capacidad de buscar cultivos registrados según su fecha de ingreso y la fase en la que se encuentran
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+Los sistemas de navegación comprenden menús de navegación en la parte superior de la Landing Page, además de un sistema de labeling que orienta a los usuarios hacia las secciones que desean visitar. Dentro de la aplicación, los usuarios atraviesan el proceso de cultivo por diferentes secciones, utilizando botones que simplifican la navegación y permiten seguir el progreso. Esta disposición asegura una experiencia de usuario eficiente y sin contratiempos, beneficiando tanto a agricultores principiantes como a profesionales.
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
