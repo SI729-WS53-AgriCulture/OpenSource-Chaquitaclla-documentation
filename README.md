@@ -928,7 +928,7 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
             <td>Github</td>
         </tr>
     </tbody>
-    
+</table>
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
