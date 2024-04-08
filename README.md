@@ -674,13 +674,13 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 ***Colores:***
 Los colores son lo primero que el usuario percibe al entrar a cualquier aplicación y estos tienen un efecto en en la percepción que el producto da a los usuario. Por esta razón, a partir de los principios de la psicología del color, colores como el verde y marrón son los que hemos elegido para ser implementados como los colores insignia de la plataforma. Ambos pigmentos tienen una relación con la agricultura y brinda esa familiaridad a nuestros usuarios. En lo que respecta a los wireframes, se trabajaron con tonos de gris para formular una vista preliminar de como debería estar estructurada la página web y aplicación.
 
-<img src=>
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/Colores.png>
 
 ***Tipografía:***
 
 Escoger la tipografía adecuada puede ser un problema, esta no debe ser invasiva y debe ser coherente para el usuario, puesto que es lo que va a estar presente todo el tiempo para este. Siendo uno de nuestros objetivos que la aplicación tenga un estilo minimalista, el tipo de letra "Poppins" fue lo más indicado, en estilos Medium, Regular, SemiBold y Bold. 
 
-<img src=>
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/Tipografia.png>
 
 
 **Spacing:**
