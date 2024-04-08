@@ -570,17 +570,17 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 |US07|Ver perfil de usuario|**Como** usuario registrado en la aplicación, **Quiero** poder ver mi perfil **Para** acceder a información relevante sobre mi cuenta.|<p>**Escenario 1: Usuario accede a su perfil satisfactoriamente.**<br>**Dado** que el usuario desea ver la información de su perfil<br>**Cuando** ingrese al su perfil de usuario<br>**Entonces** se mostrará la información relevante del usuario</p>||
 |US08|Editar perfil de usuario |**Como** usuario registrado en la aplicación, **Quiero** poder editar mi perfil **Para** mantener actualizada mi información personal.|<p>**Escenario 1: Usuario edita su perfil satisfactoriamente.**<br>**Dado** que el usuario registrado desea actualizar su información personal<br>**Cuando** el usuario realiza los cambios necesarios y confirma su intención de guardar los cambios<<br>**Entonces** la información actualizada se guarda correctamente en la base de datos y se refleja en el perfil del usuario.</p>||
 |US09|**Registrarme como cliente**|**Como** cliente **quiero** registrarme como usuario **para** utilizar los servicios que brinda la aplicación web con mis datos personales para acceder a las funciones exclusivas de mi suscripción.|<p>**Escenario 1**: El cliente se registró exitosamente<br>**Dado** que el cliente completó el registro en el aplicativo<br>**Cuando** este inicie sesión correctamente con su usuario y contraseña<br>**Entonces** el aplicativo muestra los diversos servicios y demás información sobre ellos</p>|**Registrar Usuario**|
-|US10|**Buscar los servicios que deseo utilizar**|**Como** cliente **quiero** buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio **para** aceder a las funciones d emnera mas rapida|**Escenario 1:** Cliente busca el servicio de gestión **Dado** que el usuario desea utilizar el servicio de gestión **Cuando** lo encuentra dentro de los servicios brindados **Entonces** lo selecciona y buscara la gestión de su huerto o la sección de esta especificando cual es esa sección de huerto y el estado de esta en la que se debería de encontrar.|**Búsqueda**|
-|US11|||||
-|US12|||||
-|US13|||||
-|US14|||||
-|US15|||||
-|US16|||||
-|US17|||||
-|US18|||||
-|US19|||||
-|US20|||||
+|US10|**Buscar los servicios que deseo utilizar**|**Como** cliente **quiero** buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio **para** aceder a las funciones d emnera mas rapida|<p>**Escenario 1:** Cliente busca el servicio de gestión<br>**Dado** que el usuario desea utilizar el servicio de gestión<br>**Cuando** lo encuentra dentro de los servicios brindados<br>**Entonces** lo selecciona y buscara la gestión de su huerto o la sección de esta especificando cual es esa sección de huerto y el estado de esta en la que se debería de encontrar.</p>|**Búsqueda**|
+|US11|**Comparar progresos o estado de un mismo producto y seleccionarlo**|**Como** cliente **quiero** buscar la mejor opción según las necesidades que tenga y elegiré según el progreso o el estado del producto según me convenga **para** tomar menores decisiones|<p>**Escenario 1: Cliente busca el servicio de progreso**<br>**Dado** que el cliente desee utilizar el servicio de progreso del huerto<br>**Cuando** este se encuentre dentro de la aplicación<br>**Entonces** se deberá de dirigir a este servicio y seleccionar los productos a comparar</p>|**Comparar**|
+|US12|**Comparar el producto ya antes elegido para buscarlo entre el historial de progresos que tuvo ese producto tiempo atrás**|**Como** cliente **quiero** tener mi producto ya seleccionado y especificado para buscarlo y compararlo con otros productos similares de otros huertos o del mismo con fechas o historial de estas **para** una evaluacion de esta con otra y ver como mejoara el huerto|<p>**Escenario 1: Cliente ingresa el producto elegido**<br>**Dado** que el cliente ingresa su producto en especifico<br>**Cuando** ya lo haya elegido y presionado un clic<br>**Entonces** el cliente podrá visualizar una lista de producto con su estados o progresos de otros huertos o del mismo donde haya existido ese producto</p>||
+|US13|****||<p></p>||
+|US14|****||<p></p>||
+|US15|****||<p></p>||
+|US16|****||<p></p>||
+|US17|****||<p></p>||
+|US18|****||<p></p>||
+|US19|****||<p></p>||
+|US20|****||<p></p>||
 
 **Technical Stories**
 
