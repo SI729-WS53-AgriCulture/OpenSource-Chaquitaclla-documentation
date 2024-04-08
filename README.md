@@ -596,6 +596,8 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
+Un "style guideline", también conocido como guía de estilo, funciona como un manual que define las normas y criterios para la creación de diversos tipos de contenido, desde documentos escritos hasta interfaces de software.  Su objetivo es asegurar la coherencia y la profesionalidad en el trabajo creativo, proporcionando directrices específicas sobre la estructura, el diseño y la presentación del mismo.
+A continucción, se especificará los parametros implementados en el proyecto: 
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h34></div>
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h34></div>
 
