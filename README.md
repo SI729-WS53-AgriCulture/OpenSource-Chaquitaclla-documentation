@@ -911,7 +911,7 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
             <td>Sprint 1</td>
         </tr>
         <tr>
-            <td>Sprint Planning Background</td>
+            <td colspan="2">Sprint Planning Background</td>
         </tr>
     </thead>
     <tbody>
@@ -925,6 +925,37 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
         </tr>
         <tr>
             <td>Location</td>
+            <td>Github</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>08/04/2024</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>01:27 am</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Review Summary</td>
+            <td>Github</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Retrospective Summary</td>
+            <td>Github</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint n Goal</td>
+            <td>01:27 am</td>
+        </tr>
+        <tr>
+            <td>Sprint n Velocity</td>
+            <td>Github</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
             <td>Github</td>
         </tr>
     </tbody>
