@@ -593,6 +593,30 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
+| Orden  | User Story ID| Título|Descripción |Story Points|
+| ------------- |:--------:| ------------- |:-------------:|:-------------:|
+| 1      | US01    |Registro inicial de cultivos|Como usuario de la aplicación, Quiero poder registrar nuevos cultivos Para llevar un seguimiento detallado de cada uno de ellos.	|4||
+| 2      | US02     |Visualización de Registros|Como usuario de la aplicación, Quiero poder visualizar mis registros de cultivos Para evaluar su evolución. |5|	
+| 3      | US03    |Editar registro de cultivo|Como usuario de la aplicación, Quiero poder editar mis registros de cultivos Para corregir errores.|3|
+| 4      | US04    |Eliminar registro de cultivo|Como usuario de la aplicación, Quiero poder eliminar mis registros de cultivos Para mantener los registros relevantes. |1|	
+| 5      | US05   |Visualización de informes|Como usuario de la aplicación, Quiero poder generar informes basados en los datos registrados y visualizarlos Para tomar decisiones fundamentadas|2|
+| 6      | US06    |Notificaciones sobre cosecha y cambios en fase fenológica de cultivos|Como usuario de la aplicación, Quiero recibir notificaciones y avisos cuando un cultivo se esté acercando a la cosecha o cuando su fase fenológica esté por cambiar, Para que pueda prepararme con los recursos necesarios de manera oportuna.	|5|
+| 7      | US07    |Ver perfil de usuario|Como usuario registrado en la aplicación, Quiero poder ver mi perfil Para acceder a información relevante sobre mi cuenta.|2|
+| 8      | US08    |Editar perfil de usuario|Como usuario registrado en la aplicación, Quiero poder editar mi perfil Para mantener actualizada mi información personal. |1|
+| 9      | US09   |Registrarme como cliente|Como cliente quiero registrarme como usuario para utilizar los servicios que brinda la aplicación web con mis datos personales para acceder a las funciones exclusivas de mi suscripción.	|3|
+| 10      |US10     |Buscar los servicios que deseo utilizar|Como cliente quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio para aceder a las funciones d emnera mas rapida	|3|
+| 11     | US11     |Comparar progresos o estado de un mismo producto y seleccionarlo|Como cliente quiero buscar la mejor opción según las necesidades que tenga y elegiré según el progreso o el estado del producto según me convenga para tomar menores decisiones	|1|
+| 12      | US12     |Comparar el producto ya antes elegido para buscarlo entre el historial de progresos que tuvo ese producto tiempo atrás|Como cliente quiero tener mi producto ya seleccionado y especificado para buscarlo y compararlo con otros productos similares de otros huertos o del mismo con fechas o historial de estas para una evaluacion de esta con otra y ver como mejoara el huerto	|2|
+| 13     | US13  |Guardar un historial de productos finalizados y redirigirlo a la opción de comparar|Como cliente quiero guardar en un historial de búsqueda los productos que previamente he finalizado y buscarlo para poder compararlos con otros productos similares o simplemente tenerlo a la mano para una examinación profunda.	|1|
+| 14      | US14     |Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario|Como cliente quiero que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto para así tener más criterio de tomar decisiones.	|5|
+| 15      | US15    |Planificación de cultivos|Como usuario quiero contar con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto para mejorar la productividad de mis cultivos	|3|
+| 16      | US16    |Contar con un sistema de recompensas y logros|Como usuario quiero recibir reconocimiento con diferentes cosas que voy logrando, como plantar nuevos cultivos , mantenimiento de más tiempo de un huerto entre otros para tener una mejor experiencia en la web y asu vez que sea reconozido mis esfuerzos	|1|
+| 17      | US17   |Compatibilidad con otros dispositivos|Como usuario quiero gestionar el huerto desde cualquier dispositivo para realizarlo en cualquier lugar y cuando quiera	|4|
+| 18      | US18    |Integración con redes sociales|Como usuario quiero compartir fotos , consejos y logro de mi huerto con amigos o familiares en las redes sociales para que vean mis logros con el cultivo	|1|
+| 19      | US19    |Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios para que me ayude con mi cultivo	|2|
+| 20      | US20    |Mercado de intercambio de productos|Como usuario quiero ingresar a una sección donde pueda intercambiar , vender o comprar semillas, plantas o herramientas para poder generar ingresos u obtener lo que quiere de manera más rápida	|1|
+
+
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
