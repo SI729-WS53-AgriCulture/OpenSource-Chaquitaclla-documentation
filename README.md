@@ -937,21 +937,21 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
         </tr>
         <tr>
             <td>Sprint n – 1 Review Summary</td>
-            <td>Github</td>
+            <td>Debido a que es el primer sprint, no hay reviews de un sprint anterior.</td>
         </tr>
         <tr>
             <td>Sprint n – 1 Retrospective Summary</td>
-            <td>Github</td>
+            <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
-            <td>Sprint n Goal</td>
-            <td>01:27 am</td>
+            <td>Sprint 1 Goal</td>
+            <td>Implementar dos pages del Software</td>
         </tr>
         <tr>
-            <td>Sprint n Velocity</td>
+            <td>Sprint 1 Velocity</td>
             <td>Github</td>
         </tr>
         <tr>
