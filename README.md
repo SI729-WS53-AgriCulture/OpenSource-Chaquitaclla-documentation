@@ -888,7 +888,13 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
 <div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
-<div id='5.2.1.3.'><h5> 5.2.1.3.Sprint Backlog 1</h5></div>
+<div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
+<div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
+<div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+<div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+<div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
