@@ -593,11 +593,37 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
+
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
-
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h34></div>
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h34></div>
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h34></div>
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h34></div>
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h34></div>
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h34></div>
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h34></div>
+
+<div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
+<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h34></div>
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h34></div>
+
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h34></div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h34></div>
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h34></div>
+
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h34></div>
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h34></div>
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h34></div>
+
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h34></div>
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
