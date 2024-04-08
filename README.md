@@ -917,23 +917,23 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
     <tbody>
         <tr>
             <td>Date</td>
-            <td>08/04/2024</td>
+            <td>18/03/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>01:27 am</td>
+            <td>00:00 am</td>
         </tr>
         <tr>
             <td>Location</td>
-            <td>Github</td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td>Prepared By</td>
-            <td>08/04/2024</td>
+            <td>David Alejandro Rivas Sarango</td>
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>01:27 am</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Tipo, Godofredo / Rivas Sarango, David Alejandro / Cantoral Paredes, Diego André</td>
         </tr>
         <tr>
             <td>Sprint n – 1 Review Summary</td>
