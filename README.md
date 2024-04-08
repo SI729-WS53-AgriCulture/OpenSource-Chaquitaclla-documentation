@@ -915,3 +915,6 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
+
+<div id='6.'><h2>Conclusiones</h2></div>
+<div id='7.'><h2>Anexos</h2></div>
