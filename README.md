@@ -506,10 +506,10 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 
 |Nombre entrevistado|Irene Sarango|
 |-|-|
-|Edad|50|
+|Edad|50 años|
 |Departamento|Lima|
-|||
-|Duración entrevista:   |3:26|
+||Irene Sarango es una señora de 50 años que reside en Lima. A ella le gusta tener muchas plantas en su casa porque le reconforta cuidarlas y considera que le da color a su casa. No posee herramientas que le permitan facilitar su hobbie, ella confía en su memoria para el cuidado de sus plantas, sabe como clasificar y cuidar cada tipo de planta que tiene y expresa que consideraría util tener una plataforma en la que se le pueda asesorar durante el ciclo de vida fenológico, además de poseer recordatorios diarios para una mejor atención en las plantas. |
+|Duración entrevista: 3:26 minutos |https://youtu.be/kIf4EAxtIow|
 
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
