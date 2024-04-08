@@ -602,6 +602,7 @@ A continucción, se especificará los parametros implementados en el proyecto:
 **Branding:**
 
 **Brand Overview:**
+
 Nuestra startup, AgriCulture , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
 
 Para lograrlo, hemos desarrollado una plataforma que organiza y simplifica la gestión de cultivos para nuestros usuarios. Cada cultivo se sigue a lo largo de su ciclo fenológico, y además, mantenemos registros históricos para determinar las temporadas óptimas de siembra y cosecha de diferentes insumos. Esto permite una trazabilidad efectiva y ayuda a nuestros usuarios a alcanzar sus metas a largo plazo.
@@ -612,37 +613,39 @@ En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, 
 
 **Visión:** ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en lo que respecta a la gestión agrícola en los próximos años por su accesibilidad y facilidad de uso. 
 Mientras que como startup, AgriCulture, busca ser reconocido como un equipo autosustentable y capaz de brindar soluciones innovadoras en el campo de la agricultura moderna.
-<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h34></div>
-<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h34></div>
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
-<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h34></div>
-<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h34></div>
-<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h34></div>
-<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h34></div>
-<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h34></div>
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
-<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h34></div>
-<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h34></div>
+<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
-<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h34></div>
-<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h34></div>
-<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h34></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 El  Domain Driven Design (DDD) es un enfoque de diseño de software que se centra en comprender y modelar el dominio de negocio de una aplicación. Se basa en la idea de que el éxito de un software radica en su capacidad para reflejar fielmente este dominio, utilizando un lenguaje común entre expertos y desarrolladores. A través del modelado del dominio y la separación de la lógica del dominio de la infraestructura técnica, este enfoque garantiza que el software sea más comprensible, adaptable y alineado con las necesidades del negocio.
-<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h34></div>
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 El Diagrama de Contexto es una representación visual de alto nivel del sistema de software ChaquiTaclla. Muestra las interacciones del sistema con entidades externas, como otros sistemas y usuarios.
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-SystemContext.png">
-<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h34></div>
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 El diagrama de contenedores ofrece una representación de alto nivel de cómo se relacionan entre sí las aplicaciones y las fuentes de datos que forman parte del sistema de software ChaquiTaclla durante su ejecución.
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-SystemContainer.png">
-<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h34></div>
-Los diagramas de componentes proporcionan una visión de las relaciones entre los principales componentes del sistema de software. Estos componentes describen la implementación detallada de los respectivos módulos del programa.<br>
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
+Los diagramas de componentes proporcionan una visión de las relaciones entre los principales componentes del sistema de software. Estos componentes describen la implementación detallada de los respectivos módulos del programa.
+
+**TB1** 
 **User Bounded Context**
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-Components-2.png">
 **Managment Crop Bounded Context**
@@ -651,7 +654,7 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
-<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h34></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
