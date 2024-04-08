@@ -662,7 +662,9 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landin Page Wireframe.png">
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing Page Mock-up.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
