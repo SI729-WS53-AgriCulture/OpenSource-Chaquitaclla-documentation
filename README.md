@@ -948,15 +948,15 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Implementar dos pages del Software</td>
+            <td>Diseñar e implementar una landing page, realizar el CRUD de cultivos.</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>Github</td>
+            <td>13</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>Github</td>
+            <td>13</td>
         </tr>
     </tbody>
 </table>
