@@ -1067,11 +1067,11 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
     <thead>
         <tr>
         <td>Sprint #:</td>
-        <td>Sprint 1</td>
+        <td colspan="7">Sprint 1</td>
         </tr>
         <tr>
-            <td>User Story</td>
-            <td>Work-Item / Task</td>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
         </tr>
         <tr>
             <td>ID</td>
@@ -1084,10 +1084,11 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
             <td>Status (To-Do/In-Process/To-Review/Done)</td>
         </tr>
     </thead>
+    <tbody>
         <tr>
             
         </tr>
-    <tbody></tbody>
+    </tbody>
     
 </table>
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
