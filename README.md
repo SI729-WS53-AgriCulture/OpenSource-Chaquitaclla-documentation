@@ -760,9 +760,53 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing Page Mock-up.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
+
+
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+
+**Iniciar sesión**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/LogIn.png">
+**Crear cuenta**
+**Elegir suscripción**
+**Pasarela de pagos**
+**Panel de control**
+**Lista de Cultivos**
+**Añadir Cultivo**
+**Informacion General**
+**Cuidado**
+**Controles**
+**Enfermedades o Plagas**
+**Añadir Controles o Insumos**
+**Historico de Cultivos**
+**Reporte estadístico**
+**Foro de Consulta**
+**Añadir consulta**
+**Respuestas de consultas**
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
+
+**Iniciar sesión**
+**Crear cuenta**
+**Elegir suscripción**
+**Pasarela de pagos**
+**Panel de control**
+**Lista de Cultivos**
+**Añadir Cultivo**
+**Informacion General**
+**Cuidado**
+**Controles**
+**Añadir Controles**
+**Enfermedades o Plagas**
+**Productos Consumidos**
+**Añadir Prosucto**
+**Historico de Cultivos**
+**Exportacion Controles**
+**Exportacion Productos Consumidos**
+**Reporte estadístico**
+**Foro de Consulta**
+**Añadir consulta**
+**Mis Consultas**
+**Respuestas de consultas**
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
