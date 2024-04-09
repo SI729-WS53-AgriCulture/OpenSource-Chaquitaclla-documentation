@@ -121,6 +121,9 @@ URL del repositorio del proyecto:
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
+||**Diego Cantoral** <br>TB1: En esta entrega se realizó la descripciones del startup y la definición de los segmentos objetivos que se tomarán en cuenta. Es así también a la vez que se planteó las preguntas de las entrevistas que se harían a los segmentos objetivos|
+|||
+|||
 |||
 |||
 
