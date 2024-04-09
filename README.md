@@ -23,7 +23,8 @@ width=50%"/>
 ## Registro de versiones del informe
 |Fecha|Versión|Autor|Descripción de modificación|
 |:-:|:-:|:-:|:-:|
-|28/03/2024|1.0|Guillen Paolo,|Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula|
+|28/03/2024|1.0|Guillen Paolo|Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula|
+|30/03/2024|1.1|Diego Cantoral|Desarrollo del capítulo I y formular las preguntas de entrevista|
 
 
 
@@ -35,7 +36,7 @@ URL del repositorio del proyecto:
 |Integrante|Tareas Asignadas|
 |-|-|
 |Guillen Luna, Paolo César|Desarrollo de la carátula|
-|||
+|Cantoral Paredes, Diego André|Desarrollo del capítulo I|
 |||
 
 ***TB1 Github***
