@@ -611,6 +611,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
+https://miro.com/app/board/uXjVKW9wtoQ=/?share_link_id=73489979052
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
 | Orden  | User Story ID| Título|Descripción |Story Points|
