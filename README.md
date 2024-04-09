@@ -569,7 +569,10 @@ IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la re
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+
 https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527
+
+
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
