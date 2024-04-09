@@ -804,9 +804,9 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 7.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 8.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 9.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Colo 7.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Colo 8.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Colo 9.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
