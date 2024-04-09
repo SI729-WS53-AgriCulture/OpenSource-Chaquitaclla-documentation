@@ -1118,7 +1118,11 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
