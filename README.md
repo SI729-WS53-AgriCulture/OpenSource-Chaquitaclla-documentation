@@ -495,7 +495,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |Edad||
 |Departamento|Lima|
 |||
-|Duración entrevista:   ||
+|Duración entrevista: 8:50 |URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EX96G0aK4IZJvdlOYeGsVicBBIEIwSyOY7Qtzrd4rkpdCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9bzQl5]|
 
 |Nombre entrevistado|Eloy Cantoral|
 |-|-|
