@@ -1132,6 +1132,10 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/bff5eb13-ec78-41f4-9f54-26a669c1aad4)
+
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/3f5856b3-4d41-4a52-a5f5-6a50787f44ed)
+
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
