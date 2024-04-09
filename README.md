@@ -1063,6 +1063,10 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
     </tbody>
 </table>
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
+En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Para el registro de cada tarea utilizamos Trello.
+
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/f7741111-3af9-4e0a-9ffa-bf995583d8f5)
+
 <table>
     <thead>
             <tr>
@@ -1086,7 +1090,14 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
     </thead>
     <tbody>
             <tr>
-                <td>Ya</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
             </tr>
     </tbody>
 </table>
