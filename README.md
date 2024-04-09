@@ -780,6 +780,7 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landin Page Wireframe.png">
 
 **Mobile**
+
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 1.png">
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 3.png">
@@ -789,8 +790,21 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 7.png">
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 8.png">
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
+
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing Page Mock-up.png">
+
+**Mobile**
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - 10.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - 10.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
+
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
