@@ -1065,31 +1065,30 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
 <table>
     <thead>
-        <tr>
-        <td>Sprint #:</td>
-        <td colspan="7">Sprint 1</td>
-        </tr>
-        <tr>
-            <td colspan="2">User Story</td>
-            <td colspan="6">Work-Item / Task</td>
-        </tr>
-        <tr>
-            <td>ID</td>
-            <td>Title</td>
-            <td>ID</td>
-            <td>Title</td>
-            <td>Description</td>
-            <td>Estimation (Hours)</td>
-            <td>Assigned to</td>
-            <td>Status (To-Do/In-Process/To-Review/Done)</td>
-        </tr>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="6">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
     </thead>
     <tbody>
-        <tr>
-            
-        </tr>
+            <tr>
+                <td>Ya</td>
+            </tr>
     </tbody>
-    
 </table>
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
