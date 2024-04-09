@@ -767,22 +767,40 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 **Iniciar sesión**
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/LogIn.png">
 **Crear cuenta**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Register.png">
 **Elegir suscripción**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Suscripcion.png">
 **Pasarela de pagos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Pagar.png">
 **Panel de control**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Panel de Control.png">
 **Lista de Cultivos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Lista de cultivos en curso.png">
 **Añadir Cultivo**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Añadir cultivo.png">
 **Informacion General**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Informacion General.png">
 **Cuidado**
-**Controles**
-**Enfermedades o Plagas**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Cuidado.png">
+**Controles o Isumos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Controles.png">
 **Añadir Controles o Insumos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Añadir Control.png">
+**Enfermedades o Plagas**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Enfermedades o Plagas.png">
 **Historico de Cultivos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Historico de Cultivos.png">
 **Reporte estadístico**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Reporte estadístico.png">
 **Foro de Consulta**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Foro de Consulta.png">
 **Añadir consulta**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Añadir consulta.png">
 **Respuestas de consultas**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Respuestas de consultas.png">
+
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
+
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 **Iniciar sesión**
