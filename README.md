@@ -494,8 +494,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |-|-|
 |Edad||
 |Departamento|Lima|
-||
-Paulino, ex-agricultor profesional cuando era más joven en la región de Ayacucho, menciona que en sus tiempos no hacían uso de registros manuales, ni siquiera en papel, principalmente por problemas de analfabetismo en su región. Al preguntarle por sobre como se encuentra sus cultivos y compañeros actualmente, menciona que lo más probable es que hayan adoptado tecnología, pero de la más simple, como celulares. Paulino habla sobre como sus colegas que siguen en la chacra usan el internet para resolver ciertas dudas que ellos tengan respecto a sus cultivos. Al hacerle saberle de la propuesta, Paulino menciona que seguramente sería muy útil, siempre y cuando se les asesore a los agricultores de forma correcta.|
+|<img src="">|aulino, ex-agricultor profesional cuando era más joven en la región de Ayacucho, menciona que en sus tiempos no hacían uso de registros manuales, ni siquiera en papel, principalmente por problemas de analfabetismo en su región. Al preguntarle por sobre como se encuentra sus cultivos y compañeros actualmente, menciona que lo más probable es que hayan adoptado tecnología, pero de la más simple, como celulares. Paulino habla sobre como sus colegas que siguen en la chacra usan el internet para resolver ciertas dudas que ellos tengan respecto a sus cultivos. Al hacerle saberle de la propuesta, Paulino menciona que seguramente sería muy útil, siempre y cuando se les asesore a los agricultores de forma correcta.|
 |Duración entrevista: 8:50 |URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EX96G0aK4IZJvdlOYeGsVicBBIEIwSyOY7Qtzrd4rkpdCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9bzQl5]|
 
 |Nombre entrevistado|Eloy Cantoral|
