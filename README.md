@@ -979,6 +979,7 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
+### Lanzamiento del proyecto
 Ademáas de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github.
 
 Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
@@ -986,6 +987,14 @@ Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardam
 
 Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL: 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/c852bb62-18d3-409e-8b7c-ac3c47a2498e)
+### Creación de ramas
+Para la creación de cada rama del proyecto seguiremos estos pasos:
+1. Seleccionar "View all branches":
+   ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/12b048a6-cce6-46e6-bc7c-c61885290b09)
+
+2. Click en "New Branch" y escribir el nombre de cada rama, luego crear nuevo branch:
+   ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/c6bdd348-4516-4ed8-af55-34e402489013)
+
 
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
