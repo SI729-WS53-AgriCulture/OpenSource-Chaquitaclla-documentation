@@ -1223,6 +1223,42 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 |||||||
 
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+Seccion LogIn :
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/LogIn.png">
+
+Seccion Register:
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Register.png">
+
+Seccion Anadir Control:
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/A%C3%B1adir%20Control.png">
+
+Seccion Anadir Cultivo:
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/A%C3%B1adir%20Cultivo.png">
+
+Seccion Anadir Producto:
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/A%C3%B1adir%20Producto.png">
+
+Seccion Controles:
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Controles.png">
+
+Seccion Cuidado :
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Cuidado.png">
+
+Seccion Enfermedades y plagas :
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Enfermedades%20o%20Plagas.png">
+
+Seccion Suscripcion:
+
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Suscripcion.png">
+
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
