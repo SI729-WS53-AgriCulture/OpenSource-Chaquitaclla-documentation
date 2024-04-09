@@ -747,7 +747,29 @@ En Chaquitaclla, los encabezados en las secciones no esenciales de la aplicació
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
 Las secciones del panel de control están etiquetadas, lo que facilita la navegación del usuario. Además, todas las tarjetas incluyen títulos para identificar su contenido, y la barra de navegación muestra etiquetas textuales para las vistas principales. Ademas, los encabezados en las secciones no esenciales de la aplicación proporcionan un resumen claro del contenido de la vista actual para los usuarios. Este enfoque en la etiquetación asegura que tanto agricultores principiantes como experimentados puedan utilizar la herramienta de manera eficiente en sus labores agrícolas.
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
 
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+**Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
 La funcionalidad de búsqueda desempeña un papel crucial al facilitar a los usuarios la distinción y filtrado de la información de los registros almacenados en la aplicación. El principal propósito del sistema es presentar de manera precisa y rápida la amplia cantidad de información producida por los usuarios que emplean la herramienta. Los usuarios tienen la capacidad de buscar cultivos registrados según su fecha de ingreso y la fase en la que se encuentran
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
