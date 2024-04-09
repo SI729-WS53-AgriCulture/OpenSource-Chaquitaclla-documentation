@@ -1160,7 +1160,7 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>13</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
