@@ -572,7 +572,7 @@ IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la re
 
 https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527
 
-
+<img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.08.jpeg>
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
@@ -615,7 +615,11 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
+
 https://miro.com/app/board/uXjVKW9wtoQ=/?share_link_id=73489979052
+
+
+<img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.27.jpeg/>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
 | Orden  | User Story ID| Título|Descripción |Story Points|
