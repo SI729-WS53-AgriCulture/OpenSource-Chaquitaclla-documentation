@@ -778,6 +778,17 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landin Page Wireframe.png">
+
+**Mobile**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 1.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 3.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 4.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 5.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 6.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 7.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 8.png">
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 <img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing Page Mock-up.png">
 
