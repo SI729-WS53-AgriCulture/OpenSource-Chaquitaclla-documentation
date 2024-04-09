@@ -1102,6 +1102,14 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
     </tbody>
 </table>
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 81d8d87 | cosados | cosados | 09/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 82a41a7 | Merge pull request #1 from PaoloGuillen/checking | Merge pull request #1 from PaoloGuillen/checking | 09/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 12104c4 | New images | New images | 09/04/2024 |
+
+
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
