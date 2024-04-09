@@ -804,27 +804,49 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 **Iniciar sesión**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/LogIn.png">
 **Crear cuenta**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Register.png">
 **Elegir suscripción**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Suscripcion.png">
 **Pasarela de pagos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Pagar.png">
 **Panel de control**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Panel de Control.png">
 **Lista de Cultivos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Lista de cultivos en curso.png">
 **Añadir Cultivo**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Añadir Cultivo.png">
 **Informacion General**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Informacion General.png">
 **Cuidado**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Cuidado.png">
 **Controles**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Controles.png">
 **Añadir Controles**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Añadir Control.png">
 **Enfermedades o Plagas**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Enfermedades o Plagas.png">
 **Productos Consumidos**
-**Añadir Prosucto**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Productos Consumidos.png">
+**Añadir Producto**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Añadir Producto.png">
 **Historico de Cultivos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Historico de Cultivos.png">
 **Exportacion Controles**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Exportacion Controles.png">
 **Exportacion Productos Consumidos**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Exportacion Productos Consumidos.png">
 **Reporte estadístico**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Reporte estadístico.png">
 **Foro de Consulta**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Foro de Consulta.png">
 **Añadir consulta**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Nueva consulta.png">
 **Mis Consultas**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Mis Consultas.png">
 **Respuestas de consultas**
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Respuestas de consultas.png">
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
