@@ -637,7 +637,12 @@ https://miro.com/app/board/uXjVKW9wtoQ=/?share_link_id=73489979052
 | 18      | US18    |Integración con redes sociales|Como usuario quiero compartir fotos , consejos y logro de mi huerto con amigos o familiares en las redes sociales para que vean mis logros con el cultivo	|1|
 | 19      | US19    |Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios para que me ayude con mi cultivo	|2|
 | 20      | US20    |Mercado de intercambio de productos|Como usuario quiero ingresar a una sección donde pueda intercambiar , vender o comprar semillas, plantas o herramientas para poder generar ingresos u obtener lo que quiere de manera más rápida	|1|
-
+| 21      | TS01    |Post Horticulturist|Como desarrollador de la aplicación de Chaquitaclla Quiero registrar a un nuevo horticultor mediante una API Para visualizar los horticultor afiliados a nuestra aplicación	|5|
+| 22      | TS02    |Get Horticulturist|Como desarrollador de la aplicación Chaquitaclla Quiero obtener la información de un horticultor mediante una API Para mostrarla en la aplicación cuando se solicite.	|4|
+| 23      | TS03    |Post Farmer|Como desarrollador de la aplicación de Chaquitaclla Quiero registrar a un nuevo granjero mediante una API Para visualizar los granjeros afiliados a nuestra aplicación	|4|
+| 24      | TS04    |Get Farmer|Como desarrollador de la aplicación Chaquitaclla Quiero obtener la información de un granjero mediante una API Para mostrarla en la aplicación cuando se solicite.	|4|
+| 25      | TS05    |Post Crops|Como desarrollador de la aplicación de Chaquitaclla Quiero registrar un nuevo cultivo mediante una API Para mantener el registro de los cultivos	|4|
+| 26      | TS06    |Get Crops|Como desarrollador de la aplicación de Chaquitaclla Quiero obtener información sobre un cultivo mediante una API Para mostrar el cultivo en la aplicación al momento de ser solicitado.	|3|
 
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
