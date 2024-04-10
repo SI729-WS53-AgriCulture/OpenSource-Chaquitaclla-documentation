@@ -152,11 +152,11 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 |Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
 | :--------:| :--------: |
-|Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
-|Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. Me encanta ayudar a mis amigos en trabajos de equipo para poder avanzar juntos|<img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.27.27.jpeg>|
+|Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg">|
+|Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. Me encanta ayudar a mis amigos en trabajos de equipo para poder avanzar juntos|<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.27.27.jpeg">|
 |Mi nombre es **Amner Levi Llamo Sánchez**, soy estudiante del quinto ciclo de ingeniería de software en la UPC. Me gusta jugar fútbol y videojuegos, por eso estoy constantemente investigando sobre nuevas tecnologías. Soy responsable con los trabajos que se me asignan; además soy tolerante y me adapto a las circunstancias del equipo.||
 |Mi nombre es **David Alejandro Rivas Sarango**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|![054020191E831](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/df38d4eb-afb4-400e-9af9-d486a1e86ede) |
-|Mi nombre es **Diego André Cantoral Paredes** y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros. |<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/diegoPhoto.PNG>|
+|Mi nombre es **Diego André Cantoral Paredes** y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros. |<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/diegoPhoto.PNG">|
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
@@ -308,7 +308,7 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño centrado en el usuario (UX) y la metodología Lean para optimizar la creación y el desarrollo de productos. Su objetivo principal es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A través de esta herramienta, los equipos pueden visualizar y analizar aspectos clave del diseño y la experiencia del usuario, lo que facilita la toma de decisiones informadas durante el proceso de desarrollo.
 
 ## ***Lean UX Canvas realizado en la aplicación web "Mural":*** 
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/LeanUXCanva_2024-03-31_17-21-30.png>
+<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/LeanUXCanva_2024-03-31_17-21-30.png">
 Enlace para acceder al [Canvas](https://app.mural.co/t/aplicacionesweb8834/m/aplicacionesweb8834/1711846472456/3aafbeea2aa64e5c9fea104736a8e04377fc040d?sender=uab21ffc4c80101532b361326)
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
@@ -572,7 +572,7 @@ IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la re
 
 https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527
 
-<img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.08.jpeg>
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.08.jpeg">
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
@@ -619,7 +619,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 https://miro.com/app/board/uXjVKW9wtoQ=/?share_link_id=73489979052
 
 
-<img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.27.jpeg/>
+<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.27.jpeg"/>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
 | Orden  | User Story ID| Título|Descripción |Story Points|
@@ -688,7 +688,7 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 ##### Logotipo del producto
 
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50%" height="50%">
+<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png" width="50%" height="50%">
 
 ***Brand Name:*** El nombre de nuestra propuesta de solución surge a partir de como se dice a la acción de arar la tierra con el pie en quechua, el cual "Chaquitaclla", si bien este nombre no suena como algo tecnológico, lo que más queremos transmitir a nuestros usuarios es una familiaridad y confianza. Brindando un nombre en quechua cuyo significado es simple de entender, da a los usuarios la confianza que sabemos sobre agricultura. Además que como nuestro producto es de origen peruano, confiamos que un nombre en quechua era lo más indicado para representar nuestro producto. 
 
