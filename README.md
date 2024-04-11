@@ -16,7 +16,7 @@
 |Llamo Sánchez, Amner Levi|U20221C376|
 |Quispe Tipo, Godofredo|U202120772|
 |Rivas Sarango, David Alejandro|U20191E831|
-|||
+|Cantoral Paredes, Diego André|U20201F568|
 
 ## Registro de versiones del informe
 |Fecha|Versión|Autor|Descripción de modificación|
@@ -33,9 +33,9 @@ URL del repositorio del proyecto:
 **TB1** 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Guillen Luna, Paolo César|Desarrollo de la carátula|
-|Cantoral Paredes, Diego André|Desarrollo del capítulo I|
-|||
+|Guillen Luna, Paolo César|Desarrollo de la carátula, Desarrollo del landing page además de ayudar en los diversos capítulos así como completar anexos|
+|Cantoral Paredes, Diego André|Desarrollo del capítulo I, participante dentro de la documentación así como apoyo para realizar el modelo C4|
+|Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
 
 ***TB1 Github***
 
