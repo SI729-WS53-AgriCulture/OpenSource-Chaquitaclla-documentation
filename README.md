@@ -36,7 +36,7 @@ URL del repositorio del proyecto:
 |Guillen Luna, Paolo César|Desarrollo de la carátula, Desarrollo del landing page además de ayudar en los diversos capítulos así como completar anexos|
 |Cantoral Paredes, Diego André|Desarrollo del capítulo I, participante dentro de la documentación así como apoyo para realizar el modelo C4|
 |Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
-
+|Llamo Sánchez,Amner Levi|Principal diseñador de la aplicacion web, landing page y base de datos. Participar en el modelo C4 y apoyar con algunas historias de usuario y entrevistas.|
 ***TB1 Github***
 
 
@@ -121,7 +121,8 @@ URL del repositorio del proyecto:
 |-|:-|-|
 ||**Diego Cantoral** <br>TB1: En esta entrega se realizó la descripciones del startup y la definición de los segmentos objetivos que se tomarán en cuenta. Es así también a la vez que se planteó las preguntas de las entrevistas que se harían a los segmentos objetivos y technical stories| Como equipo realizamos los aspectos requeridos para un desarrollo apropiado de una aplicación concreta y bien estructurada, lo que también nos permitió completar todos los segmentos que necesitaba el trabajo; y así entregar un trabajo digno.
 ||**Godofredo Quispe** <br>TB1: En esta entregable se realizo el criterio de Requirements Specification para conocer los puntos a implementar segun las nececidaddes de nuestros usuarios y asu vez tambien conocer mejor a nuestros usuarios y conocer |
-|||
+||**Amner Llamo**
+<br>TB1:En esta entrega se realizó el diseño de la aplicacion web y landing page para brindar una buena experiencia a nuestros usuarios.|
 |||
 
 
