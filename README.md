@@ -1,8 +1,6 @@
 <h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
-<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/UPCPng.png"
-style="display: block; 
-width=50%"/>
+<img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;"> Desarollo de Aplicaciones Open Source </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
@@ -147,16 +145,16 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 ##### Logotipo del producto
 
-<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png" width="50%" height="50%">
+<img src="resources/ChaquitacllaLoco.jpeg" width="50%" height="50%">
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
 |Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
 | :--------:| :--------: |
-|Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg">|
-|Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. Me encanta ayudar a mis amigos en trabajos de equipo para poder avanzar juntos|<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.27.27.jpeg">|
-|Mi nombre es **Amner Levi Llamo Sánchez**, soy estudiante del quinto ciclo de ingeniería de software en la UPC. Me gusta jugar fútbol y videojuegos, por eso estoy constantemente investigando sobre nuevas tecnologías. Soy responsable con los trabajos que se me asignan; además soy tolerante y me adapto a las circunstancias del equipo.||
+|Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src="resources/paoloPhoto.jpg">|
+|Mi nombre es **Godofredo Quispe Tipo**, estudiante de la carrera de ingeniería de software,en la UPC.Soy una persona responsable y ambicioso para realizar retos nuevos. Me encanta ayudar a mis amigos en trabajos de equipo para poder avanzar juntos|<img src="resources/Godofredo.jpeg">|
+|Mi nombre es **Amner Levi Llamo Sánchez**, soy estudiante del quinto ciclo de ingeniería de software en la UPC. Me gusta jugar fútbol y videojuegos, por eso estoy constantemente investigando sobre nuevas tecnologías. Soy responsable con los trabajos que se me asignan; además soy tolerante y me adapto a las circunstancias del equipo.|<img src='resources/Amner.jpeg'/>|
 |Mi nombre es **David Alejandro Rivas Sarango**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|![054020191E831](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/df38d4eb-afb4-400e-9af9-d486a1e86ede) |
-|Mi nombre es **Diego André Cantoral Paredes** y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros. |<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/diegoPhoto.PNG">|
+|Mi nombre es **Diego André Cantoral Paredes** y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros. |<img src="resources/diegoPhoto.PNG">|
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
@@ -308,7 +306,7 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño centrado en el usuario (UX) y la metodología Lean para optimizar la creación y el desarrollo de productos. Su objetivo principal es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A través de esta herramienta, los equipos pueden visualizar y analizar aspectos clave del diseño y la experiencia del usuario, lo que facilita la toma de decisiones informadas durante el proceso de desarrollo.
 
 ## ***Lean UX Canvas realizado en la aplicación web "Mural":*** 
-<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/LeanUXCanva_2024-03-31_17-21-30.png">
+<img src="resources/LeanUXCanva_2024-03-31_17-21-30.png">
 Enlace para acceder al [Canvas](https://app.mural.co/t/aplicacionesweb8834/m/aplicacionesweb8834/1711846472456/3aafbeea2aa64e5c9fea104736a8e04377fc040d?sender=uab21ffc4c80101532b361326)
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
@@ -325,7 +323,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
-||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> |AgroSmart <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/images.jpeg width="50" height="50">|Cropin <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/cropin.jpg width="50" height="50">|DKALB <img src=https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/unnamed.jpg width="50" height="50">|
+||Chaquitaclla <img src='resources/ChaquitacllaLoco.jpeg' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
 |Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
@@ -487,7 +485,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |-|-|
 |Edad|42 años|
 |Departamento|Tumbes|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/entrevistaAgricultorMedina.jpeg">|Clever Medina, un agricultor residente en el departamento de Tumbes, se especializa en los cultivos de cacao y limón. Aunque su ocupación actual es la agricultura, también posee conocimientos en mecatrónica. Clever gestiona sus cultivos basándose en su experiencia en el campo. Sin embargo, enfrenta dificultades cuando los cultivos no crecen como esperaría. En esos momentos, recurre a información encontrada en Google y sigue los pasos recomendados, en caso la información encontrada no sirva en la práctica, esto resulta en pérdidas económicas y de tiempo para Clever. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
+|<img src="resources/entrevistaAgricultorMedina.jpeg">|Clever Medina, un agricultor residente en el departamento de Tumbes, se especializa en los cultivos de cacao y limón. Aunque su ocupación actual es la agricultura, también posee conocimientos en mecatrónica. Clever gestiona sus cultivos basándose en su experiencia en el campo. Sin embargo, enfrenta dificultades cuando los cultivos no crecen como esperaría. En esos momentos, recurre a información encontrada en Google y sigue los pasos recomendados, en caso la información encontrada no sirva en la práctica, esto resulta en pérdidas económicas y de tiempo para Clever. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
 |Duración entrevista: 16:15  |URL: [https://drive.google.com/file/d/1G1Q4E9hMcd82o3uekWFwiJWfr5Vp7D5P/view?usp=sharing]|
 
 |Nombre entrevistado|Paulino Guillen|
@@ -501,7 +499,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |-|-|
 |Edad| 60 años|
 |Departamento|Lima|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/EntrevistaEloy.PNG">|Eloy Cantoral es un agricultor de alta experiencia que se especializa en el cultivo de legumbres, frutas y verduras en la zona de Saisa, en Ayacucho. Durante la entrevista, indicó que el proceso de realizar la agricultura ha cambiado mucho a través del tiempo y que actualmente es necesario que se lleve de la mano con la tecnología. Enfatiza que contar con una aplicación que les ayude a gestionar más sus cultivos, por lo que está totalmente dispuesto a contar con una herramienta de software que añade capas de profundidad al análisis y mantenimiento de los sembríos.|
+|<img src="resources/EntrevistaEloy.png">|Eloy Cantoral es un agricultor de alta experiencia que se especializa en el cultivo de legumbres, frutas y verduras en la zona de Saisa, en Ayacucho. Durante la entrevista, indicó que el proceso de realizar la agricultura ha cambiado mucho a través del tiempo y que actualmente es necesario que se lleve de la mano con la tecnología. Enfatiza que contar con una aplicación que les ayude a gestionar más sus cultivos, por lo que está totalmente dispuesto a contar con una herramienta de software que añade capas de profundidad al análisis y mantenimiento de los sembríos.|
 |Duración entrevista: 13 minutos  |URL: [https://youtu.be/Hr2IIXpANIU ]|
 
  ***Entrevistas a jardineros en casa***
@@ -510,7 +508,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |-|-|
 |Edad| 20 años|
 |Departamento|Lima|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/EntrevistaJosue.PNG">|Daniel Valverde es un jardinero aficionado que cuenta con un pequeño huerto en el ático de su casa y que en sus tiempos libres cuida de sus cultivos. No cuenta con herramientas tecnológicas o físicas tan sofisticadas o de gran uso, bastándose de una libreta para sus registros y de simples macetas para sus cultivos. Estaría muy dispuesto de contar con una aplicación que le ayuda profesionalizar un poco más los sembríos que tiene y manejar de manera más inteligente sus registros.|
+|<img src="resources/EntrevistaJosue.png">|Daniel Valverde es un jardinero aficionado que cuenta con un pequeño huerto en el ático de su casa y que en sus tiempos libres cuida de sus cultivos. No cuenta con herramientas tecnológicas o físicas tan sofisticadas o de gran uso, bastándose de una libreta para sus registros y de simples macetas para sus cultivos. Estaría muy dispuesto de contar con una aplicación que le ayuda profesionalizar un poco más los sembríos que tiene y manejar de manera más inteligente sus registros.|
 |Duración entrevista: 6:52 minutos |URL: [https://youtu.be/_FHir31Rt3Y]|
 
 |Nombre entrevistado|Noe Sánchez|
@@ -542,9 +540,9 @@ De todos los entrevistados de este segmento, el 66% principalmente la hacen como
     <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
     nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Agricultores.png">
+<img src="resources/UserPersona_Agricultores.png">
 IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/UserPersona_Jardineros.png">
+<img src="resources/UserPersona_Jardineros.png">
 IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
@@ -556,10 +554,10 @@ IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la re
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
 
    <p>En esta sección se presentan los escenarios actuales de los usuarios, teniendo en cuenta los segmentos de AGRICULTORES y JARDINEROS. A continuación se presentan los escenarios actuales de los usuarios con el artefacto de As-is.</p>
-    <img src=>
+    
   <p>La imagen nos muestra las fases que tiene nuestro agriculto antes de la solución, lo que hace, piensa y siente.</p>
   
-  <img src=>
+  
   <p>La imagen nos muestra las fases que tiene nuestro jardinero antes de la solución, lo que hace, piensa y siente.</p>
 
   <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
@@ -572,7 +570,7 @@ IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la re
 
 https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklDMVd0SDJqSWlPc1JlWXN1TE4yWE56Nmo5ckNLRHwzMDc0NDU3MzY0MTg5NzY0MDcyfDI=?share_link_id=331357425527
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.08.jpeg">
+<img src="resources/WhatsApp Image 2024-04-09 at 17.45.08.jpeg">
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
@@ -619,7 +617,7 @@ https://miro.com/welcomeonboard/WHdsM0Vxd2dOOHVTMTB2dEVEOHE0R2NSWUpxbmdmMVBWRklD
 https://miro.com/app/board/uXjVKW9wtoQ=/?share_link_id=73489979052
 
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/WhatsApp%20Image%202024-04-09%20at%2017.45.27.jpeg"/>
+<img src="resources/WhatsApp Image 2024-04-09 at 17.45.27.jpeg"/>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
 | Orden  | User Story ID| Título|Descripción |Story Points|
@@ -688,20 +686,20 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 ##### Logotipo del producto
 
-<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png" width="50%" height="50%">
+<img src="resources/ChaquitacllaLoco.jpeg" width="50%" height="50%">
 
 ***Brand Name:*** El nombre de nuestra propuesta de solución surge a partir de como se dice a la acción de arar la tierra con el pie en quechua, el cual "Chaquitaclla", si bien este nombre no suena como algo tecnológico, lo que más queremos transmitir a nuestros usuarios es una familiaridad y confianza. Brindando un nombre en quechua cuyo significado es simple de entender, da a los usuarios la confianza que sabemos sobre agricultura. Además que como nuestro producto es de origen peruano, confiamos que un nombre en quechua era lo más indicado para representar nuestro producto. 
 
 ***Colores:***
 Los colores son lo primero que el usuario percibe al entrar a cualquier aplicación y estos tienen un efecto en en la percepción que el producto da a los usuario. Por esta razón, a partir de los principios de la psicología del color, colores como el verde y marrón son los que hemos elegido para ser implementados como los colores insignia de la plataforma. Ambos pigmentos tienen una relación con la agricultura y brinda esa familiaridad a nuestros usuarios. En lo que respecta a los wireframes, se trabajaron con tonos de gris para formular una vista preliminar de como debería estar estructurada la página web y aplicación.
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Colores.png">
+<img src="resources/Colores.png">
 
 ***Tipografía:***
 
 Escoger la tipografía adecuada puede ser un problema, esta no debe ser invasiva y debe ser coherente para el usuario, puesto que es lo que va a estar presente todo el tiempo para este. Siendo uno de nuestros objetivos que la aplicación tenga un estilo minimalista, el tipo de letra "Poppins" fue lo más indicado, en estilos Medium, Regular, SemiBold y Bold. 
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Tipografia.png">
+<img src="resources/Tipografia.png">
 
 
 **Spacing:**
@@ -784,36 +782,36 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landin Page Wireframe.png">
+<img src="resources/Landin Page Wireframe.png">
 
 **Mobile**
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 1.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 3.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 4.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 5.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 6.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 7.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 8.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
+<img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png'>
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 3.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 4.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 5.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 6.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 7.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 8.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
 
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing Page Mock-up.png">
+<img src="resources/Landing Page Mock-up.png">
 
 **Mobile**
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - 10.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - 10.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Colo 7.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Colo 8.png">
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Landing-Mock-Mobile/13 Pro - Colo 9.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - 10.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - 11.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 7.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 8.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 9.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
@@ -821,88 +819,88 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
 
 **Iniciar sesión**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/LogIn.png">
+<img src="resources/Wireframes/LogIn.png">
 **Crear cuenta**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Register.png">
+<img src="resources/Wireframes/Register.png">
 **Elegir suscripción**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Suscripcion.png">
+<img src="resources/Wireframes/Suscripcion.png">
 **Pasarela de pagos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Pagar.png">
+<img src="resources/Wireframes/Pagar.png">
 **Panel de control**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Panel de Control.png">
+<img src="resources/Wireframes/Panel de Control.png">
 **Lista de Cultivos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Lista de cultivos en curso.png">
+<img src="resources/Wireframes/Lista de cultivos en curso.png">
 **Añadir Cultivo**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Añadir cultivo.png">
+<img src="resources/Wireframes/Añadir cultivo.png">
 **Informacion General**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Informacion General.png">
+<img src="resources/Wireframes/Informacion General.png">
 **Cuidado**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Cuidado.png">
+<img src="resources/Wireframes/Cuidado.png">
 **Controles o Isumos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Controles.png">
+<img src="resources/Wireframes/Controles.png">
 **Añadir Controles o Insumos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Añadir Control.png">
+<img src="resources/Wireframes/Añadir Control.png">
 **Enfermedades o Plagas**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Enfermedades o Plagas.png">
+<img src="resources/Wireframes/Enfermedades o Plagas.png">
 **Historico de Cultivos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Historico de Cultivos.png">
+<img src="resources/Wireframes/Historico de Cultivos.png">
 **Reporte estadístico**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Reporte estadístico.png">
+<img src="resources/Wireframes/Reporte estadístico.png">
 **Foro de Consulta**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Foro de Consulta.png">
+<img src="resources/Wireframes/Foro de Consulta.png">
 **Añadir consulta**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Añadir consulta.png">
+<img src="resources/Wireframes/Añadir consulta.png">
 **Respuestas de consultas**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Wireframes/Respuestas de consultas.png">
+<img src="resources/Wireframes/Respuestas de consultas.png">
 
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 **Iniciar sesión**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/LogIn.png">
+<img src="resources/Mock/LogIn.png">
 **Crear cuenta**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Register.png">
+<img src="resources/Mock/Register.png">
 **Elegir suscripción**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Suscripcion.png">
+<img src="resources/Mock/Suscripcion.png">
 **Pasarela de pagos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Pagar.png">
+<img src="resources/Mock/Pagar.png">
 **Panel de control**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Panel de Control.png">
+<img src="resources/Mock/Panel de Control.png">
 **Lista de Cultivos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Lista de cultivos en curso.png">
+<img src="resources/Mock/Lista de cultivos en curso.png">
 **Añadir Cultivo**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Añadir Cultivo.png">
+<img src="resources/Mock/Añadir Cultivo.png">
 **Informacion General**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Informacion General.png">
+<img src="resources/Mock/Informacion General.png">
 **Cuidado**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Cuidado.png">
+<img src="resources/Mock/Cuidado.png">
 **Controles**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Controles.png">
+<img src="resources/Mock/Controles.png">
 **Añadir Controles**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Añadir Control.png">
+<img src="resources/Mock/Añadir Control.png">
 **Enfermedades o Plagas**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Enfermedades o Plagas.png">
+<img src="resources/Mock/Enfermedades o Plagas.png">
 **Productos Consumidos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Productos Consumidos.png">
+<img src="resources/Mock/Productos Consumidos.png">
 **Añadir Producto**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Añadir Producto.png">
+<img src="resources/Mock/Añadir Producto.png">
 **Historico de Cultivos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Historico de Cultivos.png">
+<img src="resources/Mock/Historico de Cultivos.png">
 **Exportacion Controles**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Exportacion Controles.png">
+<img src="resources/Mock/Exportacion Controles.png">
 **Exportacion Productos Consumidos**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Exportacion Productos Consumidos.png">
+<img src="resources/Mock/Exportacion Productos Consumidos.png">
 **Reporte estadístico**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Reporte estadístico.png">
+<img src="resources/Mock/Reporte estadístico.png">
 **Foro de Consulta**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Foro de Consulta.png">
+<img src="resources/Mock/Foro de Consulta.png">
 **Añadir consulta**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Nueva consulta.png">
+<img src="resources/Mock/Nueva consulta.png">
 **Mis Consultas**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Mis Consultas.png">
+<img src="resources/Mock/Mis Consultas.png">
 **Respuestas de consultas**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Respuestas de consultas.png">
+<img src="resources/Mock/Respuestas de consultas.png">
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
@@ -910,18 +908,18 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 El  Domain Driven Design (DDD) es un enfoque de diseño de software que se centra en comprender y modelar el dominio de negocio de una aplicación. Se basa en la idea de que el éxito de un software radica en su capacidad para reflejar fielmente este dominio, utilizando un lenguaje común entre expertos y desarrolladores. A través del modelado del dominio y la separación de la lógica del dominio de la infraestructura técnica, este enfoque garantiza que el software sea más comprensible, adaptable y alineado con las necesidades del negocio.
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 El Diagrama de Contexto es una representación visual de alto nivel del sistema de software ChaquiTaclla. Muestra las interacciones del sistema con entidades externas, como otros sistemas y usuarios.
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-SystemContext.png">
+<img src="resources/C4Imagenes/ChaquiTaclla-SystemContext.png">
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 El diagrama de contenedores ofrece una representación de alto nivel de cómo se relacionan entre sí las aplicaciones y las fuentes de datos que forman parte del sistema de software ChaquiTaclla durante su ejecución.
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-SystemContainer.png">
+<img src="resources/C4Imagenes/ChaquiTaclla-SystemContainer.png">
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 Los diagramas de componentes proporcionan una visión de las relaciones entre los principales componentes del sistema de software. Estos componentes describen la implementación detallada de los respectivos módulos del programa.
 
 **TB1** 
 **User Bounded Context**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-Components-2.png">
+<img src="resources/C4Imagenes/ChaquiTaclla-Components-2.png">
 **Managment Crop Bounded Context**
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/C4Imagenes/ChaquiTaclla-Components.png">
+<img src="resources/C4Imagenes/ChaquiTaclla-Components.png">
 
 
 
@@ -1259,39 +1257,39 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 Seccion LogIn :
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/LogIn.png">
+<img src="resources/Mock/LogIn.png">
 
 Seccion Register:
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Register.png">
+<img src="resources/Mock/Register.png">
 
 Seccion Anadir Control:
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/A%C3%B1adir%20Control.png">
+<img src="resources/Mock/A%C3%B1adir%20Control.png">
 
 Seccion Anadir Cultivo:
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/A%C3%B1adir%20Cultivo.png">
+<img src="resources/Mock/A%C3%B1adir%20Cultivo.png">
 
 Seccion Anadir Producto:
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/A%C3%B1adir%20Producto.png">
+<img src="resources/Mock/A%C3%B1adir%20Producto.png">
 
 Seccion Controles:
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Controles.png">
+<img src="resources/Mock/Controles.png">
 
 Seccion Cuidado :
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Cuidado.png">
+<img src="resources/Mock/Cuidado.png">
 
 Seccion Enfermedades y plagas :
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Enfermedades%20o%20Plagas.png">
+<img src="resources/Mock/Enfermedades%20o%20Plagas.png">
 
 Seccion Suscripcion:
 
-<img src="https://github.com/OpenSourceWS53/TB1OpenSource/blob/main/resources/Mock/Suscripcion.png">
+<img src="resources/Mock/Suscripcion.png">
 
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 
