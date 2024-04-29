@@ -1328,7 +1328,7 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 
 **User Bounded Context**
 <img src="resources/C4Imagenes/ChaquiTaclla-Components-2.png">
-**Managment Crop Bounded Context**
+**Sowing-Statics-Forum Crop Bounded Context**
 <img src="resources/C4Imagenes/ChaquiTaclla-Components.png">
 
 
