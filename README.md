@@ -28,7 +28,7 @@
 
 ## Project Report Collaboration Insights
 
-URL del repositorio del proyecto: 
+URL de la organización del proyecto: [https://github.com/OpenSourceWS53]
 
 **TB1** 
 |Integrante|Tareas Asignadas|
@@ -37,7 +37,9 @@ URL del repositorio del proyecto:
 |Cantoral Paredes, Diego André|Desarrollo del capítulo I, participante dentro de la documentación así como apoyo para realizar el modelo C4|
 |Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
 |Llamo Sánchez,Amner Levi|Principal diseñador de la aplicacion web, landing page y base de datos. Participar en el modelo C4 y apoyar con algunas historias de usuario y entrevistas.|
+
 ***TB1 Github***
+
 
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
