@@ -1570,14 +1570,51 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
-### Lanzamiento del proyecto
-Ademáas de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github.
+### Landing Page deployment:
+
+Con el fin de desplegar nuestra landing page en github pages, es necesaria contar con requisitos diversos como: 
+
+* Una cuenta personal
+* Repositorio del cual cargar los documentos 
+* Tener permisos del repositorio 
+
+Una vez se cuente con estos requisitos se podrá realizar un correcto despliegue de la landing page. Siguiendo los siguientes pasos se haría el despliegue.
+
+1. Ir a nuestra organización de github. 
+2. Elegir el repositorio donde se encuentra nuestra landing page. 
+3. Dirigirse al apartado de 'Settings'
+4. Seleccionar el apartado 'Pages' del menú lateral izquierdo.
+5. En la sección 'Branch', elegimos nuestra rama main y el folder /(root)
+6. Una vez hecho el paso anterior debería verse en la sección branch que diga que la nuestro sito de Github Pages está siendo construido.
+7. Transcurrido 5 minutos, al actualizar la página se debería de observar que diga "Your site is live at "[URLGithubPages]"
 
 Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/af8d8d6f-628a-4bb8-b7a1-8559b1a4c651)
 
 Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL: 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/c852bb62-18d3-409e-8b7c-ac3c47a2498e)
+
+
+### Frontend-Web-Application Deployment
+
+Con el fin de poder desplegar nuestro fronten web application es necesario contar con requisitos similares a los mencionados para el despliegue de la landing page. Sin embargo, aquí se usará una plataforma ajena a github, llamada Netlify, que es excelente para el tema de despliegues de aplicaciones web con el fin de mostrar su uso.
+
+**Link de Netlify:** https://www.netlify.com
+
+A continuación se presentarán la serie de pasos a seguir: 
+
+1. Nos ubicams en **https://www.netlify.com** y hacemos click en "Deploy to Netlify"
+2. Seleccionamos la opción de "Sign up with Github". 
+3. Le otorgamos los permisos necesarios y continuamos.
+4. Completamos con la información que nos pida.
+5. Seleccionamos "Deploy with Github".
+6. Seleccionamos la organización la cual se le instalará Netlify, en este caso nuestra organización "OpenSourceWS53" 
+7. Encontradonos en la sección de instalar netlify, elegimos nuestro repositorio donde se vaya a encontrar la web application.
+8. Elegimos nuestra organización y el repositorio al que se les instalo netlify. 
+9. Hacemos click en "Deploy [nombreRepositorio] to Netlify".
+10. Esperamos y estaría todo listo!, al ser la primera entrega de nuestro proyecto, esta web todavía no cuenta con una web Application, por esta razón se estaría añadiendo los documentos de landing page por mientras.
+
+
 ### Creación de ramas
 Para la creación de cada rama del proyecto seguiremos estos pasos:
 1. Seleccionar "View all branches":
