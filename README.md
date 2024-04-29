@@ -49,6 +49,9 @@ URL de la organización del proyecto: [https://github.com/OpenSourceWS53]
 
 **TB1 Github**
 
+<img src="resources/commitsTBOne.png" >
+<img src="resources/moreCommitsTB1.png" >
+
 **TP** 
 Para esta entrega se enfoco en lo que es la entrega del front-end web application además de las correciones del TB1.
 
@@ -64,14 +67,7 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 <img src="resources/ActivitiesOpen.png" >
 
 
-|Integrante|Tareas Asignadas|
-|-|-|
-|Guillen Luna, Paolo César|Desarrollo de la carátula, Desarrollo del landing page además de ayudar en los diversos capítulos así como completar anexos|
-|Cantoral Paredes, Diego André|Desarrollo del capítulo I, participante dentro de la documentación así como apoyo para realizar el modelo C4|
-|Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
-|Llamo Sánchez,Amner Levi|Principal diseñador de la aplicacion web, landing page y base de datos. Participar en el modelo C4 y apoyar con algunas historias de usuario y entrevistas.|
 
-***TB1 Github***
 
 
 ## Contenido 
