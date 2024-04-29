@@ -18,12 +18,21 @@
 |Rivas Sarango, David Alejandro|U20191E831|
 |Cantoral Paredes, Diego André|U20201F568|
 
+
 ## Registro de versiones del informe
 |Fecha|Versión|Autor|Descripción de modificación|
 |:-:|:-:|:-:|:-:|
 |28/03/2024|1.0|Guillen Paolo|Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula|
 |30/03/2024|1.1|Diego Cantoral|Desarrollo del capítulo I y formular las preguntas de entrevista|
-
+| 31/03/2024 | 1.2     | Godofredo Quispe  |                             Desarrollo parcial del capítulo 1                               |
+| 10/04/2024 | 1.3     | Guillen Paolo, Diego Cantoral , Amner Llamo| Creación del figma para la creación de landing page y creación de los guidelines a seguir, análisis de las entrevistas realizadas y participación en la creación de la landing page en HTML| 
+| 12/04/2024 | 1.4     |  Rivas David |                           Finalización del landing page en html                             |
+| 12/04/2024 | 1.5     |  Llamo Amner  |                           Finalización de los wireframes y mock-ups de la aplicacion web      |
+| 13/04/2024 | 1.6     | Diego Cantora, Paolo Guillen| Trabajar en los .feature para gherkin y planificación del siguiente sprint| 
+|13/04/2024| 1.7|  Guillen Paolo,  Diego Cantoral , Amner Llamo| Revisión y Ajustes finales para TB1|
+|27/04/2024| 1.8|  Guillen Paolo, Diego Cantoral , Amner Llamo, Rivas David| Implementación completa de la landing page y actualización de la seccion 5.1.3|
+|28/04/2024| 1.9|  Guillen Paolo, Diego Cantoral , Amner Llamo| Implementación completa de la landing page y actualización de la seccion 5.1.3|
+|29/04/2024| 2.0|  Rivas David, Quispe Godofredo, Guillen Paolo, Diego Cantoral , Amner Llamo|Corrección de errores de lo mencionado por el profesor|
 
 
 ## Project Report Collaboration Insights
@@ -31,6 +40,18 @@
 URL de la organización del proyecto: [https://github.com/OpenSourceWS53]
 
 **TB1** 
+|Integrante|Tareas Asignadas|
+|-|-|
+|Guillen Luna, Paolo César|Desarrollo de la carátula, Desarrollo del landing page además de ayudar en los diversos capítulos así como completar anexos|
+|Cantoral Paredes, Diego André|Desarrollo del capítulo I, participante dentro de la documentación así como apoyo para realizar el modelo C4|
+|Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
+|Llamo Sánchez,Amner Levi|Principal diseñador de la aplicacion web, landing page y base de datos. Participar en el modelo C4 y apoyar con algunas historias de usuario y entrevistas.|
+
+**TP Github**
+<img src="resources/CommitsOpen.png" >
+<img src="resources/ActivitiesOpen.png" >
+
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |Guillen Luna, Paolo César|Desarrollo de la carátula, Desarrollo del landing page además de ayudar en los diversos capítulos así como completar anexos|
