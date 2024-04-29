@@ -597,17 +597,15 @@ Teniendo la escala de importancia y frecuencia, se presentan las tareas de los u
 
 |Tareas	|Agricultores (Frecuencia)	|Agricultores (Importancia)	|Jardineros (Frecuencia)	|Jardineros (Importancia)|
 |:----------------:|:-----------:|:----------:|:----------:|:----------:|
-|Planificación de cultivos	|Alta	|Alta|	Alta|	Alta|
-|Selección de semillas/plantas|	Alta	|Alta	|Alta	|Alta|
-|Preparación del terreno/suelo|	Alta	|Alta|	Alta|	Alta|
-|Control de plagas y enfermedades|	Alta	|Alta	|Alta|	Alta|
-|Monitoreo de crecimiento|	Alta|	Alta|	Alta	|Alta|
-|Cosecha|	Media	|Alta	|Media	|Media|
+|Planificación de cultivos	|Media	|Alta|	Media|	Media|
+|Selección de semillas/plantas|	Alta	|Alta |Baja |Media|
+|Preparación del terreno/suelo|	Alta	|Alta|	Baja|Baja|
+|Control de plagas y enfermedades|	Alta	|Alta	|Media|Media|
+|Registrar en papel el estado del cultivo|	Baja|	Media|Baja	|Media|
 |Revisión de procesos fenológicos|	Media	|Media	|Media|	Media|
-|Poda y cuidado de plantas|	Baja	|Baja	|Media	|Alta|
-|Recolección de flores/frutas|	Baja	|Baja	|Media	|Media|
-|Mantenimiento general|	Baja	|Baja	|Baja	|Baja|
-
+|Cosecha|	Media	|Alta	|Media	|Media|
+|Cuidado de la tierra de manera periódica|	Alta	|Alta	|Media	|Alta|
+|Regar el cultivo a la hora adecuada|Alta|Alta|Media|Alta|
 
 </div>
 
