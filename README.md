@@ -1708,44 +1708,86 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
     </tbody>
 </table>
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
-En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Para el registro de cada tarea utilizamos Trello.
+En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/f7741111-3af9-4e0a-9ffa-bf995583d8f5)
 
+
 <table>
     <thead>
-            <tr>
+        <tr>
             <td>Sprint #:</td>
             <td colspan="7">Sprint 1</td>
-            </tr>
-            <tr>
-                <td colspan="2">User Story</td>
-                <td colspan="6">Work-Item / Task</td>
-            </tr>
-            <tr>
-                <td>ID</td>
-                <td>Title</td>
-                <td>ID</td>
-                <td>Title</td>
-                <td>Description</td>
-                <td>Estimation (Hours)</td>
-                <td>Assigned to</td>
-                <td>Status (To-Do/In-Process/To-Review/Done)</td>
-            </tr>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>Title</td>
+            <td>ID</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned to</td>
+            <td>Status (To-Do/In-Process/To-Review/Done)</td>
+        </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>ID</td>
-                <td>Title</td>
-                <td>ID</td>
-                <td>Title</td>
-                <td>Description</td>
-                <td>Estimation (Hours)</td>
-                <td>Assigned to</td>
-                <td>Status (To-Do/In-Process/To-Review/Done)</td>
-            </tr>
+        <tr>
+            <td>US03</td>
+            <td>Contactar a Chaquitaclla</td>
+            <td>01</td>
+            <td>Contactar al equipo de Chaquitaclla mediante formulario</td>
+            <td>Usuario debe poder interactuar con el formulario de la landing page y poder mandar un mensaje al equipo de Chaquitaclla</td>
+            <td>4</td>
+            <td>Paolo Guillen</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Barra de navegación</td>
+            <td>02</td>
+            <td>Interactuar con barra de navegación</td>
+            <td>Usuario debe poder interactuar con la barra de navegación y ser dirigido a la sección que este le dé click</td>
+            <td>4</td>
+            <td>Amner Llamno</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US20</td>
+            <td>Beneficios de Chaquitaclla</td>
+            <td>03</td>
+            <td>Interactuar con los beneficios de Chaquitaclla</td>
+            <td>Usuario debe poder interactuar con la sección de beneficios de Chaquitaclla</td>
+            <td>3</td>
+            <td>Amner Llamno</td>
+            <td>In-Process</td>
+        </tr>
+         <tr>
+            <td>US21</td>
+            <td>Visualizar equipo de Chaquitaclla</td>
+            <td>04</td>
+            <td>Visualizar equipo de Chaquitaclla</td>
+            <td>El usuaria debe poder de forma clara y simple la sección de equipo de Chaquitaclla</td>
+            <td>4</td>
+            <td>Paolo Guillen</td>
+            <td>In-Process</td>
+        </tr>
+         <tr>
+            <td>US17</td>
+            <td>Navegación por la Landing Page</td>
+            <td>05</td>
+            <td>Navegar en la landing page</td>
+            <td>Navegar por la landing page sin problemas y de forma clara</td>
+            <td>3</td>
+            <td>Amner Llamno</td>
+            <td>Done</td>
+        </tr>
     </tbody>
 </table>
+
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
