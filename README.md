@@ -47,6 +47,17 @@ URL de la organización del proyecto: [https://github.com/OpenSourceWS53]
 |Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
 |Llamo Sánchez,Amner Levi|Principal diseñador de la aplicacion web, landing page y base de datos. Participar en el modelo C4 y apoyar con algunas historias de usuario y entrevistas.|
 
+
+**TP** 
+Para esta entrega se enfoco en lo que es la entrega del front-end web application además de las correciones del TB1.
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Guillen Luna, Paolo César|Desarrollo del dominio de los cultivos, su sección de datos estadísticos|
+|Cantoral Paredes, Diego André|Desarrollo de la sección de consultas/preguntas/foro de la aplicación front end|
+|Rivas Sarango, David Alejandro|Organizador del segundo sprint, enfocado en lo que es la sección de CRUD de cultivos|
+|Llamo Sánchez,Amner Levi|Encargado de realizar los merges y que la aplicación se despliegue a netlify sin problemas|
+
 **TP Github**
 <img src="resources/CommitsOpen.png" >
 <img src="resources/ActivitiesOpen.png" >
