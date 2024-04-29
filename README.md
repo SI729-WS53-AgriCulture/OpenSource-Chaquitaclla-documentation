@@ -128,10 +128,8 @@ URL del repositorio del proyecto:
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-||**Diego Cantoral** <br>TB1: En esta entrega se realizó la descripciones del startup y la definición de los segmentos objetivos que se tomarán en cuenta. Es así también a la vez que se planteó las preguntas de las entrevistas que se harían a los segmentos objetivos y technical stories| Como equipo realizamos los aspectos requeridos para un desarrollo apropiado de una aplicación concreta y bien estructurada, lo que también nos permitió completar todos los segmentos que necesitaba el trabajo; y así entregar un trabajo digno.
-||**Godofredo Quispe** <br>TB1: En esta entregable se realizo el criterio de Requirements Specification para conocer los puntos a implementar segun las nececidaddes de nuestros usuarios y asu vez tambien conocer mejor a nuestros usuarios y conocer |
-||**Amner Llamo**<br>TB1:En esta entrega se realizó el diseño de la aplicacion web y landing page para brindar una buena experiencia a nuestros usuarios.|
-|||
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |**Diego Cantoral** <br>TB1: En esta entrega se realizó la descripciones del startup y la definición de los segmentos objetivos que se tomarán en cuenta. Es así también a la vez que se planteó las preguntas de las entrevistas que se harían a los segmentos objetivos y technical stories **Godofredo Quispe** <br>TB1: En esta entregable se realizo el criterio de Requirements Specification para conocer los puntos a implementar segun las nececidaddes de nuestros usuarios y asu vez tambien conocer mejor a nuestros usuarios y conocer **Amner Llamo**<br>TB1:En esta entrega se realizó el diseño de la aplicacion web y landing page para brindar una buena experiencia a nuestros usuarios.|Como equipo realizamos los aspectos requeridos para un desarrollo apropiado de una aplicación concreta y bien estructurada, lo que también nos permitió completar todos los segmentos que necesitaba el trabajo; y así entregar un trabajo digno.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|||
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
@@ -1833,6 +1831,10 @@ Enlace a la landing page: [https://opensourcews53.github.io/Landing-Page/]
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/bff5eb13-ec78-41f4-9f54-26a669c1aad4)
 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/3f5856b3-4d41-4a52-a5f5-6a50787f44ed)
+
+
+<div id='5.2.2.'><h4> 5.2.2.Sprint 2</h4></div>
+
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
