@@ -1614,17 +1614,6 @@ A continuación se presentarán la serie de pasos a seguir:
 9. Hacemos click en "Deploy [nombreRepositorio] to Netlify".
 10. Esperamos y estaría todo listo!, al ser la primera entrega de nuestro proyecto, esta web todavía no cuenta con una web Application, por esta razón se estaría añadiendo los documentos de landing page por mientras.
 
-![stepOne](/resources/stepsDeploymentWebApp/stepOneWeb.png)
-![stepTwo](/resources/stepsDeploymentWebApp/stepTwoWeb.png)
-![stepThree](/resources/stepsDeploymentWebApp/stepThreeWeb.png)
-![stepFour](/resources/stepsDeploymentWebApp/stepFourWeb.png)
-![stepFive](/resources/stepsDeploymentWebApp/stepFiveWeb.png)
-![stepSix](/resources/stepsDeploymentWebApp/stepSixWeb.png)
-![stepSeven](/resources/stepsDeploymentWebApp/stepSevenWeb.png)
-![stepEight](/resources/stepsDeploymentWebApp/stepEightWeb.png)
-![stepNine](/resources/stepsDeploymentWebApp/stepNineWeb.png)
-![stepTen](/resources/stepsDeploymentWebApp/stepTenWeb.png)
-
 
 ![stepOne](/resources/stepsDeploymentWebApp/stepOneWeb.png)
 ![stepTwo](/resources/stepsDeploymentWebApp/stepTwoWeb.png)
@@ -1710,7 +1699,7 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
 En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
 
-![image]()
+<img src="resources/trelloSprintOne.png">
 
 Enlace al Trello: [https://trello.com/invite/b/tYwyLYYh/ATTIad8905a5647386bb7abb9f3ce26e576a2F058FFE/sprintbacklogs]
 
@@ -1829,12 +1818,15 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 
-![WhatsApp Image 2024-04-09 at 14 32 46](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/5ff712dd-bb6c-46a2-b43a-a7e3f89892d9)
+<img src="resources/realLandingOne.png">
+<img src="resources/realLandingTwo.png">
+<img src="resources/realLandingThree.png">
+<img src="resources/realLandingFour.png">
+<img src="resources/realLandingFive.png">
+<img src="resources/realLandingEight.png">
+<img src="resources/realLandingNine.png">
 
-![WhatsApp Image 2024-04-09 at 14 32 53](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/7b91ad0c-45dc-4b60-bcf7-f86aee1ea160)
-
-![WhatsApp Image 2024-04-09 at 14 33 33](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/b9112774-6e64-4439-857b-b34483101cbf)
-
+Enlace a la landing page: [https://opensourcews53.github.io/Landing-Page/]
 
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
@@ -1849,5 +1841,23 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
+
 <div id='6.'><h2>Conclusiones</h2></div>
-<div id='7.'><h2>Anexos</h2></div>
+
+**TB1:** Para esta TB1, consideramos que fue un desafío, trabajar un proyecto así con metodologías ágiles fue beneficioso, pero al ser nuestro primera vez fue complicado. Las herramientas utilizadas para despliegue de nuestro software son conocidas por mayor parte de nuestros integrantes, razón por la cual las elegimos. Para esta primera entrega todos los integrantes trabajamos de manera adecuada y efectiva. Para las futuras entregas se espera mejorar secciones donde hayamos fallado con el fin de brindar una mejor solución de calidad.
+
+<div id='7.'><h2>Bibliografía</h2></div>
+
+Mateo, T. de J. (2023). Agricultura 4.0: Una revisión de tecnologías disruptivas y su impacto en la producción agrícola sostenible. Recuperado de [https://unctad.org/es/news/por-que-los-agricultores-familiares-necesitan-un-mayor-acceso-la-tecnologia?__cf_chl_tk=7OXmq0DO3QwzTaPbsw39Vnrfj5XIAtpvrfewU13MekU-1711832857-0.0.1.1-1685]
+
+UNCTAD. (2023, 13 de abril). Por qué los agricultores familiares necesitan un mayor acceso a la tecnología. Recuperado de  [https://unctad.org/es/news/por-que-los-agricultores-familiares-necesitan-un-mayor-acceso-la-tecnologia?__cf_chl_tk=7OXmq0DO3QwzTaPbsw39Vnrfj5XIAtpvrfewU13MekU-1711832857-0.0.1.1-1685]
+
+Gaviria González, N. (2022, 8 de febrero). Según Minagricultura cerca de 15% del sector agro utiliza tecnología de última generación. Recuperado de [https://www.agronegocios.co/agricultura/segun-minagricultura-cerca-de-15-del-sector-agro-utiliza-tecnologia-de-ultima-generacion-3299246]
+
+Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí cómo la agricultura digital podría revolucionar las comunidades rurales afectadas por COVID-19. Recuperado de [https://es.weforum.org/agenda/2020/07/volver-a-crecer-mejor-he-aqui-como-la-agricultura-digital-podria-revolucionar-las-comunidades-rurales-afectadas-por-covid-19/"]
+
+<div id='8.'><h2>Anexos</h2></div>
+
+* **LandingPage:** [https://opensourcews53.github.io/Landing-Page/]
+* **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
+* **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
