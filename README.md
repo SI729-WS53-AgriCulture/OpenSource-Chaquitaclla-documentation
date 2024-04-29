@@ -594,31 +594,20 @@ IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la re
 En esta sección se presentan las tareas que realizan los usuarios, teniendo en cuenta los segmentos de AGRICULTORES y JARDINEROS. A continuación se presentan las tareas de los usuarios con el artefacto de User Task Matrix.
 Teniendo la escala de importancia y frecuencia, se presentan las tareas de los usuarios. Definides en un rango de Bajo, Medio y Alto.
 
-SEGMENTO AGRICULTORES: 
 
-|              Tareas              | Importancia | Frecuencia |
-|:----------------:|:-----------:|:----------:|
-|       Registro de cultivos       |    Alta     |    Alta    |
-|      Monitoreo de cultivos       |    Alta     |    Alta    |
-|   Revisión de recomendaciones    |    Alta     |    Alta    |
-|     Revisión de estadísticas     |    Media    |   Media    |
-|     Revisión de trazabilidad     |    Media    |   Media    |
-| Revisión de procesos fenológicos |    Media    |   Media    |
-| Revisión de cuidados necesarios  |    Media    |   Media    |
-|       Revisión de calidad        |    Alta     |    Alta    |
+|Tareas	|Agricultores (Frecuencia)	|Agricultores (Importancia)	|Jardineros (Frecuencia)	|Jardineros (Importancia)|
+|:----------------:|:-----------:|:----------:|:----------:|:----------:|
+|Planificación de cultivos	|Alta	|Alta|	Alta|	Alta|
+|Selección de semillas/plantas|	Alta	|Alta	|Alta	|Alta|
+|Preparación del terreno/suelo|	Alta	|Alta|	Alta|	Alta|
+|Control de plagas y enfermedades|	Alta	|Alta	|Alta|	Alta|
+|Monitoreo de crecimiento|	Alta|	Alta|	Alta	|Alta|
+|Cosecha|	Media	|Alta	|Media	|Media|
+|Revisión de procesos fenológicos|	Media	|Media	|Media|	Media|
+|Poda y cuidado de plantas|	Baja	|Baja	|Media	|Alta|
+|Recolección de flores/frutas|	Baja	|Baja	|Media	|Media|
+|Mantenimiento general|	Baja	|Baja	|Baja	|Baja|
 
-SEGMENTO JARDINEROS:
-
-|              Tareas              | Importancia | Frecuencia             |
-|:----------------:|:-----------:|:---------------------------------:|
-|       Registro de cultivos       |    Alta     | Alta|
-|      Monitoreo de cultivos       |    Alta     | Alta|
-|   Revisión de recomendaciones    |    Alta     | Alta|
-|     Revisión de estadísticas     |    Media    | Media|
-|     Revisión de trazabilidad     |    Media    | Media|
-| Revisión de procesos fenológicos |    Media    | Media|
-| Revisión de cuidados necesarios  |    Media    | Media|
-|       Revisión de calidad        |    Alta     | Media|
 
 </div>
 
