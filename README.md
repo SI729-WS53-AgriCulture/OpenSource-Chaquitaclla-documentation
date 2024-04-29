@@ -1799,9 +1799,14 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
 
+Al realizar parcialmente la landing page, ya se pudo planificar sobre que tipos de pruebas hacer, inicialmente empezamos con un proceso de pruebas exploratorias. Sin embargo con el fin de la documentación más formal, la sección "Testing" se centro en la implementación de los archivos feature siguiendo la sintaxis de Gherkin. Estos features están basados en los user stories especificados para este sprint.
+
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
-|||||||
+|https://github.com/OpenSourceWS53/Landing-Page|main|3ebcc2c|Create Contactar_a_ChaquiTaclla.feature|Create Contactar_a_ChaquiTaclla.feature|13/04/2024|
+
+
+Gherkin Syntax: https://cucumber.io/docs/gherkin/reference/
 
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 Seccion LogIn :
