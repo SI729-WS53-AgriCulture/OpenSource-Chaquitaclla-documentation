@@ -1664,11 +1664,11 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
     <tbody>
         <tr>
             <td>Date</td>
-            <td>18/03/2024</td>
+            <td>26/03/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>00:00 am</td>
+            <td>21:00 hrs</td>
         </tr>
         <tr>
             <td>Location</td>
@@ -1695,7 +1695,7 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Diseñar e implementar una landing page, realizar el CRUD de cultivos.</td>
+            <td>Diseñar e implementar la landing page, además de añadir el CRUD de los cultivos.</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
@@ -1708,10 +1708,11 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
     </tbody>
 </table>
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
-En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
+En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/f7741111-3af9-4e0a-9ffa-bf995583d8f5)
 
+Enlace al Trello: [https://trello.com/invite/b/tYwyLYYh/ATTIad8905a5647386bb7abb9f3ce26e576a2F058FFE/sprintbacklogs]
 
 <table>
     <thead>
@@ -1792,9 +1793,11 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
-| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 81d8d87 | cosados | cosados | 09/04/2024 |
-| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 82a41a7 | Merge pull request #1 from PaoloGuillen/checking | Merge pull request #1 from PaoloGuillen/checking | 09/04/2024 |
-| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 12104c4 | New images | New images | 09/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 81d8d87 | feat: section contact us | Contact us section has been added | 09/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 82a41a7 | feat: section about us |  about us section has been added| 09/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 12104c4 | feat: added hyperlinks in the navbar| hyperlinks in the navbar has been added | 09/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | f231a022033bb0a61585ad634bfb749630d03175 | feat: added section team data| hyperlinks in the navbar has been added | 23/04/2024 |
+| https://github.com/OpenSourceWS53/Landing-Page | Landing Page Main | 15e604bdfb40408abe82b74e2c2c3ae247f8cb3a | feat: implemented the rest of the landing page | 23/04/2024 |
 
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
@@ -1809,41 +1812,16 @@ Al realizar parcialmente la landing page, ya se pudo planificar sobre que tipos 
 Gherkin Syntax: https://cucumber.io/docs/gherkin/reference/
 
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
-Seccion LogIn :
 
-<img src="resources/Mock/LogIn.png">
+Para este sprint, se busco añadir lo que es la landing page, si bien se logro implementar en su mayoría hay muchas partes las cuales mejorar, pero que esperemos se pueda cumplir para futuras entregas. La herramienta con la que controlamos las acciones de cada miembro fue Trello y con ayuda de gitflow para implementar ciertos features.
 
-Seccion Register:
-
-<img src="resources/Mock/Register.png">
-
-Seccion Anadir Control:
-
-<img src="resources/Mock/A%C3%B1adir%20Control.png">
-
-Seccion Anadir Cultivo:
-
-<img src="resources/Mock/A%C3%B1adir%20Cultivo.png">
-
-Seccion Anadir Producto:
-
-<img src="resources/Mock/A%C3%B1adir%20Producto.png">
-
-Seccion Controles:
-
-<img src="resources/Mock/Controles.png">
-
-Seccion Cuidado :
-
-<img src="resources/Mock/Cuidado.png">
-
-Seccion Enfermedades y plagas :
-
-<img src="resources/Mock/Enfermedades%20o%20Plagas.png">
-
-Seccion Suscripcion:
-
-<img src="resources/Mock/Suscripcion.png">
+<img src="resources/realLandingOne.png">
+<img src="resources/realLandingTwo.png">
+<img src="resources/realLandingThree.png">
+<img src="resources/realLandingFour.png">
+<img src="resources/realLandingFive.png">
+<img src="resources/realLandingEight.png">
+<img src="resources/realLandingNine.png">
 
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 
