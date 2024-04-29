@@ -1819,6 +1819,7 @@ Gherkin Syntax: https://cucumber.io/docs/gherkin/reference/
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 
 Para este sprint, se busco añadir lo que es la landing page, si bien se logro implementar en su mayoría hay muchas partes las cuales mejorar, pero que esperemos se pueda cumplir para futuras entregas. La herramienta con la que controlamos las acciones de cada miembro fue Trello y con ayuda de gitflow para implementar ciertos features.
+Enlace adjunto de la evidencia de ejecución de lo desarrollado en el Sprint número uno: [https://drive.google.com/file/d/1zIOVJAtvyhvql6vA4xF5BOG7rfOMaHEy/view?usp=sharing]
 
 <img src="resources/realLandingOne.png">
 <img src="resources/realLandingTwo.png">
@@ -1849,6 +1850,9 @@ Enlace a la landing page: [https://opensourcews53.github.io/Landing-Page/]
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/bff5eb13-ec78-41f4-9f54-26a669c1aad4)
 
 ![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/3f5856b3-4d41-4a52-a5f5-6a50787f44ed)
+
+Gitflow repositorio Landing Page:
+<img src="resources/gitflowTBOne.png">
 
 
 <div id='5.2.2.'><h4> 5.2.2.Sprint 2</h4></div>
@@ -1897,15 +1901,15 @@ Enlace a la landing page: [https://opensourcews53.github.io/Landing-Page/]
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Añadir el CRUD de los cultivos.</td>
+            <td>Implementar lo que es el core del negocio, el cual es la implementación del CRUD de cultivos, además del despliegue de la Front-end Web Application</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>8</td>
+            <td>A examinar</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>8</td>
+            <td>A examinar</td>
         </tr>
     </tbody>
 </table>
