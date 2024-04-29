@@ -1889,22 +1889,22 @@ Gitflow repositorio Landing Page:
             <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Tipo, Godofredo / Rivas Sarango, David Alejandro / Cantoral Paredes, Diego André</td>
         </tr>
         <tr>
-            <td>Sprint n – 1 Review Summary</td>
+            <td>Sprint 1 Review Summary</td>
             <td>Se logro el diseño y despliegue de la landing page.</td>
         </tr>
         <tr>
-            <td>Sprint n – 1 Retrospective Summary</td>
+            <td>Sprint 1 Retrospective Summary</td>
             <td>La colaboración entre los miembros del equipo fue efectiva, lo que permitió resolver los problemas de manera oportuna.</td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
-            <td>Sprint 1 Goal</td>
+            <td>Sprint 2 Goal</td>
             <td>Implementar lo que es el core del negocio, el cual es la implementación del CRUD de cultivos, además del despliegue de la Front-end Web Application</td>
         </tr>
         <tr>
-            <td>Sprint 1 Velocity</td>
+            <td>Sprint 2 Velocity</td>
             <td>A examinar</td>
         </tr>
         <tr>
