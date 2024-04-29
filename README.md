@@ -1615,6 +1615,18 @@ A continuación se presentarán la serie de pasos a seguir:
 10. Esperamos y estaría todo listo!, al ser la primera entrega de nuestro proyecto, esta web todavía no cuenta con una web Application, por esta razón se estaría añadiendo los documentos de landing page por mientras.
 
 
+![stepOne](/resources/stepsDeploymentWebApp/stepOneWeb.png)
+![stepTwo](/resources/stepsDeploymentWebApp/stepTwoWeb.png)
+![stepThree](/resources/stepsDeploymentWebApp/stepThreeWeb.png)
+![stepFour](/resources/stepsDeploymentWebApp/stepFourWeb.png)
+![stepFive](/resources/stepsDeploymentWebApp/stepFiveWeb.png)
+![stepSix](/resources/stepsDeploymentWebApp/stepSixWeb.png)
+![stepSeven](/resources/stepsDeploymentWebApp/stepSevenWeb.png)
+![stepEight](/resources/stepsDeploymentWebApp/stepEightWeb.png)
+![stepNine](/resources/stepsDeploymentWebApp/stepNineWeb.png)
+![stepTen](/resources/stepsDeploymentWebApp/stepTenWeb.png)
+
+
 ### Creación de ramas
 Para la creación de cada rama del proyecto seguiremos estos pasos:
 1. Seleccionar "View all branches":
