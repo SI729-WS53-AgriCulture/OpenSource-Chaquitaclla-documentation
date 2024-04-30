@@ -1724,7 +1724,7 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 
 <img src="resources/trelloSprintOne.png">
 
-Enlace al Trello: [https://trello.com/invite/b/tYwyLYYh/ATTIad8905a5647386bb7abb9f3ce26e576a2F058FFE/sprintbacklogs]
+Enlace al Trello: [https://trello.com/b/tYwyLYYh/sprint-backlog-1]
 
 <table>
     <thead>
@@ -1920,6 +1920,29 @@ Gitflow repositorio Landing Page:
         </tr>
     </tbody>
 </table>
+
+<div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2</h5></div>
+En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
+
+
+<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
+Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Enlace del my-json-server: https://my-json-server.typicode.com/SI729-WS53-AgriCulture/db-server
+
+| Endpoint | Details about it |
+| :--: | :--: | 
+|/crops |  Se implementaron las opciones de CRUD desde base.service.ts de las cuáles se puede evidenciar el funcionamiento del create de manera local, así como el getAll desde el Placeholder Json para la tabla de los cultivos registrados.|
+|/diseases | Se implementaron las opciones de CRUD desde base.service.ts de las cuáles se puede evidenciar el funcionamiento del create de manera local. Cabe destacar que la tabla "diseases" es de solo lectura para el usuario; no puede añadir, eliminar ni actualizar datos, pero puede ver la información disponible. |
+|/products |Se implementaron las opciones de CRUD desde base.service.ts de las cuáles se puede evidenciar el funcionamiento del create de manera local, así como el getAll desde el Placeholder Json para la tabla de los productos que se han utilizado en los registrados. |
+|/questions |Se implementaron las opciones de CRUD desde base.service.ts de las cuáles se puede evidenciar el funcionamiento del create de manera local, así como el getAll desde el Placeholder Json para la tabla de las preguntas que se han registrado dentro de la sección de forum |
+|/answers |Se implementaron las opciones de CRUD desde base.service.ts de las cuáles se puede evidenciar el funcionamiento del create de manera local, así como el getAll desde el Placeholder Json para la tabla de las respuestas de acuerdo a la pregunta que el usuario se encuentre interesado en saber más información. Cabe aclarar que el usuario  |
+
+
+Nosotros como equipo, contamos con más endpoints sin embargo, my-json-server solo trabaja como máximo con 5 gratuitos, por lo tanto elegimos los que creiamos eran los más ideales.
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
+
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
