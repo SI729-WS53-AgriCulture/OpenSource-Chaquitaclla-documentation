@@ -1928,6 +1928,10 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|PoloGuilen/db-server|main|58f52eb|Update db.json|Update db.json|30/04/2024|
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
 |dars2002/Frontend-Web-Applications|feature/crud-crops|7ba5c3f|first commit of Chaquitaclla's frontend'|first commit of Chaquitaclla's frontend'|27/04/2024|
 |dars2002/Frontend-Web-Applications|main|b814bf9|Merge pull request #4 from OpenSourceWS53/feature/crud-crops||27/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/home|12c4055|correction home y app|correction home y app|27/04/2024|
