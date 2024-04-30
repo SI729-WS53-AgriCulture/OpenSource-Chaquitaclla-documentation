@@ -2160,6 +2160,19 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 
 **Capturas de pantalla de la web application**
 
+<img src="resources/firebase/ponerOne.png"> 
+<img src="resources/firebase/ponerTwo.png"> 
+<img src="resources/firebase/ponerThree.png"> 
+<img src="resources/firebase/ponerFour.png"> 
+<img src="resources/firebase/ponerFive.png"> 
+<img src="resources/firebase/ponerSix.png"> 
+<img src="resources/firebase/ponerSeven.png"> 
+<img src="resources/firebase/ponerEight.png"> 
+<img src="resources/firebase/ponerNine.png"> 
+<img src="resources/firebase/ponerTen.png"> 
+<img src="resources/firebase/ponerEleven.png">
+
+
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
 
 
