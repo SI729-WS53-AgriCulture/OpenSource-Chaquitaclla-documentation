@@ -2276,6 +2276,8 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 
 **TB1:** Para esta TB1, consideramos que fue un desafío, trabajar un proyecto así con metodologías ágiles fue beneficioso, pero al ser nuestro primera vez fue complicado. Las herramientas utilizadas para despliegue de nuestro software son conocidas por mayor parte de nuestros integrantes, razón por la cual las elegimos. Para esta primera entrega todos los integrantes trabajamos de manera adecuada y efectiva. Para las futuras entregas se espera mejorar secciones donde hayamos fallado con el fin de brindar una mejor solución de calidad.
 
+**TP:** Para este TP, el uso de gitflow, nos facilito demasiado en lo que es trabajar de forma remota, sobre todo para lo que es la implementación de una aplicación web, esto fue crucial, puesto que nos ayudo a juntar cada uno de nuestros feature de una forma más eficiente, para que nosotros como equipo entendamos el código de forma general y nos ayude a comprender que función tiene cada componente respectivamente.
+
 <div id='7.'><h2>Bibliografía</h2></div>
 
 Mateo, T. de J. (2023). Agricultura 4.0: Una revisión de tecnologías disruptivas y su impacto en la producción agrícola sostenible. Recuperado de [https://unctad.org/es/news/por-que-los-agricultores-familiares-necesitan-un-mayor-acceso-la-tecnologia?__cf_chl_tk=7OXmq0DO3QwzTaPbsw39Vnrfj5XIAtpvrfewU13MekU-1711832857-0.0.1.1-1685]
