@@ -1943,6 +1943,11 @@ Nosotros como equipo, contamos con más endpoints sin embargo, my-json-server so
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
 
+<img src="resources/tci2_1.JPG">
+<img src="resources/tci2_2.JPG">
+
+<img src="resources/gitflow1.JPG">
+<img src="resources/gitflow2.JPG">
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
