@@ -1929,7 +1929,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 1</th>
+      <th colspan="7">Sprint 2</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
