@@ -1925,6 +1925,112 @@ Gitflow repositorio Landing Page:
 En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
 
 <img src="resources/ssSprintBacklog2.JPG">
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>Title</td>
+            <td>ID</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned to</td>
+            <td>Status (To-Do/In-Process/To-Review/Done)</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US01</td>
+            <td>Registro de usuario</td>
+            <td>01</td>
+            <td>Registro de usuario mediante formulario</td>
+            <td>Usuario debe poder interactuar con el formulario de registro y crear una cuenta</td>
+            <td>4</td>
+            <td>Godofredo Quispe</td>
+            <td>In process</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Inicio de sesión de usuario existente</td>
+            <td>02</td>
+            <td>Iniciar sesión mediante formulario</td>
+            <td>Usuario debe poder interactuar con el formulario de registro</td>
+            <td>4</td>
+            <td>Godofredo Quispe</td>
+            <td>In process</td>
+        </tr>
+         <tr>
+            <td>US09</td>
+            <td>Visualización de informes</td>
+            <td>03</td>
+            <td>Visualizar informes de cierta información estadística</td>
+            <td>Usuario debe poder interactuar con los grafos de estadísticas y ver información de cultivos</td>
+            <td>4</td>
+            <td>Paolo Guillen</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US05</td>
+            <td>Registrar cultivo</td>
+            <td>04</td>
+            <td>Registrar cultivo</td>
+            <td>El usuaria debe poder registrar el cultivo que desee</td>
+            <td>4</td>
+            <td>David Rivas</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US06</td>
+            <td>Eliminar registro de cultivo</td>
+            <td>05</td>
+            <td>Eliminar registro de cultivo en tabla de registros</td>
+            <td>El usuario debe poder eliminar cultivos previamente registrados</td>
+            <td>4</td>
+            <td>David Rivas</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US07</td>
+            <td>Visualización de registros</td>
+            <td>06</td>
+            <td>Ver cultivos registrados</td>
+            <td>El usuario debe poder visualizar sus cultivos registrados con información adicional</td>
+            <td>4</td>
+            <td>Diego Cantoral</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US08</td>
+            <td>Editar registro de cultivo</td>
+            <td>07</td>
+            <td>Editar cultivo registrado</td>
+            <td>El usuario debe poder editar un cultivo previamente registrado</td>
+            <td>4</td>
+            <td>David Rivas</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US18</td>
+            <td>Comunidad y foros</td>
+            <td>08</td>
+            <td>Interactuar con la pestaña de foro para ver preguntas y respuestas en relación a cultivos</td>
+            <td>El usuario debe poder interactuar con las preguntas y respuestas de la sección de foro, editando, eliminando, y creando.</td>
+            <td>4</td>
+            <td>Amner LLamno</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 <div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review</h5></div>
 
