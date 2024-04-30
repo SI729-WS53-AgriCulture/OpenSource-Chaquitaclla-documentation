@@ -63,6 +63,9 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 |Rivas Sarango, David Alejandro|Organizador del segundo sprint, enfocado en lo que es la sección de CRUD de cultivos|
 |Llamo Sánchez,Amner Levi|Encargado de realizar los merges , así como sección de foro de consultas y preguntas de la aplicación web|
 |Quispe Tipo, Godofredo|Encargado de realizar el login y sing up de los usuarios|
+
+
+
 **TP Github**
 <img src="resources/CommitsOpen.png" >
 <img src="resources/ActivitiesOpen.png" >
