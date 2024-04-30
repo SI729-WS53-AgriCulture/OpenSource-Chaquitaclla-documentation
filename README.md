@@ -2111,6 +2111,9 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |dars2002/Frontend-Web-Applications|feature/crud-crops|7ba5c3f|first commit of Chaquitaclla's frontend'|first commit of Chaquitaclla's frontend'|27/04/2024|
 |dars2002/Frontend-Web-Applications|main|b814bf9|Merge pull request #4 from OpenSourceWS53/feature/crud-crops|Merge pull request #4 from OpenSourceWS53/feature/crud-crops|27/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/home|12c4055|correction home y app|correction home y app|27/04/2024|
+|AmnerLS/Frontend-Web-Applications|feature/home|6422b18|correction home y app|correction home y app|27/04/2024|
+|dars2002/Frontend-Web-Applications|feature/home|6b2afa9|Merge pull request #5 from OpenSourceWS53/feature/home|Merge pull request #5 from OpenSourceWS53/feature/home|27/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crud-crops|c707eba|merge changes from main to feature/crops|merge changes from main to feature/crops|27/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crud-crops|4c5e2b8|Resolved merge conflicts|Resolved merge conflicts|27/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crud-crops|9ae9193|added crops component|added crops component|27/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crud-crops|323afa6|feat crops section|feat crops section|27/04/2024|
@@ -2118,20 +2121,22 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |PaoloGuilen/Frontend-Web-Applications|main|f29bcb6|Merge pull request #7 from OpenSourceWS53/feature/crops-statistics|Merge pull request #7 from OpenSourceWS53/feature/crops-statistics|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|d2efc66|feat: added pie chart to statistics section|feat: added pie chart to statistics section|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|ba5b8d0|feat: added pie chart that interacts with the db.json|feat: added pie chart that interacts with the db.json|28/04/2024|
-|PaoloGuilen/Frontend-Web-Applications|feature/statistics|ba5b8d0|feat: added another pie chart which interacts with the db.json in addition to interacting with /controls section of it.|feat: added another pie chart which interacts with the db.json in addition to interacting with /controls section of it.|28/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|feature/statistics|a770ea5|feat: added another pie chart which interacts with the db.json in addition to interacting with /controls section of it.|feat: added another pie chart which interacts with the db.json in addition to interacting with /controls section of it.|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|0600a2a|fix: fixed how pie charts are visualized|fix: fixed how pie charts are visualized|28/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|feat crops-history section|feat crops-history section|28/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|new crops-history section|new crops-history section|28/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides|feat general-information and crop-care slides|29/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-information|f8eda9e|fix crops/statistic section|fix crops/statistic section|29/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-information|142d562|fixed crop-information|fixed crop-information|29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-history|fefc923|feat crops-history section|feat crops-history section|28/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-history|fefc923|new crops-history section|new crops-history section|28/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-information|fa49c12|feat general-information and crop-care slides|feat general-information and crop-care slides|29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-history|9e09139|Merge pull request #10 from OpenSourceWS53/feature/crop-history|Merge pull request #10 from OpenSourceWS53/feature/crop-history|29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-information|f8eda9e|fix crops/statistic section|fix crops/statistic section|29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-information|142d562|fixed crop-information|fixed crop-information|29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|aef7780|corrections|corrections|29/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|feature/forum|478b71d|Merge pull request #15 from SI729-WS53-AgriCulture/feature/forum|Merge pull request #15 from SI729-WS53-AgriCulture/feature/forum|30/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|478b71d|fix(environment.development): changed the serverBasePath variable to the json-server one|fix(environment.development): changed the serverBasePath variable to the json-server on|30/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|a18eed0|fix: changed maximumWarning size|fix: changed maximumWarning size|30/04/2024|
-|diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
-|diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|38d2e39|feat: added details of every aspect of the information|feat: added details of every aspect of the information|30/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-information|1s2a982|Merge pull request #18 from SI729-WS53-AgriCulture/feature/crop-more-information|Merge pull request #18 from SI729-WS53-AgriCulture/feature/crop-more-information|30/04/2024|
+|diegocantoralp/Frontend-Web-Applications|feature/crop-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
+|diegocantoralp/Frontend-Web-Applications|feature/crop-more-information|38d2e39|feat: added details of every aspect of the information|feat: added details of every aspect of the information|30/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crop-information|1s2a982|Merge pull request #18 from SI729-WS53-AgriCulture/feature/crop-more-information|Merge pull request #18 from SI729-WS53-AgriCulture/feature/crop-more-information|30/04/2024|
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
