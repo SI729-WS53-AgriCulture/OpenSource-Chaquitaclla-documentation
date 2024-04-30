@@ -1924,6 +1924,8 @@ Gitflow repositorio Landing Page:
 <div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2</h5></div>
 En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
 
+<img src="resources/ssSprintBacklog2.JPG">
+
 <div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review</h5></div>
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
@@ -1942,7 +1944,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides||29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|478b71d|fix(environment.development): changed the serverBasePath variable to the json-server one||30/04/2024|
-|AmnerLS/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
+|diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
 Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Enlace del my-json-server: https://my-json-server.typicode.com/SI729-WS53-AgriCulture/db-server
