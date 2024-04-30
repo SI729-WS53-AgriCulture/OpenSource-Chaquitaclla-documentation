@@ -58,10 +58,10 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Guillen Luna, Paolo César|Desarrollo del dominio de los cultivos, su sección de datos estadísticos|
+|Guillen Luna, Paolo César|Desarrollo del dominio de los cultivos, su sección de datos estadísticos, además del despliegue de la frontend-web-application con ayuda de la herramienta de Firebase|
 |Cantoral Paredes, Diego André|Desarrollo de la sección de consultas/preguntas/foro de la aplicación front end|
 |Rivas Sarango, David Alejandro|Organizador del segundo sprint, enfocado en lo que es la sección de CRUD de cultivos|
-|Llamo Sánchez,Amner Levi|Encargado de realizar los merges y que la aplicación se despliegue a netlify sin problemas|
+|Llamo Sánchez,Amner Levi|Encargado de realizar los merges , así como sección de foro de consultas y preguntas de la aplicación web|
 |Quispe Tipo, Godofredo|Encargado de realizar el login y sing up de los usuarios|
 **TP Github**
 <img src="resources/CommitsOpen.png" >
@@ -1614,34 +1614,29 @@ Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el U
 
 ### Frontend-Web-Application Deployment
 
-Con el fin de poder desplegar nuestro fronten web application es necesario contar con requisitos similares a los mencionados para el despliegue de la landing page. Sin embargo, aquí se usará una plataforma ajena a github, llamada Netlify, que es excelente para el tema de despliegues de aplicaciones web con el fin de mostrar su uso.
+Con el fin de poder desplegar nuestro fronten web application es necesario contar con requisitos similares a los mencionados para el despliegue de la landing page. Sin embargo, aquí se usará una plataforma ajena a github, llamada Firebase, que es excelente para el tema de despliegues de aplicaciones web con el fin de mostrar su uso.
 
-**Link de Netlify:** https://www.netlify.com
+**Link de Firebase:** https://firebase.google.com
 
 A continuación se presentarán la serie de pasos a seguir: 
 
-1. Nos ubicams en **https://www.netlify.com** y hacemos click en "Deploy to Netlify"
-2. Seleccionamos la opción de "Sign up with Github". 
-3. Le otorgamos los permisos necesarios y continuamos.
-4. Completamos con la información que nos pida.
-5. Seleccionamos "Deploy with Github".
-6. Seleccionamos la organización la cual se le instalará Netlify, en este caso nuestra organización "OpenSourceWS53" 
-7. Encontradonos en la sección de instalar netlify, elegimos nuestro repositorio donde se vaya a encontrar la web application.
-8. Elegimos nuestra organización y el repositorio al que se les instalo netlify. 
-9. Hacemos click en "Deploy [nombreRepositorio] to Netlify".
-10. Esperamos y estaría todo listo!, al ser la primera entrega de nuestro proyecto, esta web todavía no cuenta con una web Application, por esta razón se estaría añadiendo los documentos de landing page por mientras.
+1. Usar ng build en el terminal del proyecto que vamos a desplegar, esto con el fin de prepararlo para este.
+2. Una vez realizado deberiamos de poder ver una carpeta "dist" en nuestro proyecto
+3. Posteriormente en el ide, en su terminal nos logeamos a lo que es firebase, el cual en mi caso ya lo hice.
+4. Una vez logeado, seguimos con el comando de firebase init.
+5. Le damos que (Y) a que estamos listos para proceder.
+6. Una vez terminado todos los procesos y haber elegido ">( ) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys   "
+7. Debemos de elegir la carpeta de nuestro proyecto que se va a desplegar al browser, siendo esta la direccion en nuestro caso: "dist/frontend-web-applications/browser"
+8. Tendríamos visualizar que la inicialización de Firebase se completo.
+9. Quedaría los ultimos pasos el cual es el despliegue, esto se realiza con el comando "firebase deploy" 
+10. Elegimos el proyecto de firebase en el cual se desplegara el proyecto y !Listo!, hemos podido desplegar nuestra aplicación web Frontend, que trabaja con datos de un json-server alojado en la siguiente url: 'https://my-json-server.typicode.com/SI729-WS53-AgriCulture/db-server'
 
+![stepOne](/resources/stepsDeploymentWebApp/webDeploymentOne.jpeg)
+![stepTwo](/resources/stepsDeploymentWebApp/webDeploymentTwo.jpeg)
+![stepThree](/resources/stepsDeploymentWebApp/webDeploymentThree.jpeg)
+![stepFour](/resources/stepsDeploymentWebApp/webDeploymentFour.jpeg)
+![stepFive](/resources/stepsDeploymentWebApp/webDeploymentFive.jpeg)
 
-![stepOne](/resources/stepsDeploymentWebApp/stepOneWeb.png)
-![stepTwo](/resources/stepsDeploymentWebApp/stepTwoWeb.png)
-![stepThree](/resources/stepsDeploymentWebApp/stepThreeWeb.png)
-![stepFour](/resources/stepsDeploymentWebApp/stepFourWeb.png)
-![stepFive](/resources/stepsDeploymentWebApp/stepFiveWeb.png)
-![stepSix](/resources/stepsDeploymentWebApp/stepSixWeb.png)
-![stepSeven](/resources/stepsDeploymentWebApp/stepSevenWeb.png)
-![stepEight](/resources/stepsDeploymentWebApp/stepEightWeb.png)
-![stepNine](/resources/stepsDeploymentWebApp/stepNineWeb.png)
-![stepTen](/resources/stepsDeploymentWebApp/stepTenWeb.png)
 
 
 ### Creación de ramas
