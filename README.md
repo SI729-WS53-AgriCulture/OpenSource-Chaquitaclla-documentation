@@ -2154,6 +2154,18 @@ El despliegue de la landing page se encuentra en lo que es GithubPages, por la f
 **Capturas de pantalla de la landing page**
 
 
+<img src="resources/pagesgithub/putOne.png"> 
+<img src="resources/pagesgithub/putTwo.png"> 
+<img src="resources/pagesgithub/putThree.png"> 
+<img src="resources/pagesgithub/putFour.png"> 
+<img src="resources/pagesgithub/putFive.png"> 
+<img src="resources/pagesgithub/putSix.png"> 
+<img src="resources/pagesgithub/putSeven.png"> 
+<img src="resources/pagesgithub/putEight.png"> 
+<img src="resources/pagesgithub/putNine.png"> 
+<img src="resources/pagesgithub/putTen.png"> 
+
+
 Web Application:
 
 Se certifica la exitosa implementación de la aplicación web frontend en lo que es Firebase, así como el correcto funcionamiento de esto en conjunto al uso del my-json-server, para el siguiente sprint se buscará implementar una mejor interfaz gráfica y más amigable para el usuario. 
