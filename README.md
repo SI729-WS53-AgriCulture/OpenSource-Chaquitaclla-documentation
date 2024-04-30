@@ -2122,7 +2122,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-documentation|main|720a06f|chore: uploaded acceptance test for user stories||30/04/2023|
+|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-documentation|main|0d4b7cb|chore: uploaded acceptance test for user stories||30/04/2023|
 
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
