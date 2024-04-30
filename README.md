@@ -2147,14 +2147,39 @@ Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarroll
 Nosotros como equipo, contamos con más endpoints sin embargo, my-json-server solo trabaja como máximo con 5 gratuitos, por lo tanto elegimos los que creiamos eran los más ideales.
 
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review</h5></div>
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo las user stories relacionadas a estas Igualmente se desplego lo que es web application de Chaquitaclla parcialmente completa, pues peresenta ciertos bugs así como ausencia de algunos hipervínculos para conectarse entre secciones de manera adecuada.
+
+Landing page:
+El despliegue de la landing page se encuentra en lo que es GithubPages, por la facilidad que permite para el despliegue de páginas web estáticas, como bien es el caso de una Landing Page.
+**Capturas de pantalla de la landing page**
+
+
+Web Application:
+
+Se certifica la exitosa implementación de la aplicación web frontend en lo que es Firebase, así como el correcto funcionamiento de esto en conjunto al uso del my-json-server, para el siguiente sprint se buscará implementar una mejor interfaz gráfica y más amigable para el usuario. 
+
+**Capturas de pantalla de la web application**
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
+
+
+|Alumno|Actividad|
+|-|-|
+|Guillen Luna, Paolo César|Reestructuración de la landing page. Elaboración del json-server. Despliegue de la aplicación web y landing page en Firebase y github pages respectivamente. Elaborar componente crops-statistics|
+|Cantoral, Diego|Elaborar componente crop-information para brindarle información al usuario sobre su cultivo registrado.|
+|Rivas, David|Elorar entidad crop, component register-crop, entre otros. Como miembro del equipo su actividad principal fue de confirmar que se sigan las nomenclaturas del código de forma correcta.|
+|Quispe Godofredo|Elaboración de componentes relacionados al registro de usuario y chequeo parcial por errores dentro del código.|
+|Llamno, Amner|Elaboración de los componentes relacionados a los foros. Elbaoración del db.json. Elaborar componente header (toolbar) y home|
 
 <img src="resources/tci2_1.JPG">
 <img src="resources/tci2_2.JPG">
 
 <img src="resources/gitflow1.JPG">
 <img src="resources/gitflow2.JPG">
+
+
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3</h5></div>
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
