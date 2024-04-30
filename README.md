@@ -1912,11 +1912,11 @@ Gitflow repositorio Landing Page:
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
-            <td>41</td>
+            <td>29</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>41</td>
+            <td>33</td>
         </tr>
     </tbody>
 </table>
@@ -2117,6 +2117,15 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|478b71d|fix(environment.development): changed the serverBasePath variable to the json-server one||30/04/2024|
 |diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-documentation|main||chore: uploaded acceptance test for user stories||30/04/2023|
+
+
+<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
 Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Enlace del my-json-server: https://my-json-server.typicode.com/SI729-WS53-AgriCulture/db-server
