@@ -2117,8 +2117,9 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|d2efc66|feat: added pie chart to statistics section|feat: added pie chart to statistics section|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|ba5b8d0|feat: added pie chart that interacts with the db.json|feat: added pie chart that interacts with the db.json|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|0600a2a|fix: fixed how pie charts are visualized|fix: fixed how pie charts are visualized|28/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|feat crops-history section||28/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides||29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|feat crops-history section|feat crops-history section|28/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|new crops-history section|new crops-history section|28/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides|1b033ce|29/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-information|f8eda9e|fix crops/statistic section|fix crops/statistic section|29/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-information|142d562|fixed crop-information|fixed crop-information|29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
