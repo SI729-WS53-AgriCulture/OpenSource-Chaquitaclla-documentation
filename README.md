@@ -1924,6 +1924,15 @@ Gitflow repositorio Landing Page:
 <div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2</h5></div>
 En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
 
+<div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review</h5></div>
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|dars2002/Frontend-Web-Applications|feature/crud-crops|7ba5c3f|first commit of Chaquitaclla's frontend'|first commit of Chaquitaclla's frontend'
+|27/04/2024|
+|dars2002/Frontend-Web-Applications|main|b814bf9|Merge pull request #4 from OpenSourceWS53/feature/crud-crops||27/04/2024|
+|AmnerLS/Frontend-Web-Applications|feature/home|12c4055|correction home y app||27/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crud-crops|9ae9193|added crops component||27/04/2024|
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
 Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Enlace del my-json-server: https://my-json-server.typicode.com/SI729-WS53-AgriCulture/db-server
