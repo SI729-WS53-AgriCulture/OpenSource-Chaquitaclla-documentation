@@ -2109,7 +2109,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
 |dars2002/Frontend-Web-Applications|feature/crud-crops|7ba5c3f|first commit of Chaquitaclla's frontend'|first commit of Chaquitaclla's frontend'|27/04/2024|
-|dars2002/Frontend-Web-Applications|main|b814bf9|Merge pull request #4 from OpenSourceWS53/feature/crud-crops||27/04/2024|
+|dars2002/Frontend-Web-Applications|main|b814bf9|Merge pull request #4 from OpenSourceWS53/feature/crud-crops|Merge pull request #4 from OpenSourceWS53/feature/crud-crops|27/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/home|12c4055|correction home y app|correction home y app|27/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crud-crops|9ae9193|added crops component|added crops component|27/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|bfc790b|feat: added crops-statistics component|feat: added crops-statistics component|28/04/2024|
@@ -2123,10 +2123,12 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |dars2002/Frontend-Web-Applications|feature/crops-information|f8eda9e|fix crops/statistic section|fix crops/statistic section|29/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-information|142d562|fixed crop-information|fixed crop-information|29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
-|PaoloGuilen/Frontend-Web-Applications|main|478b71d|fix(environment.development): changed the serverBasePath variable to the json-server one||30/04/2024|
+|AmnerLS/Frontend-Web-Applications|feature/forum|aef7780|corrections|corrections|29/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|main|478b71d|fix(environment.development): changed the serverBasePath variable to the json-server one|fix(environment.development): changed the serverBasePath variable to the json-server on|30/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|main|a18eed0|fix: changed maximumWarning size|fix: changed maximumWarning size|30/04/2024|
 |diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
 |diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|38d2e39|feat: added details of every aspect of the information|feat: added details of every aspect of the information|30/04/2024|
-
+|dars2002/Frontend-Web-Applications|feature/crops-information|1s2a982|Merge pull request #18 from SI729-WS53-AgriCulture/feature/crop-more-information|Merge pull request #18 from SI729-WS53-AgriCulture/feature/crop-more-information|30/04/2024|
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
