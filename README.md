@@ -24,7 +24,7 @@
 |:-:|:-:|:-:|:-:|
 |28/03/2024|1.0|Guillen Paolo|Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula|
 |30/03/2024|1.1|Diego Cantoral|Desarrollo del capítulo I y formular las preguntas de entrevista|
-| 31/03/2024 | 1.2     | Godofredo Quispe  |                             Desarrollo parcial del capítulo 1 y creacionn de los users stories                             |
+| 31/03/2024 | 1.2     | Godofredo Quispe  |                             Desarrollo parcial del capítulo 1 y creación de los users stories                             |
 | 10/04/2024 | 1.3     | Guillen Paolo, Diego Cantoral , Amner Llamo| Creación del figma para la creación de landing page y creación de los guidelines a seguir, análisis de las entrevistas realizadas y participación en la creación de la landing page en HTML| 
 | 12/04/2024 | 1.4     |  Rivas David |                           Finalización del landing page en html                             |
 | 12/04/2024 | 1.5     |  Llamo Amner  |                           Finalización de los wireframes y mock-ups de la aplicacion web      |
@@ -46,7 +46,7 @@ URL de la organización del proyecto: [https://github.com/OpenSourceWS53]
 |Cantoral Paredes, Diego André|Desarrollo del capítulo I, participante dentro de la documentación así como apoyo para realizar el modelo C4|
 |Rivas Sarango, David Alejandro|principal organizador de tareas para el primer sprint, investigar fuentes científicas confiables del problema a tratar|
 |Llamo Sánchez,Amner Levi|Principal diseñador de la aplicacion web, landing page y base de datos. Participar en el modelo C4 y apoyar con algunas historias de usuario y entrevistas.|
-|Quispe Tipo, Godofredo.| |
+|Quispe Tipo, Godofredo.| Princial encargado de conocer las necesidades de los usuarios, saber que se debe de modificar y que cosas se debe de implementar en la web app|
 
 **TB1 Github**
 
