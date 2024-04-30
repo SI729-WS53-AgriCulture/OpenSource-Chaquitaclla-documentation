@@ -2132,6 +2132,39 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se alcanzó en gran parte la codificación completa de los que es la aplicación web, más específicamente la web donde el usuario estaría realizando sus actividades en base a las historias de usuarios obtenidas. 
 Adjunto video de la evidencia: [https://drive.google.com/file/d/1ngrSCKEUCdGOfS_6DewG6LoP0LyWXSuy/view?usp=sharing]
 
+US01: Registro de usuario
+
+
+
+US02: Inicio de sesión de usuario
+
+
+
+US05: Registrar cultivo
+
+
+
+US06: Eliminar cultivo
+
+
+
+US07: Visualización de registros
+
+
+
+US08: Editar registros de cultivos
+
+
+
+US18: Comunidad y foros
+
+
+
+US09: Visualización de informes
+
+
+
+
 
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
@@ -2233,7 +2266,7 @@ Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí c
 <div id='8.'><h2>Anexos</h2></div>
 
 
-* **Frontend Web Application:** [https://chaquitaclla-open-source-tp.web.app/statistics]
+* **Frontend Web Application:** [https://chaquitaclla-open-source-tp.web.app/home]
 * **LandingPage:** [https://opensourcews53.github.io/Landing-Page/]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
