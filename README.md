@@ -1924,7 +1924,9 @@ Gitflow repositorio Landing Page:
 <div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2</h5></div>
 En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
 
-<img src="resources/ssSprintBacklog2.JPG">
+<img src="resources/sprintBacklogDos.jpeg">
+
+
 <table>
   <thead>
     <tr>
