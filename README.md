@@ -2114,11 +2114,17 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |dars2002/Frontend-Web-Applications|feature/crud-crops|9ae9193|added crops component|added crops component|27/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|bfc790b|feat: added crops-statistics component|feat: added crops-statistics component|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|f29bcb6|Merge pull request #7 from OpenSourceWS53/feature/crops-statistics|Merge pull request #7 from OpenSourceWS53/feature/crops-statistics|28/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|feature/statistics|d2efc66|feat: added pie chart to statistics section|feat: added pie chart to statistics section|28/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|feature/statistics|ba5b8d0|feat: added pie chart that interacts with the db.json|feat: added pie chart that interacts with the db.json|28/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|feature/statistics|0600a2a|fix: fixed how pie charts are visualized|fix: fixed how pie charts are visualized|28/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|feat crops-history section||28/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides||29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crops-information|f8eda9e|fix crops/statistic section|fix crops/statistic section|29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crops-information|142d562|fixed crop-information|fixed crop-information|29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|478b71d|fix(environment.development): changed the serverBasePath variable to the json-server one||30/04/2024|
 |diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
+|diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|38d2e39|feat: added details of every aspect of the information|feat: added details of every aspect of the information|30/04/2024|
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
 
