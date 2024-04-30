@@ -33,6 +33,8 @@
 |27/04/2024| 1.8|  Guillen Paolo, Diego Cantoral , Amner Llamo, Rivas David| Implementación completa de la landing page y actualización de la seccion 5.1.3|
 |28/04/2024| 1.9|  Guillen Paolo, Diego Cantoral , Amner Llamo| Implementación completa de la landing page y actualización de la seccion 5.1.3|
 |29/04/2024| 2.0|  Rivas David, Quispe Godofredo, Guillen Paolo, Diego Cantoral , Amner Llamo|Corrección de errores de lo mencionado por el profesor|
+|30/04/2024| 2.1|  Guillen Paolo |Añadir evidencias del segundo sprint de lo que se realizó de acuerdo a la meta planteada|
+|30/04/2024| 2.2|  Rivas David, Quispe Godofredo, Guillen Paolo, Diego Cantoral , Amner Llamo|Correciones finales y secciones del student outcome respecto al TP añadidas.|
 
 
 ## Project Report Collaboration Insights
