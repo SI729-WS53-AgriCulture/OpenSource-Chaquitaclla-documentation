@@ -1904,11 +1904,11 @@ Gitflow repositorio Landing Page:
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
-            <td>A examinar</td>
+            <td>41</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>A examinar</td>
+            <td>41</td>
         </tr>
     </tbody>
 </table>
