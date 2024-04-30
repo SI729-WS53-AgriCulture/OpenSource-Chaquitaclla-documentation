@@ -2111,15 +2111,18 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |dars2002/Frontend-Web-Applications|feature/crud-crops|7ba5c3f|first commit of Chaquitaclla's frontend'|first commit of Chaquitaclla's frontend'|27/04/2024|
 |dars2002/Frontend-Web-Applications|main|b814bf9|Merge pull request #4 from OpenSourceWS53/feature/crud-crops|Merge pull request #4 from OpenSourceWS53/feature/crud-crops|27/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/home|12c4055|correction home y app|correction home y app|27/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crud-crops|4c5e2b8|Resolved merge conflicts|Resolved merge conflicts|27/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crud-crops|9ae9193|added crops component|added crops component|27/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crud-crops|323afa6|feat crops section|feat crops section|27/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|bfc790b|feat: added crops-statistics component|feat: added crops-statistics component|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|main|f29bcb6|Merge pull request #7 from OpenSourceWS53/feature/crops-statistics|Merge pull request #7 from OpenSourceWS53/feature/crops-statistics|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|d2efc66|feat: added pie chart to statistics section|feat: added pie chart to statistics section|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|ba5b8d0|feat: added pie chart that interacts with the db.json|feat: added pie chart that interacts with the db.json|28/04/2024|
+|PaoloGuilen/Frontend-Web-Applications|feature/statistics|ba5b8d0|feat: added another pie chart which interacts with the db.json in addition to interacting with /controls section of it.|feat: added another pie chart which interacts with the db.json in addition to interacting with /controls section of it.|28/04/2024|
 |PaoloGuilen/Frontend-Web-Applications|feature/statistics|0600a2a|fix: fixed how pie charts are visualized|fix: fixed how pie charts are visualized|28/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|feat crops-history section|feat crops-history section|28/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-history|fefc923|new crops-history section|new crops-history section|28/04/2024|
-|dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides|1b033ce|29/04/2024|
+|dars2002/Frontend-Web-Applications|feature/crops-information|fa49c12|feat general-information and crop-care slides|feat general-information and crop-care slides|29/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-information|f8eda9e|fix crops/statistic section|fix crops/statistic section|29/04/2024|
 |dars2002/Frontend-Web-Applications|feature/crops-information|142d562|fixed crop-information|fixed crop-information|29/04/2024|
 |AmnerLS/Frontend-Web-Applications|feature/forum|18af4f4|add forum|add forum|29/04/2024|
