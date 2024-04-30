@@ -1926,108 +1926,172 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 
 <img src="resources/ssSprintBacklog2.JPG">
 <table>
-    <thead>
-        <tr>
-            <td>Sprint #:</td>
-            <td colspan="7">Sprint 1</td>
-        </tr>
-        <tr>
-            <td colspan="2">User Story</td>
-            <td colspan="6">Work-Item / Task</td>
-        </tr>
-        <tr>
-            <td>ID</td>
-            <td>Title</td>
-            <td>ID</td>
-            <td>Title</td>
-            <td>Description</td>
-            <td>Estimation (Hours)</td>
-            <td>Assigned to</td>
-            <td>Status (To-Do/In-Process/To-Review/Done)</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>US01</td>
-            <td>Registro de usuario</td>
-            <td>01</td>
-            <td>Registro de usuario mediante formulario</td>
-            <td>Usuario debe poder interactuar con el formulario de registro y crear una cuenta</td>
-            <td>4</td>
-            <td>Godofredo Quispe</td>
-            <td>In process</td>
-        </tr>
-        <tr>
-            <td>US02</td>
-            <td>Inicio de sesión de usuario existente</td>
-            <td>02</td>
-            <td>Iniciar sesión mediante formulario</td>
-            <td>Usuario debe poder interactuar con el formulario de registro</td>
-            <td>4</td>
-            <td>Godofredo Quispe</td>
-            <td>In process</td>
-        </tr>
-         <tr>
-            <td>US09</td>
-            <td>Visualización de informes</td>
-            <td>03</td>
-            <td>Visualizar informes de cierta información estadística</td>
-            <td>Usuario debe poder interactuar con los grafos de estadísticas y ver información de cultivos</td>
-            <td>4</td>
-            <td>Paolo Guillen</td>
-            <td>Done</td>
-        </tr>
-         <tr>
-            <td>US05</td>
-            <td>Registrar cultivo</td>
-            <td>04</td>
-            <td>Registrar cultivo</td>
-            <td>El usuaria debe poder registrar el cultivo que desee</td>
-            <td>4</td>
-            <td>David Rivas</td>
-            <td>Done</td>
-        </tr>
-          <tr>
-            <td>US06</td>
-            <td>Eliminar registro de cultivo</td>
-            <td>05</td>
-            <td>Eliminar registro de cultivo en tabla de registros</td>
-            <td>El usuario debe poder eliminar cultivos previamente registrados</td>
-            <td>4</td>
-            <td>David Rivas</td>
-            <td>Done</td>
-        </tr>
-          <tr>
-            <td>US07</td>
-            <td>Visualización de registros</td>
-            <td>06</td>
-            <td>Ver cultivos registrados</td>
-            <td>El usuario debe poder visualizar sus cultivos registrados con información adicional</td>
-            <td>4</td>
-            <td>Diego Cantoral</td>
-            <td>Done</td>
-        </tr>
-          <tr>
-            <td>US08</td>
-            <td>Editar registro de cultivo</td>
-            <td>07</td>
-            <td>Editar cultivo registrado</td>
-            <td>El usuario debe poder editar un cultivo previamente registrado</td>
-            <td>4</td>
-            <td>David Rivas</td>
-            <td>Done</td>
-        </tr>
-         <tr>
-            <td>US18</td>
-            <td>Comunidad y foros</td>
-            <td>08</td>
-            <td>Interactuar con la pestaña de foro para ver preguntas y respuestas en relación a cultivos</td>
-            <td>El usuario debe poder interactuar con las preguntas y respuestas de la sección de foro, editando, eliminando, y creando.</td>
-            <td>4</td>
-            <td>Amner LLamno</td>
-            <td>Done</td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">US01</th>
+      <td rowspan="2">Registro de usuario</td>
+      <td>TK01</td>
+      <td>Diseñar formulario de registro</td>
+      <td>Crear la estructura del formulario con campos básicos para nombre, correo, contraseña, y confirmación de contraseña.</td>
+      <td>3</td>
+      <td>Godofredo Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TK02</td>
+      <td>Implementar formulario de registro</td>
+      <td>Agregar funcionalidad para que el formulario permita crear un nuevo usuario y realizar validaciones.</td>
+      <td>5</td>
+      <td>Godofredo Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US02</th>
+      <td rowspan="2">Inicio de sesión de usuario existente</td>
+      <td>TK03</td>
+      <td>Diseñar formulario de inicio de sesión</td>
+      <td>Crear el formulario para que el usuario pueda ingresar con su correo y contraseña.</td>
+      <td>3</td>
+      <td>Godofredo Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TK04</td>
+      <td>Implementar formulario de inicio de sesión</td>
+      <td>Agregar funcionalidad para verificar credenciales y permitir el acceso al usuario.</td>
+      <td>5</td>
+      <td>Godofredo Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US09</th>
+      <td rowspan="2">Visualización de informes</td>
+      <td>TK05</td>
+      <td>Diseñar interfaz para informes</td>
+      <td>Crear la interfaz gráfica para visualizar informes y datos estadísticos.</td>
+      <td>3</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK06</td>
+      <td>Implementar funcionalidad para informes</td>
+      <td>Agregar lógica para generar y mostrar datos estadísticos en la interfaz de informes.</td>
+      <td>5</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US05</th>
+      <td rowspan="2">Registrar cultivo</td>
+      <td>TK07</td>
+      <td>Diseñar formulario para registrar cultivo</td>
+      <td>Crear un formulario para que el usuario pueda registrar un nuevo cultivo.</td>
+      <td>3</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK08</td>
+      <td>Implementar funcionalidad para registrar cultivo</td>
+      <td>Agregar lógica para guardar el cultivo registrado por el usuario.</td>
+      <td>5</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <th rowspan="2">US06</th>
+      <td rowspan="2">Eliminar registro de cultivo</td>
+      <td>TK09</td>
+      <td>Diseñar interfaz para eliminación de cultivo</td>
+      <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
+      <td>3</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK10</td>
+      <td>Implementar funcionalidad para eliminar cultivo</td>
+      <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
+      <td>5</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US07</th>
+      <td rowspan="2">Visualización de registros</td>
+      <td>TK11</td>
+      <td>Diseñar interfaz para visualización de cultivos</td>
+      <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK12</td>
+      <td>Implementar funcionalidad para visualizar registros</td>
+      <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
+      <td>5</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US08</th>
+      <td rowspan="2">Editar registro de cultivo</td>
+      <td>TK13</td>
+      <td>Diseñar interfaz para editar cultivo</td>
+      <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
+      <td>3</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Implementar funcionalidad para editar cultivo</td>
+      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
+      <td>5</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US18</th>
+      <td rowspan="2">Comunidad y foros</td>
+      <td>TK15</td>
+      <td>Diseñar interfaz para foros</td>
+      <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
+      <td>3</td>
+      <td>Amner LLamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Implementar funcionalidad para foros</td>
+      <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
+      <td>5</td>
+      <td>Amner LLamno</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
 </table>
 
 
