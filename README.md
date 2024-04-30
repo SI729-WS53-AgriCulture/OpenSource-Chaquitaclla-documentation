@@ -2119,12 +2119,14 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 |diegocantoralp/Frontend-Web-Applications|feature/crops-more-information|9c16131|feat: added crop-information|feat: added crop-information|30/04/2024|
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
+
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
 |https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-documentation|main||chore: uploaded acceptance test for user stories||30/04/2023|
 
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se alcanzó en gran parte la codificación completa de los que es la aplicación web, más específicamente la web donde el usuario estaría realizando sus actividades en base a las historias de usuarios obtenidas. 
 Adjunto video de la evidencia: [https://drive.google.com/file/d/1ngrSCKEUCdGOfS_6DewG6LoP0LyWXSuy/view?usp=sharing]
 
