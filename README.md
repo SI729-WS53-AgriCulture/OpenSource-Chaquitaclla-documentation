@@ -62,7 +62,7 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 |Cantoral Paredes, Diego André|Desarrollo de la sección de consultas/preguntas/foro de la aplicación front end|
 |Rivas Sarango, David Alejandro|Organizador del segundo sprint, enfocado en lo que es la sección de CRUD de cultivos|
 |Llamo Sánchez,Amner Levi|Encargado de realizar los merges y que la aplicación se despliegue a netlify sin problemas|
-
+|Quispe Tipo, Godofredo|Encargado de realizar el login y sing up de los usuarios|
 **TP Github**
 <img src="resources/CommitsOpen.png" >
 <img src="resources/ActivitiesOpen.png" >
