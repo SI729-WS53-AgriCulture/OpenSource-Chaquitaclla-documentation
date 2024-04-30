@@ -173,8 +173,8 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |**Diego Cantoral** <br>TB1: En esta entrega se realizó la descripciones del startup y la definición de los segmentos objetivos que se tomarán en cuenta. Es así también a la vez que se planteó las preguntas de las entrevistas que se harían a los segmentos objetivos y technical stories. TP: Para esta entrega desarrollé de los componentes de crop-information acorde al diseño y muestra de información planteado en la entrega anterior. **Godofredo Quispe** <br>TB1: En esta entregable se realizo el criterio de Requirements Specification para conocer los puntos a implementar segun las nececidaddes de nuestros usuarios. TP: Para esta entrega del trabajo parcial me centré en todo lo relacionado con lo que es el registro de sesión e inicio de esta, para que los usuarios puedan entrar a nuestra aplicación de una forma mucho mejor. <br>**Amner Llamo**<br>TB1:En esta entrega se realizó el diseño de la aplicacion web y landing page para brindar una buena experiencia a nuestros usuarios.<br> TP: Para esta entrega desarrollé de los componentes foro de preguntas y respuestas acorde al diseño y muestra de información planteado en la entrega anterior. <br>**Paolo Guillen**TB1: Dentro de lo que realice en esta entrega fue coordinar las actividades de mi equipo, además de haber hecho la investigación del problema a solucionar en conjunto a mi equipo, realicé lo que es la landing page así como el diseño de la carátula de la documentacipon. TP: Para la entrega del trabajo parcial trabaje como sublíder, revisando las tareas de cada uno de los miembros y que se ejecuten lo mejor que se pueda, de igual forma me enfoque en lo que es el despliegue de la web application y landing page de forma correcta, esto con el fin que según estuvieramos trabajando con gitflow, nuestros cambios se verían reflejados en lo que es un apartado visual y trabajar con el equipo de mejor manera, de igual forma participe en lo que es el desarrollo de la web application mediante el desarrollo del componente de crops-statistics<br> **Rivas David**TB1: Como parte de este entrega participé como líder del grupo, organizando actividades en conjunto a Paolo y apoyando en lo que pude, lo cual fue participar en la organización del Sprint 1 así como creación de User Stories. TP: En esta entrega implementé el apartado CRUD de los cultivos además de participar como líder del equipo de trabajo para el proyecto. |Como equipo realizamos los aspectos requeridos para un desarrollo apropiado de una aplicación concreta y bien estructurada, lo que también nos permitió completar todos los segmentos que necesitaba el trabajo; y así entregar un trabajo digno. TP: Para esta entrega de trabajo de parcial, todos los integrantes se apoyaron mutuamente, teniendo como mínimo una participación sin importar el componente en el que hayan trabajdo, todo esto con el fin de presentar un trabajo bien realizado, siguiendo y utilizando lo que es Angular, finalmente para el despliegue de proyecto, si bien un miembro fue quien lo hizo, todo el grupo en conjunto participó para la correcta presentación de este.||
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Todos los integrantes del grupo:** TB1: Durante el desarrollo del proyecto, nuestro equipo se enfocó en el sector de agricultura para obtener un entendimiento más profundo sobre este dominio y las soluciones de software que se pueden aplicar en él. Realizamos investigaciones exhaustivas y llevamos a cabo un proceso de Needfinding, en el cual entrevistamos a expertos y a actores clave en el campo agrícola. A partir de estas interacciones, recopilamos información valiosa que nos permitió comprender mejor las necesidades y desafíos específicos de este sector.TP: Para esta segunda entrega, la cual tiene como foco lo que es el trabajo parcial, implementamos las correciones de la landing page e implementación de la web application, desplegandolas en github pages y firebase, siendo la segunda plataforma la cual teniamos menos conocimiento, lo cual en base a esto hemos podido desarrollar las competencias de dominar la aplicación de soluciones de software, puesto este trabajo se podría interpretar como un breve vistazo a lo que sería un proyecto de software real |TB1: Como primera entrega, hemos logrado un entendimiento inicial del sector agrícola y de cómo las soluciones de software pueden abordar sus necesidades. A través del proceso de Needfinding y entrevistas con expertos, obtuvimos una perspectiva clara de los problemas que enfrentan. Gracias a esto hemos podido diseñar los wireframes así como mock ups, con el fin de crear la mejor experiencia visual para el usuario.|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |**Diego Cantoral** <br>TB1: En esta entrega se realizó la descripciones del startup y la definición de los segmentos objetivos que se tomarán en cuenta. Es así también a la vez que se planteó las preguntas de las entrevistas que se harían a los segmentos objetivos y technical stories. TP: Para esta entrega desarrollé de los componentes de crop-information acorde al diseño y muestra de información planteado en la entrega anterior. **Godofredo Quispe** <br>TB1: En esta entregable se realizo el criterio de Requirements Specification para conocer los puntos a implementar segun las nececidaddes de nuestros usuarios. TP: Para esta entrega del trabajo parcial me centré en todo lo relacionado con lo que es el registro de sesión e inicio de esta, para que los usuarios puedan entrar a nuestra aplicación de una forma mucho mejor. <br>**Amner Llamo**<br>TB1:En esta entrega se realizó el diseño de la aplicacion web y landing page para brindar una buena experiencia a nuestros usuarios.<br> TP: Para esta entrega desarrollé de los componentes foro de preguntas y respuestas acorde al diseño y muestra de información planteado en la entrega anterior. <br>**Paolo Guillen**TB1: Dentro de lo que realice en esta entrega fue coordinar las actividades de mi equipo, además de haber hecho la investigación del problema a solucionar en conjunto a mi equipo, realicé lo que es la landing page así como el diseño de la carátula de la documentacipon. TP: Para la entrega del trabajo parcial trabaje como sublíder, revisando las tareas de cada uno de los miembros y que se ejecuten lo mejor que se pueda, de igual forma me enfoque en lo que es el despliegue de la web application y landing page de forma correcta, esto con el fin que según estuvieramos trabajando con gitflow, nuestros cambios se verían reflejados en lo que es un apartado visual y trabajar con el equipo de mejor manera, de igual forma participe en lo que es el desarrollo de la web application mediante el desarrollo del componente de crops-statistics<br> **Rivas David**TB1: Como parte de este entrega participé como líder del grupo, organizando actividades en conjunto a Paolo y apoyando en lo que pude, lo cual fue participar en la organización del Sprint 1 así como creación de User Stories. TP: En esta entrega implementé el apartado CRUD de los cultivos además de participar como líder del equipo de trabajo para el proyecto. |TB1: Como equipo realizamos los aspectos requeridos para un desarrollo apropiado de una aplicación concreta y bien estructurada, lo que también nos permitió completar todos los segmentos que necesitaba el trabajo; y así entregar un trabajo digno. TP: Para esta entrega de trabajo de parcial, todos los integrantes se apoyaron mutuamente, teniendo como mínimo una participación sin importar el componente en el que hayan trabajdo, todo esto con el fin de presentar un trabajo bien realizado, siguiendo y utilizando lo que es Angular, finalmente para el despliegue de proyecto, si bien un miembro fue quien lo hizo, todo el grupo en conjunto participó para la correcta presentación de este.||
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Todos los integrantes del grupo:** TB1: Durante el desarrollo del proyecto, nuestro equipo se enfocó en el sector de agricultura para obtener un entendimiento más profundo sobre este dominio y las soluciones de software que se pueden aplicar en él. Realizamos investigaciones exhaustivas y llevamos a cabo un proceso de Needfinding, en el cual entrevistamos a expertos y a actores clave en el campo agrícola. A partir de estas interacciones, recopilamos información valiosa que nos permitió comprender mejor las necesidades y desafíos específicos de este sector.TP: Para esta segunda entrega, la cual tiene como foco lo que es el trabajo parcial, implementamos las correciones de la landing page e implementación de la web application, desplegandolas en github pages y firebase, siendo la segunda plataforma la cual teniamos menos conocimiento, lo cual en base a esto hemos podido desarrollar las competencias de dominar la aplicación de soluciones de software, puesto este trabajo se podría interpretar como un breve vistazo a lo que sería un proyecto de software real |TB1: Como primera entrega, hemos logrado un entendimiento inicial del sector agrícola y de cómo las soluciones de software pueden abordar sus necesidades. A través del proceso de Needfinding y entrevistas con expertos, obtuvimos una perspectiva clara de los problemas que enfrentan. Gracias a esto hemos podido diseñar los wireframes así como mock ups, con el fin de crear la mejor experiencia visual para el usuario. TP: Como conclusión de esta entrega de trabajo parcial, todos los integrantes formaron parte en lo que es aprender más del sector de agricultura, sector el cual nos enfocamos, todo esto para brindar una aplicación web de acorde a las necesidades de nuestros usuario, por lo tanto nuestro entendimiento de este sector a mejorado según lo mencionado en la entrega.|
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
@@ -2152,35 +2152,41 @@ Adjunto video de la evidencia: [https://drive.google.com/file/d/1ngrSCKEUCdGOfS_
 US01: Registro de usuario
 
 
+<img src="resources/historiaUnoFoto.png">
 
 US02: Inicio de sesión de usuario
 
 
+<img src="resources/historiaDosFoto.png">
 
 US05: Registrar cultivo
+<img src="resources/historiaTresFoto.png">
 
 
 
 US06: Eliminar cultivo
 
-
-
-US07: Visualización de registros
-
+<img src="resources/historiaCuatroFoto.png">
 
 
 US08: Editar registros de cultivos
 
+<img src="resources/historiaCincoFoto.png">
+
+
+US07: Visualización de registros
+
+<img src="resources/historiaSeisFoto.png">
 
 
 US18: Comunidad y foros
 
-
+<img src="resources/historiaSieteFoto.png">
 
 US09: Visualización de informes
 
-
-
+<img src="resources/historiaOchoFoto.png">
+<img src="resources/historiaNueveFoto.png">
 
 
 
