@@ -1783,7 +1783,7 @@ Enlace al Trello: [https://trello.com/b/tYwyLYYh/sprint-backlog-1]
             <td>Usuario debe poder interactuar con la sección de beneficios de Chaquitaclla</td>
             <td>3</td>
             <td>Amner Llamno</td>
-            <td>In-Process</td>
+            <td>Done</td>
         </tr>
          <tr>
             <td>US21</td>
@@ -1793,7 +1793,7 @@ Enlace al Trello: [https://trello.com/b/tYwyLYYh/sprint-backlog-1]
             <td>El usuaria debe poder de forma clara y simple la sección de equipo de Chaquitaclla</td>
             <td>4</td>
             <td>Paolo Guillen</td>
-            <td>In-Process</td>
+            <td>Done</td>
         </tr>
          <tr>
             <td>US17</td>
@@ -1802,8 +1802,18 @@ Enlace al Trello: [https://trello.com/b/tYwyLYYh/sprint-backlog-1]
             <td>Navegar en la landing page</td>
             <td>Navegar por la landing page sin problemas y de forma clara</td>
             <td>3</td>
-            <td>Amner Llamno</td>
+            <td>Amner Llamno/td>
             <td>Done</td>
+        </tr>
+            <tr>
+            <td>US10</td>
+            <td>Ver video sobre el equipo en la landing page</td>
+            <td>05</td>
+            <td>Visualizar sección en la landing page con video sobre el equipo</td>
+            <td>Visualizar video del equipo en la sección de la landing page</td>
+            <td>3</td>
+            <td>David Rivas/td>
+            <td>In-Process</td>
         </tr>
     </tbody>
 </table>
