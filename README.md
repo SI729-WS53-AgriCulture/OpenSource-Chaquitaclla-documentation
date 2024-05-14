@@ -1718,11 +1718,11 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>8</td>
+            <td>9</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>8</td>
+            <td>9</td>
         </tr>
     </tbody>
 </table>
@@ -1929,11 +1929,11 @@ Gitflow repositorio Landing Page:
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
-            <td>29</td>
+            <td>25</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>33</td>
+            <td>25</td>
         </tr>
     </tbody>
 </table>
@@ -1967,45 +1967,9 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
   </thead>
   <tbody>
     <tr>
-      <th rowspan="2">US01</th>
-      <td rowspan="2">Registro de usuario</td>
-      <td>TK01</td>
-      <td>Diseñar formulario de registro</td>
-      <td>Crear la estructura del formulario con campos básicos para nombre, correo, contraseña, y confirmación de contraseña.</td>
-      <td>3</td>
-      <td>Godofredo Quispe</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>TK02</td>
-      <td>Implementar formulario de registro</td>
-      <td>Agregar funcionalidad para que el formulario permita crear un nuevo usuario y realizar validaciones.</td>
-      <td>5</td>
-      <td>Godofredo Quispe</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <th rowspan="2">US02</th>
-      <td rowspan="2">Inicio de sesión de usuario existente</td>
-      <td>TK03</td>
-      <td>Diseñar formulario de inicio de sesión</td>
-      <td>Crear el formulario para que el usuario pueda ingresar con su correo y contraseña.</td>
-      <td>3</td>
-      <td>Godofredo Quispe</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>TK04</td>
-      <td>Implementar formulario de inicio de sesión</td>
-      <td>Agregar funcionalidad para verificar credenciales y permitir el acceso al usuario.</td>
-      <td>5</td>
-      <td>Godofredo Quispe</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
       <th rowspan="2">US09</th>
       <td rowspan="2">Visualización de informes</td>
-      <td>TK05</td>
+      <td>TK02</td>
       <td>Diseñar interfaz para informes</td>
       <td>Crear la interfaz gráfica para visualizar informes y datos estadísticos.</td>
       <td>3</td>
@@ -2013,7 +1977,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Done</td>
     </tr>
     <tr>
-      <td>TK06</td>
+      <td>TK03</td>
       <td>Implementar funcionalidad para informes</td>
       <td>Agregar lógica para generar y mostrar datos estadísticos en la interfaz de informes.</td>
       <td>5</td>
@@ -2023,7 +1987,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
     <tr>
       <th rowspan="2">US05</th>
       <td rowspan="2">Registrar cultivo</td>
-      <td>TK07</td>
+      <td>TK04</td>
       <td>Diseñar formulario para registrar cultivo</td>
       <td>Crear un formulario para que el usuario pueda registrar un nuevo cultivo.</td>
       <td>3</td>
@@ -2031,7 +1995,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Done</td>
     </tr>
     <tr>
-      <td>TK08</td>
+      <td>TK05</td>
       <td>Implementar funcionalidad para registrar cultivo</td>
       <td>Agregar lógica para guardar el cultivo registrado por el usuario.</td>
       <td>5</td>
@@ -2041,7 +2005,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <tr>
       <th rowspan="2">US06</th>
       <td rowspan="2">Eliminar registro de cultivo</td>
-      <td>TK09</td>
+      <td>TK06</td>
       <td>Diseñar interfaz para eliminación de cultivo</td>
       <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
       <td>3</td>
@@ -2049,7 +2013,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Done</td>
     </tr>
     <tr>
-      <td>TK10</td>
+      <td>TK07</td>
       <td>Implementar funcionalidad para eliminar cultivo</td>
       <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
       <td>5</td>
@@ -2059,7 +2023,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
     <tr>
       <th rowspan="2">US07</th>
       <td rowspan="2">Visualización de registros</td>
-      <td>TK11</td>
+      <td>TK08</td>
       <td>Diseñar interfaz para visualización de cultivos</td>
       <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
       <td>3</td>
@@ -2067,7 +2031,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Done</td>
     </tr>
     <tr>
-      <td>TK12</td>
+      <td>TK09</td>
       <td>Implementar funcionalidad para visualizar registros</td>
       <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
       <td>5</td>
@@ -2077,25 +2041,12 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
     <tr>
       <th rowspan="2">US08</th>
       <td rowspan="2">Editar registro de cultivo</td>
-      <td>TK13</td>
+      <td>TK10</td>
       <td>Diseñar interfaz para editar cultivo</td>
       <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
-      <td>3</td>
-      <td>David Rivas</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK14</td>
-      <td>Implementar funcionalidad para editar cultivo</td>
-      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
-      <td>5</td>
-      <td>David Rivas</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="2">US18</th>
+     owspan="2">US18</th>
       <td rowspan="2">Comunidad y foros</td>
-      <td>TK15</td>
+      <td>TK12</td>
       <td>Diseñar interfaz para foros</td>
       <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
       <td>3</td>
@@ -2110,8 +2061,69 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Amner LLamno</td>
       <td>Done</td>
     </tr>
+       <tr>
+      <th rowspan="2">US10</th>
+      <td rowspan="2">Ver video sobre el equipo en la landing page</td>
+      <td>TK17</td>
+      <td>Diseñar la interfaz para el video del equipo</td>
+      <td>Crear la sección en la landing page para mostrar el video del equipo.</td>
+      <td>3</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Implementar funcionalidad para el video del equipo</td>
+      <td>Agregar la lógica para mostrar y reproducir el video en la landing page.</td>
+      <td>4</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+  <th rowspan="1">US13</th>
+  <td rowspan="1">Buscar los servicios que deseo utilizar</td>
+  <td>TK19</td>
+  <td>Diseñar la interfaz para el cuadro de búsqueda de servicios</td>
+  <td>Crear el diseño visual para el cuadro de búsqueda de servicios en la aplicación.</td>
+  <td>1</td>
+  <td>Amner Llamno</td>
+  <td>Done</td>
+</tr>
+      <tr>
+  <th rowspan="1">US15</th>
+  <td rowspan="1">Planificación de cultivos</td>
+  <td>TK20</td>
+  <td>Desarrollar herramientas para la rotación de cultivos</td>
+  <td>Crear herramientas que ayuden con la planificación y rotación de cultivos en el huerto.</td>
+  <td>3</td>
+  <td>Amner Llamno</td>
+  <td>Done</td>
+</tr>
+      <tr>
+  <th rowspan="1">US16</th>
+  <td rowspan="1">Compatibilidad con otros dispositivos</td>
+  <td>TK21</td>
+  <td>Desarrollar una aplicación o interfaz para gestionar el huerto desde dispositivos móviles</td>
+  <td>Permitir la gestión del huerto desde teléfonos inteligentes o tabletas en cualquier lugar y momento.</td>
+  <td>2</td>
+  <td>Diego Cantoral</td>
+  <td>Done</td>
+</tr>
   </tbody>
-</table>
+</table> <td>3</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK11</td>
+      <td>Implementar funcionalidad para editar cultivo</td>
+      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
+      <td>5</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th r
 
 
 
