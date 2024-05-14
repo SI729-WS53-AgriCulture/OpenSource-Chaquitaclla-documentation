@@ -1550,16 +1550,24 @@ Se ha utilizado Github para alojar los distintos repositorios creados por los mi
 <table>
     <tbody>
         <tr>
-            <td>Link Landing Page:</td>
-            <td> https://github.com/OpenSourceWS53/Landing-Page </td>
+            <td> OpenSource-Chaquitaclla-landing-page </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-landing-page </td>
         </tr>
         <tr>
-            <td>Link Web Services: </td>
-            <td>https://github.com/OpenSourceWS53/Web-Services </td>
+            <td>Link Chaquitaclla-web-services: </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services </td>
         </tr>
         <tr>
             <td>Link Front Web Applications: </td>
-            <td>https://github.com/OpenSourceWS53/Frontend-Web-Applications </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications </td>
+        </tr>
+        <tr>
+            <td>Link "testing": </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/testing </td>
+        </tr>
+        <tr>
+            <td>Link "db-server": </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/db-server </td>
         </tr>
     </tbody>
 </table>
@@ -2319,6 +2327,6 @@ Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí c
 
 
 * **Frontend Web Application:** [https://chaquitaclla-open-source-tp.web.app/home]
-* **LandingPage:** [https://opensourcews53.github.io/Landing-Page/]
+* **LandingPage:** [https://si729-ws53-agriculture.github.io/OpenSource-Chaquitaclla-landing-page/]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
