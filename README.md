@@ -1411,7 +1411,7 @@ A continuación se presenta el diccionario de clases correspondiente al diagrama
 
 A continuación se presenta el diagrama de la base de datos de ChaquiTaclla, el cual muestra las tablas y las relaciones entre ellas.
 
-<img src="resources/ChaquitacllaDatabase.png">
+<img src="resources/ChaquitacllaDatabase2.png">
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
