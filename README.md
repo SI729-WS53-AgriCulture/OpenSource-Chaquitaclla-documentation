@@ -2317,6 +2317,66 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3</h5></div>
 
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>20/05/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00 hrs</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Agriculture</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Tipo, Godofredo / Rivas Sarango, David Alejandro / Cantoral Paredes, Diego André</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>Se logró una correcta implementación de lo que es el frontend-web-application y mejoras de la landing page.</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>A pesar de haber tenido conflictos respecto a las tareas a realizar, se logró en gran medida una correcta implementación de las historias de usuarios para aquel         sprint</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Implementar lo restante del frontend-web-application. Además de implementar un backend</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>To-be-assigned</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>35</td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3</h5></div>
+
+
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
