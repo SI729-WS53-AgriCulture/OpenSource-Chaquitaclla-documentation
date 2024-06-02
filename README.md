@@ -2469,126 +2469,376 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Done</td>
     </tr>
       <tr>
-      <th rowspan="2">US06</th>
-      <td rowspan="2">Eliminar registro de cultivo</td>
+      <th rowspan="3">US19</th>
+      <td rowspan="3">Recuperación de contraseña olvidada - Front</td>
       <td>TK06</td>
-      <td>Diseñar interfaz para eliminación de cultivo</td>
-      <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
-      <td>3</td>
+      <td>Diseñar seccion de contraseña olvidada</td>
+      <td>crear componente en angular</td>
+      <td>1</td>
       <td>Amner Llamno</td>
-      <td>Done</td>
+      <td>In-Progress</td>
     </tr>
     <tr>
       <td>TK07</td>
-      <td>Implementar funcionalidad para eliminar cultivo</td>
-      <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
-      <td>5</td>
+      <td>Implementar seccion</td>
+      <td>implementar la conexion con el backend</td>
+      <td>2</td>
       <td>Amner Llamno</td>
-      <td>Done</td>
+      <td>In-Progress</td>
+    </tr>
+      <tr>
+      <td>TK07</td>
+      <td>verificar la correcta funcionalidad</td>
+      <td>verificar que se cambie la contraseña mediante un mensaje de consola o un dialog apareciendo</td>
+      <td>2</td>
+      <td>Amner Llamno</td>
+      <td>In-Progress</td>
     </tr>
     <tr>
-      <th rowspan="2">US07</th>
-      <td rowspan="2">Visualización de registros</td>
+      <th rowspan="4">US12</th>
+      <td rowspan="4">Editar perfil de usuario - Front</td>
       <td>TK08</td>
-      <td>Diseñar interfaz para visualización de cultivos</td>
-      <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
-      <td>3</td>
-      <td>Diego Cantoral</td>
-      <td>Done</td>
+      <td>Creacion de componente</td>
+      <td>crear el componente de angular</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
     </tr>
     <tr>
       <td>TK09</td>
-      <td>Implementar funcionalidad para visualizar registros</td>
-      <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
-      <td>5</td>
-      <td>Diego Cantoral</td>
-      <td>Done</td>
+      <td>Crear secicon</td>
+      <td>crear la pagina de la seccion del usuario en angular</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
     </tr>
-    <tr>
-      <th rowspan="2">US08</th>
-      <td rowspan="2">Editar registro de cultivo</td>
+      <tr>
       <td>TK10</td>
-      <td>Diseñar interfaz para editar cultivo</td>
-      <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
-      <td>3</td>
-      <td>Amner Llamno</td>
-      <td>Done</td>
+      <td>Implementar conexion backend</td>
+      <td>implementar conexion con el api</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
     </tr>
-    <tr>
+      <tr>
       <td>TK11</td>
-      <td>Implementar funcionalidad para editar cultivo</td>
-      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
-      <td>5</td>
-      <td>Amner LLamno</td>
+      <td>Implementar funcionalidades/td>
+      <td>implementar funcionalidades de edicion y aceptar dentro de la interfaz de usuario</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <th rowspan="3">US11</th>
+      <td rowspan="3">Ver perfil de usuario - Front</td>
+      <td>TK12</td>
+      <td>crear componente</td>
+      <td>crear el componente de angular</td>
+      <td>2</td>
+      <td>David Rivas</td>
       <td>Done</td>
     </tr>
     <tr>
-      <th rowspan="2">US18</th>
-      <td rowspan="2">Comunidad y foros</td>
-      <td>TK12</td>
-      <td>Diseñar interfaz para foros</td>
-      <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
-      <td>3</td>
-      <td>Godofredo Quispe</td>
+      <td>TK13</td>
+      <td>crear la interfaz</td>
+      <td>crear la interfaz que sea intuitiva y agradable</td>
+      <td>2</td>
+      <td>David Rivas</td>
       <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Permitir visualizacion</td>
+      <td>permitir una visualizacion y edicion de los datos que el usuario vea en su perfil</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="11">US01</th>
+      <td rowspan="11">Registro de usuario - Back</td>
+      <td>TK15</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
     </tr>
     <tr>
       <td>TK16</td>
-      <td>Implementar funcionalidad para foros</td>
-      <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
-      <td>5</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>Done</td>
+      <td>In-Progress</td>
     </tr>
        <tr>
-      <th rowspan="2">US10</th>
-      <td rowspan="2">Ver video sobre el equipo en la landing page</td>
       <td>TK17</td>
-      <td>Diseñar la interfaz para el video del equipo</td>
-      <td>Crear la sección en la landing page para mostrar el video del equipo.</td>
-      <td>3</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK18</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK19</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK20</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+       </tr>
+       <tr>
+      <td>TK21</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK22</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK23</td>
+      <td>Crear e implementa los QueryServiceImplse</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK24</td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <th rowspan="3">US11</th>
+      <td rowspan="3">Ver perfil de usuario - Back</td>
+      <td>TK25</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
     </tr>
     <tr>
-      <td>TK18</td>
-      <td>Implementar funcionalidad para el video del equipo</td>
-      <td>Agregar la lógica para mostrar y reproducir el video en la landing page.</td>
-      <td>4</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
+      <td>TK26</td>
+      <td>Crear y definir los QueryServices</td>
+      <td>Crear y definir los QueryServices</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>TK27</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <th rowspan="3">US02</th>
+      <td rowspan="3">Inicio de sesión de usuario existente - Back</td>
+      <td>TK28</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>TK29</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
     </tr>
       <tr>
-  <th rowspan="1">US13</th>
-  <td rowspan="1">Buscar los servicios que deseo utilizar</td>
-  <td>TK19</td>
-  <td>Diseñar la interfaz para el cuadro de búsqueda de servicios</td>
-  <td>Crear el diseño visual para el cuadro de búsqueda de servicios en la aplicación.</td>
-  <td>1</td>
-  <td>Paolo Guillen</td>
-  <td>Done</td>
-</tr>
+      <td>TK30</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+<tr>
+      <th rowspan="3">US19</th>
+      <td rowspan="3">Recuperación de contraseña olvidada - Back/td>
+      <td>TK31</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>TK32</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
       <tr>
-  <th rowspan="1">US15</th>
-  <td rowspan="1">Planificación de cultivos</td>
-  <td>TK20</td>
-  <td>Desarrollar herramientas para la rotación de cultivos</td>
-  <td>Crear herramientas que ayuden con la planificación y rotación de cultivos en el huerto.</td>
-  <td>3</td>
-  <td>Amner Llamno</td>
-  <td>In-Process</td>
-</tr>
+      <td>TK33</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Godofredo Quispe</td>
+      <td>In-Progress</td>
+    </tr>
+<tr>
+      <th rowspan="3">US12</th>
+      <td rowspan="3">Editar perfil de usuario - Back</td>
+      <td>TK31</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>TK32</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
+    </tr>
       <tr>
-  <th rowspan="1">US16</th>
-  <td rowspan="1">Compatibilidad con otros dispositivos</td>
-  <td>TK21</td>
-  <td>Desarrollar una aplicación o interfaz para gestionar el huerto desde dispositivos móviles</td>
-  <td>Permitir la gestión del huerto desde teléfonos inteligentes o tabletas en cualquier lugar y momento.</td>
-  <td>2</td>
-  <td>Paolo Guillen</td>
-  <td>Done</td>
-</tr>
-
+      <td>TK33</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>David Rivas</td>
+      <td>In-Progress</td>
+    </tr>
+     <tr>
+      <th rowspan="11">US05</th>
+      <td rowspan="11">Registrar cultivo - Back</td>
+      <td>TK34</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>TK35</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK36</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK37</td>
+      <td>Crear los aggregates</td>
+      <td>Crear los aggregates</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK38</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK39</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+       <tr>
+      <td>TK40</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+       </tr>
+       <tr>
+      <td>TK41</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK42</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK43</td>
+      <td>Crear e implementa los QueryServiceImplse</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK44</td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>1</td>
+      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
   </tbody>
 </table>
 
