@@ -2402,6 +2402,197 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 
 <img src="resources/sprintNumeroTres.png">
 
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">US01</th>
+      <td rowspan="2">Registro de usuario - Front</td>
+      <td>TK01</td>
+      <td>Registro de usuario</td>
+      <td>crear el componente de angular</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK02</td>
+      <td>Crear Call to Action</td>
+      <td>crear el call to action de la landing page a la pagina de registro de usuario</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US02</th>
+      <td rowspan="2">Inicio de sesión de usuario existente - Front</td>
+      <td>TK03</td>
+      <td>Inicio de sesión</td>
+      <td>crear el componente de angular</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK04</td>
+      <td>Interfaz inicio de sesión</td>
+      <td>crear la interfaz que sea intuitiva y agradable</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK05</td>
+      <td>Implementar autenticacion</td>
+      <td>permitir al usuario acceder a la visualizacion de sus datos</td>
+      <td>2</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <th rowspan="2">US06</th>
+      <td rowspan="2">Eliminar registro de cultivo</td>
+      <td>TK06</td>
+      <td>Diseñar interfaz para eliminación de cultivo</td>
+      <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
+      <td>3</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK07</td>
+      <td>Implementar funcionalidad para eliminar cultivo</td>
+      <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
+      <td>5</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US07</th>
+      <td rowspan="2">Visualización de registros</td>
+      <td>TK08</td>
+      <td>Diseñar interfaz para visualización de cultivos</td>
+      <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK09</td>
+      <td>Implementar funcionalidad para visualizar registros</td>
+      <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
+      <td>5</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US08</th>
+      <td rowspan="2">Editar registro de cultivo</td>
+      <td>TK10</td>
+      <td>Diseñar interfaz para editar cultivo</td>
+      <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
+      <td>3</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK11</td>
+      <td>Implementar funcionalidad para editar cultivo</td>
+      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
+      <td>5</td>
+      <td>Amner LLamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US18</th>
+      <td rowspan="2">Comunidad y foros</td>
+      <td>TK12</td>
+      <td>Diseñar interfaz para foros</td>
+      <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
+      <td>3</td>
+      <td>Godofredo Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Implementar funcionalidad para foros</td>
+      <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
+      <td>5</td>
+      <td>Godofredo Quispe</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <th rowspan="2">US10</th>
+      <td rowspan="2">Ver video sobre el equipo en la landing page</td>
+      <td>TK17</td>
+      <td>Diseñar la interfaz para el video del equipo</td>
+      <td>Crear la sección en la landing page para mostrar el video del equipo.</td>
+      <td>3</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Implementar funcionalidad para el video del equipo</td>
+      <td>Agregar la lógica para mostrar y reproducir el video en la landing page.</td>
+      <td>4</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+  <th rowspan="1">US13</th>
+  <td rowspan="1">Buscar los servicios que deseo utilizar</td>
+  <td>TK19</td>
+  <td>Diseñar la interfaz para el cuadro de búsqueda de servicios</td>
+  <td>Crear el diseño visual para el cuadro de búsqueda de servicios en la aplicación.</td>
+  <td>1</td>
+  <td>Paolo Guillen</td>
+  <td>Done</td>
+</tr>
+      <tr>
+  <th rowspan="1">US15</th>
+  <td rowspan="1">Planificación de cultivos</td>
+  <td>TK20</td>
+  <td>Desarrollar herramientas para la rotación de cultivos</td>
+  <td>Crear herramientas que ayuden con la planificación y rotación de cultivos en el huerto.</td>
+  <td>3</td>
+  <td>Amner Llamno</td>
+  <td>In-Process</td>
+</tr>
+      <tr>
+  <th rowspan="1">US16</th>
+  <td rowspan="1">Compatibilidad con otros dispositivos</td>
+  <td>TK21</td>
+  <td>Desarrollar una aplicación o interfaz para gestionar el huerto desde dispositivos móviles</td>
+  <td>Permitir la gestión del huerto desde teléfonos inteligentes o tabletas en cualquier lugar y momento.</td>
+  <td>2</td>
+  <td>Paolo Guillen</td>
+  <td>Done</td>
+</tr>
+
+  </tbody>
+</table>
+
+
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5></div>
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
