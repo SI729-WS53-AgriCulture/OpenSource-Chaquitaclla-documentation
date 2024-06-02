@@ -2752,7 +2752,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los ValueObject</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK35</td>
@@ -2760,7 +2760,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los entitys</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK36</td>
@@ -2768,7 +2768,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Comamands</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     </tr>
        <tr>
@@ -2777,7 +2777,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los aggregates</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK38</td>
@@ -2785,7 +2785,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Queries</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK39</td>
@@ -2793,7 +2793,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los CommandServices</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK40</td>
@@ -2801,7 +2801,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los QueryService</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        </tr>
        <tr>
@@ -2810,7 +2810,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los Repositories</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
      </tr>
        <tr>
@@ -2819,7 +2819,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
      </tr>
        <tr>
@@ -2828,7 +2828,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los QueryServiceImpls</td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     </tr>
        <tr>
@@ -2837,7 +2837,225 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementar los Controllers </td>
       <td>1</td>
       <td>Diego Cantoral & Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US14</th>
+      <td rowspan="2">Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario</td>
+      <td>TK45</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
       <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>TK46</td>
+      <td>Crear los queries </td>
+      <td>Crear los queries </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <th rowspan="3">US06</th>
+      <td rowspan="3"> Eliminar registro de cultivo - Back</td>
+      <td>TK47</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK48</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK49</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">US08</th>
+      <td rowspan="3"> Editar registro de cultivo - Back</td>
+      <td>TK50</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK51</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK52</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">US15</th>
+      <td rowspan="3"> Planificacion de cultivos - Back</td>
+      <td>TK53</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK54</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK55</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">US07</th>
+      <td rowspan="3"> Visualización de Registros - Back</td>
+      <td>TK53</td>
+      <td>Crear los Queries  </td>
+      <td>Crear los Queries  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK54</td>
+      <td>Crear y definir los QueryServices </td>
+      <td>Crear y definir los QueryServices </td>
+      <td>0:30</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK55</td>
+      <td>Crear e implementa los QueryServiceImpls </td>
+      <td>Crear e implementa los QueryServiceImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+
+ <tr>
+      <th rowspan="11">US18</th>
+      <td rowspan="11">Comunidad y foros - Back</td>
+      <td>TK34</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK35</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK36</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK37</td>
+      <td>Crear los aggregates</td>
+      <td>Crear los aggregates</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK38</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK39</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK40</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+       </tr>
+       <tr>
+      <td>TK41</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK42</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK43</td>
+      <td>Crear e implementa los QueryServiceImplse</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK44</td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>1</td>
+      <td>Amner Llamno </td>
+      <td>Done</td>
     </tr>
   </tbody>
 </table>
