@@ -3098,15 +3098,41 @@ Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos
 
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 
-* **User Goal:**
+Dentro de esta sección se detalla los objetivos de usuarios que deben cumplir nuestros entrevistados con el fin de evaluar la eficiencia de nuestra aplicación así como que los entrevistados de acuerdo a como cumplan estos user goals y su opinión en diversos factores, son datos que se tomara en cuenta al momento del registro de las entrevistas
 
-* **User Goal:**
 
-* **User Goal:**
+* **User Goal:Iniciar sesión**
+  
+User persona: Agricultores profesionales y jardineros en casa.
 
-* **User Goal:**
+Explicación del flujo: Este user goal se enfoca en que los usuarios, cuando se encuentren en la aplicación de chaquitaclla, esta contará con un formulario de inicio de sesion, donde se pedira el usuario y contraseña, en caso se cumpla de forma exitosa, el usuario será redirigido a la sección del panel de control, sección principal de la aplicación de Chaquitaclla, en caso el usuario no cuente con una cuenta, entonces pasará por el proceso de registro.
 
-* **User Goal:**
+
+* **User Goal:Crear un nuevo sembrío**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+
+Explicación del flujo: Cuando el usuario se dirija a la sección "Registro de cultivos" o "Crop Registration", este cuando presione la opción para añadir un nuevo cultivo, se le pedirá datos como el area del sembrio y el tipo de cultivo, para manejar toda la información relacionada a este nuevo sembrío que acaba de iniciar, en caso se presente algun error en el proceso de registro de este, entonces podrá eliminarlo o editarlo según convenga. 
+
+
+* **User Goal:Navegar por el panel de control**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+Explicación del flujo: El usuario tras iniciar sesión, ingresa al panel de control, sección la cual el usuario deberá de interactuar por toda la pagina y de acuerdo al boton o sección que necesite será redirigido, el panel de control de control tiene como objetivo de ser la sección con la que el usuario deberá de familiarizarse con el fin del correcto uso de la aplicación.
+
+
+* **User Goal:Permitir una correcta visualización de estadísticas e historial de sembríos**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+Explicación del flujo: Al momento que el usuario seleccione la sección de estadísticas, el usuario es presentando con dos gráficos de pizza, los cuales informará al usuario sobre la información suya de su cuenta, como cultivos más registrados, así como sembríos los cuales tengan la mayor cantidad de controles, en relación al tipo de cultivo que trata este sembrío.
+
+  
+
+* **User Goal:Visualizar información del sembrío**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+Explicación del flujo: Una vez el usuario registre su sembrio a seguir, cuando presione este sembrio, se le será presentado con una extensa información, sobre los cuidados que debe tener este sembrío, así como información adicional sobre que enfermedades puede tener en cierto casos, esto con la finalidad que el usuario pueda adaptarse y tener herramientas con las cuales pueda trabajar en conjunto para que su cultivo sea fructifero.
+
 
 
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
