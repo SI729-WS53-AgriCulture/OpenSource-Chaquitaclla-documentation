@@ -2416,7 +2416,7 @@ Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí c
 <div id='8.'><h2>Anexos</h2></div>
 
 * **About the team:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/Ed6YVfHg1zNAh4Cp2zm8jBQBxr9k5CH8y9dkug0X_42U_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Bli6N6]
-* **Frontend Web Application:** [https://chaquitaclla-open-source-tp.web.app/home]
+* **Frontend Web Application:** [https://chaquitaclla-open-source-tp.firebaseapp.com]
 * **LandingPage:** [https://si729-ws53-agriculture.github.io/OpenSource-Chaquitaclla-landing-page/]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
