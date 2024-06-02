@@ -162,6 +162,15 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 5.2.2.6.[Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
 5.2.2.7.[Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
 5.2.2.8.[Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
+5.2.3. [Sprint 3](#5.2.3.)<br>
+5.2.3.1.[Sprint Planning 3](#5.2.3.1.)<br>
+5.2.3.2.[Sprint Backlog 3](#5.2.3.2.)<br>
+5.2.3.3.[Development Evidence for Sprint Review](#5.2.3.3.)<br>
+5.2.3.4.[Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+5.2.3.5.[Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+5.2.3.6.[Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
+5.2.3.7.[Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
+5.2.3.8.[Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
 6. [**Conclusiones**](#6.)<br>
 7. [**Bibliografía**](#7.)<br>
 8. [**Anexos**](#8.)<br>
@@ -2375,6 +2384,9 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 </table>
 
 <div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3</h5></div>
+En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product), la interfaz gráfica principalmente en lo que respecta al aspecto visual se mejoró un poco y se añadio procesos de login y registro. 
+
+<img src="resources/sprintNumeroTres.png">
 
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
