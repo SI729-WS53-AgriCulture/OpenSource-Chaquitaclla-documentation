@@ -171,6 +171,20 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 5.2.3.6.[Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
 5.2.3.7.[Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
 5.2.3.8.[Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
+5.2.4. [Sprint 4](#5.2.4.)<br>
+5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
+5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+5.2.4.6. [Services Documentation Evidence for Sprint Review](#5.2.4.6.)<br>
+5.2.4.7. [Software Deployment Evidence for Sprint Review](#5.2.4.7.)<br>
+5.2.4.8. [Team Collaboration Insights during Sprint](#5.2.4.8.)<br>
+5.3. [Validation Interviews](#5.3.)<br>
+5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
+5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
+5.3.3.[Evaluaciones según Heurísticas](#5.3.3.)<br>
+5.4. [Video About-the-Product](#5.4.)<br>
 6. [**Conclusiones**](#6.)<br>
 7. [**Bibliografía**](#7.)<br>
 8. [**Anexos**](#8.)<br>
@@ -2388,10 +2402,75 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 
 <img src="resources/sprintNumeroTres.png">
 
+<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
+
+
+<div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
+
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
+
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la página web destinada a optimizar la gestión de cultivos para los agricultores profesionales, así como amateurs que se encuentran en el Perú. A través de entrevistas estructuradas, buscamos captar puntos claves, como sus primeras impresiones, así como sugerencias respecto a la aplicación. Lo mencionado garantiza que la web no solo cumpla con los estándares técnicos sino que también ayude a las actividades diarias de nuestros segmentos en relación con los cultivos. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
+
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
+
+* **User Goal:**
+
+* **User Goal:**
+
+* **User Goal:**
+
+* **User Goal:**
+
+* **User Goal:**
+
+
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+
+**Primer segmento objetivo (Agricultores profesionales):**
+
+Entrevista de validación usuario agricultor profesional 01:
+
+Entrevista de validación usuario agricultor profesional 02:
+
+Entrevista de validación usuario agricultor profesional 03:
+
+
+
+**Segundo segmento objetivo (Agricultores amateurs/Jardineros en casa):**
+
+Entrevista de validación usuario jardinero en casa 01:
+
+Entrevista de validación usuario jardinero en casa 02:
+
+Entrevista de validación usuario jardinero en casa 03:
+
+
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
