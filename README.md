@@ -2405,7 +2405,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 <table>
   <thead>
     <tr>
-      <th>Sprint #</th>
+      <th>Sprint #3</th>
       <th colspan="7">Sprint 3</th>
     </tr>
     <tr>
@@ -2555,8 +2555,8 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Done</td>
     </tr>
     <tr>
-      <th rowspan="11">US01</th>
-      <td rowspan="11">Registro de usuario - Back</td>
+      <th rowspan="10">US01</th>
+      <td rowspan="10">Registro de usuario - Back</td>
       <td>TK15</td>
       <td>Crear y definir los ValueObject</td>
       <td>Crear y definir los ValueObject</td>
