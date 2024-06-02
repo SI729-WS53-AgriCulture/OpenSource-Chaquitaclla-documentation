@@ -2443,8 +2443,8 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Done</td>
     </tr>
     <tr>
-      <th rowspan="2">US02</th>
-      <td rowspan="2">Inicio de sesión de usuario existente - Front</td>
+      <th rowspan="3">US02</th>
+      <td rowspan="3">Inicio de sesión de usuario existente - Front</td>
       <td>TK03</td>
       <td>Inicio de sesión</td>
       <td>crear el componente de angular</td>
