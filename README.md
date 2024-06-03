@@ -1924,7 +1924,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 <img src="resources/realLandingEight.png">
 <img src="resources/realLandingNine.png">
 
-Enlace a la landing page: [https://opensourcews53.github.io/Landing-Page/]
+Enlace a la landing page: [https://si729-ws53-agriculture.github.io/OpenSource-Chaquitaclla-landing-page/]
 
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
