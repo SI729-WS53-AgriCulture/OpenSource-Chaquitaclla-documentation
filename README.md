@@ -39,7 +39,7 @@
 
 ## Project Report Collaboration Insights
 
-URL de la organización del proyecto: [https://github.com/OpenSourceWS53]
+URL de la organización del proyecto: [https://github.com/SI729-WS53-AgriCulture]
 
 **TB1** 
 |Integrante|Tareas Asignadas|
