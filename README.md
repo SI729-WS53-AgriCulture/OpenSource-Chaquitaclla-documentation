@@ -1607,8 +1607,16 @@ Se ha utilizado Github para alojar los distintos repositorios creados por los mi
             <td> https://github.com/SI729-WS53-AgriCulture/testing </td>
         </tr>
         <tr>
-            <td>Link "db-server": </td>
-            <td> https://github.com/SI729-WS53-AgriCulture/db-server </td>
+            <td>Link "crops": </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/crops </td>
+        </tr>
+        <tr>
+            <td>Link "users": </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/users </td>
+        </tr>
+        <tr>
+            <td>Link "forum": </td>
+            <td> https://github.com/SI729-WS53-AgriCulture/forum </td>
         </tr>
     </tbody>
 </table>
