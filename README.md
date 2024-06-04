@@ -3193,6 +3193,8 @@ Entrevista de validación usuario jardinero en casa 03:
 
 **TP:** Para este TP, el uso de gitflow, nos facilito demasiado en lo que es trabajar de forma remota, sobre todo para lo que es la implementación de una aplicación web, esto fue crucial, puesto que nos ayudo a juntar cada uno de nuestros feature de una forma más eficiente, para que nosotros como equipo entendamos el código de forma general y nos ayude a comprender que función tiene cada componente respectivamente.
 
+**TB2:** Para este TB2, el uso de un control de versiones nos ayudo demasiado al momento de finalizar el desarrollo de la aplicación web, esto nos ayudo a ser eficientes y terminar a tiempo su desarrollo para concentrarnos en el desarrollo del backend, en lo que respecto a lo ultimo, consideramos que terminamos su desarrollo en un 50% o incluso más, esto puesto que los endpoints principales se encuentran funcionales con operaciones CRUD simples.
+
 <div id='7.'><h2>Bibliografía</h2></div>
 
 Mateo, T. de J. (2023). Agricultura 4.0: Una revisión de tecnologías disruptivas y su impacto en la producción agrícola sostenible. Recuperado de [https://unctad.org/es/news/por-que-los-agricultores-familiares-necesitan-un-mayor-acceso-la-tecnologia?__cf_chl_tk=7OXmq0DO3QwzTaPbsw39Vnrfj5XIAtpvrfewU13MekU-1711832857-0.0.1.1-1685]
