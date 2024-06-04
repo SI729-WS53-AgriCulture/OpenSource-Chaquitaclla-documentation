@@ -35,6 +35,14 @@
 |29/04/2024| 2.0|  Rivas David, Quispe Godofredo, Guillen Paolo, Diego Cantoral , Amner Llamo|Corrección de errores de lo mencionado por el profesor|
 |30/04/2024| 2.1|  Guillen Paolo |Añadir evidencias del segundo sprint de lo que se realizó de acuerdo a la meta planteada|
 |30/04/2024| 2.2|  Rivas David, Quispe Godofredo, Guillen Paolo, Diego Cantoral , Amner Llamo|Correciones finales y secciones del student outcome respecto al TP añadidas.|
+| 30/05/2024 | 2.3 |  Llamo Amner  |    Mejoras de aspectos visuales del frontend-web-appliccation en relacion con el bounded context de usuarios |
+| 30/05/2024 | 2.4 |  Llamo Amner  |    Desarrollo completo del backend, siendo su foco principal el bc-forum |
+| 30/05/2024 | 2.5 |  Guillen Paolo  |    Mejoras visuales del frontend-web-application, principalmente la seccion de visualizacion de los datos del cultivo |
+| 30/05/2024 | 2.6 |  Guillen Paolo  |    desarrollo del backend, la seccion de bc-sowings |
+| 01/06/2024 | 2.7 |  Quispe Godofredo  |    añadir secciones y mis tasks que realice para el sprint numero 3 que tienen relacion con el bc-users del backend |
+| 01/06/2024 | 2.8 |  Cantoral Diego  |    añadir secciones y las tasks que realice en relación con el sprint numero 3 relacionado con el bc-crops|
+| 01/06/2024 | 2.9 |  Rivas David |    Añadir mis tasks que realice para el sprint numero 3 que tienen relacion con el bc-products |
+| 04/06/2024| 3.0|  Rivas David, Quispe Godofredo, Guillen Paolo, Diego Cantoral , Amner Llamo|Correciones finales y secciones del student outcome respecto al TB2 añadidas con todo lo completado hasta el momento.|
 
 
 ## Project Report Collaboration Insights
@@ -66,13 +74,23 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 |Llamo Sánchez,Amner Levi|Encargado de realizar los merges , así como sección de foro de consultas y preguntas de la aplicación web|
 |Quispe Tipo, Godofredo|Encargado de realizar el login y sing up de los usuarios|
 
-
-
 **TP Github**
 <img src="resources/CommitsOpen.png" >
 <img src="resources/ActivitiesOpen.png" >
 
 
+**TB2** 
+Para esta entrega se enfoco en lo que es la entrega del front-end web application finalizada y corregida además del desarrollo de como mínimo el 40%% del backend.
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Guillen Luna, Paolo César|Desarrollo del dominio de los cultivos, mejorando el aspecto visual de los registros con correcion de errores, además del redespliegue de la frontend-web-application con ayuda de la herramienta de Firebase, incluyendo un desarrollo del 40% de mi bc asignado del backend con endpoints funcionales|
+|Cantoral Paredes, Diego André|Desarrollo del backend, la seccion de bc-crops para el registro de los cultivos o plantas disponibles que los usuarios podrán registrar|
+|Rivas Sarango, David Alejandro|Me enfoque en el desarrllo del backend, la seccion de bc-products|
+|Llamo Sánchez,Amner Levi|Desarrollo de la sección de consultas/preguntas/foro del backend, más especificamente el bc-forum|
+|Quispe Tipo, Godofredo|Encargado de realizar el backend de bc-users, bc enfocado en lo que es la autenticacion de usuarios y registrar nuevos usuarios|
+
+**TB2 Github**
 
 
 
