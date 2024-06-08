@@ -3184,6 +3184,173 @@ Entrevista de validación usuario jardinero en casa 03:
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 
+<h3>SITE o APP A EVALUAR: </h3>
+<h4>Chaquitaclla</h3>
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Chaquitaclla.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+<h3>TAREAS A EVALUAR:</h3>
+
+1. Desktop landing page
+    1. Información y descripción de la aplicación y sus funcionalidades
+    2. Visualización de planes de pago y precio de la aplicación
+    3. Interacción del landing page con la aplicación
+    4. Header y footer apropiado para la landing page
+2. Web Application
+    1. Registro de una nuevo cultivo
+    2. Edición de registros
+    3. Eliminación de registros
+    4. Iconografía comprensible y consistente con el mundo real
+    5. Mensajes de error que reflejen el registro de datos incorrectos
+    6. Acciones de retroceso dentro de la aplicación
+    7. Evaluar existencia de patrones de diseño o navegación
+    8. Elementos de la interfaz de usuario consistentes
+    9. Botones interactivos y de uso intuitivo
+    10. Navegación y orientación dentro de la aplicación
+    11. Visualización de la información de cultivos registrados
+    12. Mensajes que orienten al usuario sobre el estado del sistema
+    13. Estética general de la interfaz atractiva y agradable visualmente
+    14. Publicación de una pregunta
+    15. Publicación de respuesta a una pregunta
+    16. Búsqueda de cultivo
+    17. Búsqueda de pregunta
+    18. Visualización de estadísticas de cultivos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+    1. Redes sociales asociadas al startup
+    2. Política de privacidad y condiciones de uso
+2. Web Application
+    1. Registro de nuevo usuario
+    2. Flexibilidad de uso a través de atajos por teclado
+    3. Acceso a recursos de ayuda dentro de la aplicación
+    4. Notificación de acciones realizadas en la aplicación
+    5. Política de privacidad y condiciones de uso
+
+<h3>ESCALA DE SEVERIDAD:</h3>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción  |
+|-------|--------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.| 
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.| 
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.| 
+| 4     |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.| 
+
+<h3>TABLA RESUMEN</h3>
+
+<h3>Desktop landing page</h3>
+
+| # |   Problema   | Escala de severidad |Heurística/Principio violada(o) |
+|---|--------------|--------------|-------------|
+| 1 |Falta de un llamado a la acción (CTA) claro en el toolbar para "Sign Up"| 02 |Visibilidad del estado del sistema|
+| 2 |La sección de "Reseñas" presenta inconsistencias en la carga de imágenes| 02 |Visibilidad del estado del sistema|
+| 3 |Error de redirección al enviar el formulario en la sección "Contactanos"| 03 |Usabilidad - Prevención de errores|
+
+PROBLEMA #01: Falta de un llamado a la acción (CTA) claro en el toolbar para "Sign Up"
+Escala de severidad: 02
+
+Principio violado: Visibilidad del estado del sistema
+
+Descripción del problema: El botón de "Sign Up" en el toolbar no destaca lo suficiente para atraer la atención de los usuarios. Un llamado a la acción (CTA) claro y visible es crucial para guiar a los usuarios a realizar acciones importantes, como registrarse. En su estado actual, el botón de "Sign Up" puede pasar desapercibido, lo que puede dificultar que los usuarios se registren en la plataforma, especialmente si no está claramente diferenciado del resto de los elementos del menú.
+
+Recomendación: Para mejorara el llamado a la acción el boton "Sing Up", se recomienda utilizar un color contrastante que destaque en el toolbar.
+
+
+PROBLEMA #02: La sección de "Reseñas" presenta inconsistencias en la carga de imágenes
+
+Escala de severidad: 02
+
+Principio violado: Usability - Visibilidad del estado del sistema
+
+Descripción del problema: La sección de "Reseñas" en la landing page muestra el nombre, la foto (cuando está disponible) y el comentario de los usuarios. Sin embargo, algunas reseñas no cargan la foto correctamente. Esto puede causar confusión y frustración en los usuarios, ya que la falta de una imagen puede hacer que la reseña parezca incompleta o menos confiable.
+
+Recomendación: Para mejorar la usabilidad y la consistencia visual de la sección de reseñas, se recomienda implementar un sistema que garantice la carga correcta de las imágenes para todas las reseñas. Esto podría incluir la revisión del código para identificar y corregir cualquier error de carga de imágenes, así como la implementación de una solución de respaldo para casos en los que las imágenes no se puedan cargar correctamente. Además, se debería proporcionar un mensaje de error claro y orientado al usuario en caso de que una imagen no pueda cargarse, para que los usuarios entiendan la situación y sepan qué esperar.
+
+
+PROBLEMA #03: Error de redirección al enviar el formulario en la sección "Contactanos"
+
+Escala de severidad: 03
+
+Principio violado: Usabilidad - Prevención de errores
+
+Descripción del problema: Después de enviar el formulario en la sección "Contactanos", en lugar de mostrar un mensaje de confirmación o agradecimiento, los usuarios son redirigidos a una página de error que muestra "405 Not Allowed". Este error puede confundir a los usuarios y hacer que se sientan frustrados, ya que esperan una confirmación de que su mensaje ha sido enviado correctamente.
+
+Recomendación: Para mejorar la experiencia del usuario y prevenir este error, se recomienda corregir la configuración del formulario de contacto para que muestre un mensaje de confirmación o agradecimiento después de que se haya enviado con éxito. 
+
+
+<h3>Web Application</h3>
+
+| # |   Problema   | Escala de severidad |Heurística/Principio violada(o) |
+|---|--------------|--------------|-------------|
+| 1 |Incapacidad para cerrar el diálogo de creación o edición de crop usando la "x"| 01 |Usabilidad - Control y libertad del usuario|
+| 2 | Falta de funcionalidad de edición en la seccion "Controls" de la página "Crop Information Management"| 02 |Usabilidad - Control y libertad del usuario|
+| 3 |Falta de funcionalidad de edición en la seccion "Products" de la página "Crop Information Management"| 02 |Usabilidad - Control y libertad del usuario|
+| 4 |Falta de funcionalidad de búsqueda en la sección "Diseases or Pest" de la página "Crop Information Management"| 02 |Usabilidad - Flexibilidad y eficiencia de uso|
+| 5 |Incapacidad para cerrar el diálogo de creación o edición de preguntas o respuestas usando el botón "x"| 01 |Usabilidad - Control y libertad del usuario|
+| 6 |Ausencia de funcionalidad de traducción a español en la aplicación web| 02 |Usabilidad - Control y libertad del usuario|
+
+
+PROBLEMA #01: Incapacidad para cerrar el diálogo de creación o edición de crop usando la "x"
+
+Escala de severidad: 01
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: Cuando los usuarios abren el diálogo para crear o editar un crop en la página "List of Crops in Progress", no pueden cerrarlo utilizando el icono de la "x" en la esquina superior derecha del diálogo. Esta falta de funcionalidad puede ser frustrante para los usuarios, ya que esperan poder cerrar el diálogo de la misma manera que cierran otros elementos modales en la aplicación.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios el control y la libertad deseados, se recomienda habilitar la capacidad de cerrar el diálogo utilizando la "x". Esto puede lograrse mediante la implementación de la funcionalidad de cierre del diálogo en respuesta a la acción de hacer clic en el icono de la "x".
+
+PROBLEMA #02: Falta de funcionalidad de edición en la seccion "Controls" de la página "Crop Information Management"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: En la seccion "Controls" de la página "Crop Information Management", los usuarios pueden registrar y eliminar controles del cultivo, pero no cuentan con la capacidad de editar registros existentes. Esta falta de funcionalidad de edición limita la flexibilidad y la libertad de los usuarios para corregir errores o actualizar información de manera eficiente.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios el control deseado sobre sus datos, se recomienda implementar la funcionalidad de edición en la tabla de crops. Esto podría incluir la adición de botones de edición junto a cada registro, que al hacer clic en ellos permitan a los usuarios modificar la información existente en un formulario emergente o en la misma tabla. Además, se debería garantizar que los usuarios puedan realizar ediciones de manera clara y sin problemas, con la posibilidad de cancelar o revertir cambios si es necesario.
+
+PROBLEMA #03: Falta de funcionalidad de edición en la seccion "Products" de la página "Crop Information Management"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: En la seccion "Products" de la página "Crop Information Management", los usuarios pueden registrar y eliminar productos usados en el cultivo, pero no cuentan con la capacidad de editar registros existentes. Esta ausencia de funcionalidad de edición limita la flexibilidad y la libertad de los usuarios para corregir errores o actualizar información de manera eficiente.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios el control deseado sobre sus datos, se sugiere implementar la funcionalidad de edición en la tabla de productos usados en crops. Esto podría lograrse agregando botones de edición junto a cada registro, que al hacer clic en ellos permitan a los usuarios modificar la información existente en un formulario emergente o en la misma tabla. Además, es importante garantizar que los usuarios puedan realizar ediciones de manera clara y sin problemas, con la opción de cancelar o revertir cambios si es necesario.
+
+PROBLEMA #04: Falta de funcionalidad de búsqueda en la sección "Diseases or Pest" de la página "Crop Information Management"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Flexibilidad y eficiencia de uso
+
+Descripción del problema: En la sección "Diseases or Pest" de la página "Crop Information Management", donde se presenta información sobre enfermedades o plagas de cultivo y sus soluciones, no se proporciona una funcionalidad de búsqueda para ayudar a los usuarios a encontrar información específica de manera rápida y eficiente. Esto puede dificultar la navegación para los usuarios que desean buscar una enfermedad o plaga en particular y su solución correspondiente entre una gran cantidad de información.
+
+Recomendación: Para mejorar la usabilidad y la eficiencia de uso de la página, se recomienda implementar una funcionalidad de búsqueda que permita a los usuarios buscar enfermedades o plagas específicas y sus soluciones. Esto podría incluir la adición de un campo de búsqueda en la parte superior de la tabla o la implementación de filtros para permitir a los usuarios refinar los resultados según sus necesidades. La capacidad de búsqueda proporcionará a los usuarios una forma rápida y efectiva de acceder a la información relevante, mejorando así su experiencia en la aplicación web.
+
+PROBLEMA #05: Incapacidad para cerrar el diálogo de creación o edición de preguntas o respuestas usando el botón "x"
+
+Escala de severidad: 01
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: Al abrir el diálogo para crear o editar una pregunta o respuesta en la página del "Forum", los usuarios no pueden cerrarlo utilizando el icono de la "x" en la esquina superior derecha del diálogo. Esta falta de funcionalidad limita la libertad de los usuarios para decidir si desean continuar o cancelar la acción de crear o editar una pregunta o respuesta.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios un mayor control sobre su experiencia, se recomienda habilitar la capacidad de cerrar el diálogo utilizando la "x". Esto puede lograrse agregando un evento de clic al botón de la "x" que cierre el diálogo de manera consistente con las expectativas del usuario.
+
+PROBLEMA #06: Ausencia de funcionalidad de traducción a español en la aplicación web
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: La aplicación web está en inglés y no proporciona a los usuarios una opción para traducirla al español u otro idioma. Esto puede dificultar la accesibilidad y comprensión de la aplicación para usuarios que no hablan inglés con fluidez.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios más control sobre su experiencia, se recomienda agregar una funcionalidad de traducción a la aplicación web. Esto podría incluir la implementación de un botón de traducción en la interfaz de usuario que permita a los usuarios seleccionar su idioma preferido, como español, y traducir automáticamente el contenido de la aplicación. Además, se debería proporcionar una opción para cambiar el idioma en cualquier momento, lo que brindaría a los usuarios más flexibilidad y libertad para adaptar la aplicación a sus necesidades lingüísticas.
+
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 
@@ -3193,7 +3360,7 @@ Entrevista de validación usuario jardinero en casa 03:
 
 **TP:** Para este TP, el uso de gitflow, nos facilito demasiado en lo que es trabajar de forma remota, sobre todo para lo que es la implementación de una aplicación web, esto fue crucial, puesto que nos ayudo a juntar cada uno de nuestros feature de una forma más eficiente, para que nosotros como equipo entendamos el código de forma general y nos ayude a comprender que función tiene cada componente respectivamente.
 
-**TB2:** Para este TB2, el uso de un control de versiones nos ayudo demasiado al momento de finalizar el desarrollo de la aplicación web, esto nos ayudo a ser eficientes y terminar a tiempo su desarrollo para concentrarnos en el desarrollo del backend, en lo que respecto a lo ultimo, consideramos que terminamos su desarrollo en un 50% o incluso más, esto puesto que los endpoints principales se encuentran funcionales con operaciones CRUD simples.
+**TB2:** Para este TB2, el uso de un control de versiones nos ayudo demasiado al momento de finalizar el desarrollo de la aplicación web, esto nos ayudo a ser eficientes y terminar a tiempo su desarrollo para concentrarnos en el desarrollo del backend, en lo que respecto a lo ultimo, consideramos que terminamos su desarrollo en un 50% o incluso más, esto puesto que los endpoints principales se encuentran funcionales con operaciones CRUD simples y algunos de estos endpoints tienen alguna relacion directa a como funciona nuestro negocio, al menos en sus apartados respectivos.
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
