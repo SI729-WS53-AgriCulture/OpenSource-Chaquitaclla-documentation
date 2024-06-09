@@ -2414,7 +2414,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
-            <td>To-be-assigned</td>
+            <td>29</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
@@ -3089,9 +3089,26 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5></div>
 
+
+
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
 
+Al finalizar por completo el frontend y una gran prporció del backend, con endpoints funcionales, se realizó features en relación a las technical stories realizadas, estas se encuentran en un formato gherkin para un facil entendimiento.
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/testing|tb2-Amner|3d46cea|Create US18.feature||31/05/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|tb2-Diego|cd68606|Add files via upload||31/05/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|tb2-Paolo|7078023|Add files via upload||31/05/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|tb2-Godofredo|c63907a|Add files via upload||31/05/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|tb2-rivas|868c8c4|Add files via upload||31/05/2024|
+
+
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
+
+Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja con el json-server, además de haber avanzado en una gran proporción lo que es el backend, si bien las evidencias actuales son en relación mayormente al backend, se esperan futuras mejoras, puesto que en el código actual del backend se buscar organizarlo mejor y posteriormente poder hacer un despliegue de la base de datos en "Zeabur" para conectar tanto frontend como backend de forma satisfactoria.
+
+
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
 
@@ -3167,19 +3184,45 @@ Explicación del flujo: Una vez el usuario registre su sembrio a seguir, cuando 
 
 Entrevista de validación usuario agricultor profesional 01:
 
+|**Entrevistado 01**|Josue Guerra|
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
+
 Entrevista de validación usuario agricultor profesional 02:
+
+|**Entrevistado 02**||
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 Entrevista de validación usuario agricultor profesional 03:
 
+|**Entrevistado 03**||
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 
 **Segundo segmento objetivo (Agricultores amateurs/Jardineros en casa):**
 
-Entrevista de validación usuario jardinero en casa 01:
+|**Entrevistado 04**|Eligsela Luna|
+| :-: | :- |
+|<img src="resources/">|<p>Durante la entrevista de validación, nuestra entrevistada Eligsela menciona como la aplicación le gusta, excepto por el detalle de que la traducción completa de inglés a español no se encuentre 100% implementada</p> <p>Las funcionalidades que nuestro entrevistado prueban son acorde a los user goals planteados en un inicio, significando que su experiencia por la aplicación es fluida y con pocos obstáculos, el usuario tiene intriga por la seccion de consultas, puesto que a pesar que existe, menciona que le gustaría que esté mas organizado con otra interfaz, respecto a la sección para iniciar sesión y entrar a la aplicación no tuvo incovenientes</p> <p>Dentro de las recomendaciones principales, menciona que un sistema de notificaciones podría ser especialmente útil, principalmente para ella que no tiene mucha experiencia en el tema de agricultura y solo es una aficionada empezando en este rubro</p>|
+|Timing: |URL: |
 
-Entrevista de validación usuario jardinero en casa 02:
+|**Entrevistado 05**|Julio Torres|
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 Entrevista de validación usuario jardinero en casa 03:
+
+
+|**Entrevistado 06**||
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
