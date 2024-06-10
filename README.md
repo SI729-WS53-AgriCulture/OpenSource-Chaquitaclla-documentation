@@ -3304,6 +3304,137 @@ Web Service:
             <td>{questionId}</td>
             <td>api/v1/forum/questions/{questionId}</td>
         </tr>
+        <tr>
+      <td rowspan="4">Sowings</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/sowings</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{sowingId}</td>
+      <td>/api/v1/sowings/{sowingId}/controls</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>{sowingId}</td>
+      <td>/api/v1/sowings/{sowingId}/controls</td>
+    </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>{sowingId}, {sowingControlId}</td>
+      <td>/api/v1/sowings/{sowingId}/controls/{sowingControlId}</td>
+    </tr>
+    <tr>
+      <td rowspan="5">crop-controller</td>
+    </tr>
+    <tr>
+      <td>PUT</td>
+      <td>{cropId}</td>
+      <td>/api/v1/crops/{cropId}</td>
+    </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>{cropId}</td>
+      <td>/api/v1/crops/{cropId}</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/crops</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/crops</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{id}</td>
+      <td>/api/v1/crops/{id}</td>
+    </tr>
+    <tr>
+      <td rowspan="3">pest-controller</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/pests</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/pests</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{cropId}</td>
+      <td>/api/v1/pests/{cropId}</td>
+    </tr>
+    <tr>
+      <td rowspan="3">disease-controller</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/diseases</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/diseases</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{cropId}</td>
+      <td>/api/v1/diseases/{cropId}</td>
+    </tr>
+    <tr>
+      <td rowspan="3">care-controller</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/cares</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/cares</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{cropId}</td>
+      <td>/api/v1/cares/{cropId}</td>
+    </tr>
+    <tr>
+      <td rowspan="1">User</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Product-controller</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/products</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{id}</td>
+      <td>/api/v1/products/{id}</td>
+    </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>{id}</td>
+      <td>/api/v1/products/{id}</td>
+    </tr>
     </tbody>
 </table>
 
