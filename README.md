@@ -3201,6 +3201,8 @@ Al finalizar por completo el frontend y una gran prporció del backend, con endp
 
 Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja con el json-server, además de haber avanzado en una gran proporción lo que es el backend, si bien las evidencias actuales son en relación mayormente al backend, se esperan futuras mejoras, puesto que en el código actual del backend se buscar organizarlo mejor y posteriormente poder hacer un despliegue de la base de datos en "Zeabur" para conectar tanto frontend como backend de forma satisfactoria.
 
+Enlace de youtube respecto al video de evidencia de la ejecucion del sprint:[https://youtu.be/BbVdbK95VQY]
+
 * **US01:**
 <img src="resources/fotosEjecucionSprint/US01.png"/>
 
@@ -3929,3 +3931,4 @@ Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí c
 * **About the team:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/Ed6YVfHg1zNAh4Cp2zm8jBQBxr9k5CH8y9dkug0X_42U_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Bli6N6]
 * **Validation Interviews:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/ERYvAIYclxdHjFiasENtOkUBX7HOQk37lqprQRNFwMS0Iw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fZtgUt]
 * **About the product:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EVIBdnKopSlHlb9lDBSLNFEBwBvIzHrKT7THHUMRIpcrSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CiNAA9]
+* **Trello:** [https://trello.com/invite/b/z6sAUeNp/ATTI56de186fc43256fd5227addc9dab66faFC9FDCC6/si729-2401-ws53-grupo-1]
