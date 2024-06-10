@@ -3249,10 +3249,31 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
 |Alumno|Actividad|
 |-|-|
 |Guillen Luna, Paolo César|Reestructuración de la landing page. Elaboración de los endpoints con relacion a los controles de sowings. Redespliegue de la aplicación web actualizada y landing page en Firebase y github pages respectivamente. Añadir seccion de edicion de perfil en el frontend|
-|               |               |
+|Cantoral, Diego| Ejecución y elaboración del bc-crops dentro del backend, principalmente en una creacion de dependencias con crops y sus diseases y pests|
 |Amner Llamo Sánchez |Elaboracion completa del apartado de foro tanto en backend como frontend, mejora de UI en la sección de foro de la aplicacion frontend|
-|Cantoral, Diego|               |
+|Quispe, Godofredo|Elaboración completa del bc-users, señalando sus entities, aggregates y value objects|
 |Rivas Sarango, David|Elabotación completa del apartado de products, unión entre bc-products y bc-sowings |
+
+
+Respecto a la colaboración de los integrantes, si bien dentro de los insights que brinda github se refleja que no todos los miembros participaron, esto es debido a que en el web services al menos existe una ausencia de un merge a la rama de main por parte de las demás ramas, esto se explica por el motivo de que se pueda calificar de forma incorrecta a ciertos integrantes. De igual forma en todas las pruebas se demuestra el uso de ramas, las cuales se puede identificar quienes han trabajado en aquellas.
+
+**Landing Page:**
+
+<img src="resources/insights/One.png"/>
+<img src="resources/insights/Two.png"/> 
+<img src="resources/insights/Three.png"/> 
+<img src="resources/insights/Four.png"/> 
+
+**Frontend-web-application:**
+<img src="resources/insights/Five.png"/> 
+<img src="resources/insights/Six.png"/> 
+<img src="resources/insights/Seven.png"/> 
+<img src="resources/insights/Eight.png"/> 
+
+
+**Web Services:**
+<img src="resources/insights/Nine.png"/> 
+<img src="resources/insights/Ten.png"/>
 
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
