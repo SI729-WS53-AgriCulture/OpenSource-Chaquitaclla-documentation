@@ -3201,6 +3201,40 @@ Al finalizar por completo el frontend y una gran prporció del backend, con endp
 
 Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja con el json-server, además de haber avanzado en una gran proporción lo que es el backend, si bien las evidencias actuales son en relación mayormente al backend, se esperan futuras mejoras, puesto que en el código actual del backend se buscar organizarlo mejor y posteriormente poder hacer un despliegue de la base de datos en "Zeabur" para conectar tanto frontend como backend de forma satisfactoria.
 
+* **US01:**
+<img src="resources/fotosEjecucionSprint/US01.png"/>
+
+* **US02:**
+<img src="resources/fotosEjecucionSprint/US02.png"/>
+
+* **US05**
+<img src="resources/fotosEjecucionSprint/US05.png"/>
+
+<img src="resources/fotosEjecucionSprint/US05Back.png"/>
+
+* **US06**
+<img src="resources/fotosEjecucionSprint/US06.png"/>
+<img src="resources/fotosEjecucionSprint/US06Back.png"/>
+
+
+* **US11-FRONT**
+<img src="resources/fotosEjecucionSprint/US11.png"/>
+
+
+* **US11-BACK**
+<img src="resources/fotosEjecucionSprint/US11Back.png"/>
+
+
+* **US12**
+<img src="resources/fotosEjecucionSprint/US12.png"/>
+
+* **US14**
+<img src="resources/fotosEjecucionSprint/US14.png"/>
+
+
+* **US18BACK**
+<img src="resources/fotosEjecucionSprint/US18BACK.png"/>
+
 
 * **US18**
 <img src="resources/evidenceSprintThree/foroEndpoints.png">
@@ -3471,6 +3505,22 @@ Se culminó el frontend web application, respecto al i18n hay incovenientes los 
 * **Web Services Backend**
 
 Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se avanzó en el backend para el presente sprint, en lo que respecta al backend se trabajo en todos los endpoints principales con el fin de una conexión más sencilla entre frontend y backend.
+
+
+
+<img src="resources/fotosEjecucionSprint/US05.png"/>
+
+<img src="resources/fotosEjecucionSprint/US05Back.png"/>
+
+<img src="resources/fotosEjecucionSprint/US06.png"/>
+<img src="resources/fotosEjecucionSprint/US06Back.png"/>
+
+
+<img src="resources/fotosEjecucionSprint/US11Back.png"/>
+
+
+<img src="resources/fotosEjecucionSprint/US18BACK.png"/>
+
 
 <img src="resources/evidenceSprintThree/foroEndpoints.png">
 
