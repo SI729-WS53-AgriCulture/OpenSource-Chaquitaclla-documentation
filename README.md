@@ -3368,7 +3368,7 @@ Entrevista de validación usuario agricultor profesional 01:
 
 |**Entrevistado 01**|Josue Guerra|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>Durante la entrevista, el entrevistado menciona que la aplicación en el aspecto visual es agradable a la vista, puesto que dice que no cansa a la vista al primer momento de visualizarlo, algo positivo a considerar</p><p>En la sección de landing page, menciona que la información está clara sin embargo le gustaría que se explicase un poco más en la sección de about the product con información más sencilla para este.</p><p>Dentro de la aplicación le parece todo bien, mencionando que las secciones fundamentales de la aplicación son el foro de consultas, así como lo que es el apartado del registro de cultivos, puesto que el, a pesar de ser un profesional cree que un foro de consultas podría ser de gran ayuda, incluso para ellos, puesto que a veces hay casos de terceros los cuales situaciones como fenomenos naturales puedan acabar con nuestro cultivos y un apartado colaborativo puede ser lo más esencial</p><p>Como recomendaciones finales, menciona que un apartado de notificaciones podría ser necesario si el producto se busca escalar a una mayor audiencia así como un sistema para ver el clima actual y posibles eventos que puedan suceder, puesto que al menos en sus zonas aledañas de donde vive en Trujillo, algo así podria ser muy útil</p>|
 |Timing: |URL: |
 
 Entrevista de validación usuario agricultor profesional 02:
@@ -3395,7 +3395,7 @@ Entrevista de validación usuario agricultor profesional 03:
 
 |**Entrevistado 05**|Julio Torres|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>Durante la entrevista, Julio menciona que le parece agradable la aplicación, cree que la interfaz esta bien hecha para lo que cumple y no interfiere mucho con el uso de la aplicación, en cambio, bajo su experiencia y lo que se pudo observar, el toolbar le facilito poder navegar a través de la pagina de una forma eficiente y rápida</p><p>Además de aquello, menciona que la aplicación, la sección de consultas puede ser útil, siendo el alguien con un jardín pequeño de plantas que se relacionan a la agricultura, puede preguntar y ayudarse de otros agricultores con una mayor experiencia y le agrada que todo esto este incluido dentro de la aplicación en sí</p><p>Finalmente, Julio cree que la aplicación está bien sin embargo, apartados como notificaciones o que el idioma se pueda cambiar son puntos que ve críticos que no existan, algo que podría afectar de forma grave a la experiencia de usuario de otros individuos.</p>|
 |Timing: |URL: |
 
 Entrevista de validación usuario jardinero en casa 03:
