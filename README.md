@@ -3587,6 +3587,9 @@ Recomendación: Para mejorar la usabilidad y libertad del usuario se recomienda 
 
 <img src="/resources/fotoVideoPruebaProduct.png"/>
 
+
+Enlace al video sobre el producto en onedrive: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EVIBdnKopSlHlb9lDBSLNFEBwBvIzHrKT7THHUMRIpcrSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TuTy28]
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 **TB1:** Para esta TB1, consideramos que fue un desafío, trabajar un proyecto así con metodologías ágiles fue beneficioso, pero al ser nuestro primera vez fue complicado. Las herramientas utilizadas para despliegue de nuestro software son conocidas por mayor parte de nuestros integrantes, razón por la cual las elegimos. Para esta primera entrega todos los integrantes trabajamos de manera adecuada y efectiva. Para las futuras entregas se espera mejorar secciones donde hayamos fallado con el fin de brindar una mejor solución de calidad.
