@@ -2505,7 +2505,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>crear componente en angular</td>
       <td>1</td>
       <td>Amner Llamno</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK07</td>
@@ -2513,7 +2513,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>implementar la conexion con el backend</td>
       <td>2</td>
       <td>Amner Llamno</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
       <tr>
       <td>TK07</td>
@@ -2521,7 +2521,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>verificar que se cambie la contraseña mediante un mensaje de consola o un dialog apareciendo</td>
       <td>2</td>
       <td>Amner Llamno</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <th rowspan="4">US12</th>
@@ -2531,7 +2531,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>crear el componente de angular</td>
       <td>2</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK09</td>
@@ -2539,7 +2539,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>crear la pagina de la seccion del usuario en angular</td>
       <td>2</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
       <tr>
       <td>TK10</td>
@@ -2547,7 +2547,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>implementar conexion con el api</td>
       <td>2</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
       <tr>
       <td>TK11</td>
@@ -2555,7 +2555,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>implementar funcionalidades de edicion y aceptar dentro de la interfaz de usuario</td>
       <td>2</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <th rowspan="3">US11</th>
@@ -2591,7 +2591,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los ValueObject</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK16</td>
@@ -2599,7 +2599,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los entitys</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK17</td>
@@ -2607,7 +2607,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Comamands</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK18</td>
@@ -2615,7 +2615,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Queries</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK19</td>
@@ -2623,7 +2623,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los CommandServices</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <td>TK20</td>
@@ -2631,7 +2631,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los QueryService</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        </tr>
        <tr>
@@ -2640,7 +2640,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los Repositories</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
      </tr>
        <tr>
@@ -2649,7 +2649,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
      </tr>
        <tr>
@@ -2658,7 +2658,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los QueryServiceImpls</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     </tr>
        <tr>
@@ -2667,7 +2667,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementar los Controllers </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <th rowspan="3">US11</th>
@@ -2677,7 +2677,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Queries</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK26</td>
@@ -2685,7 +2685,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los QueryServices</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK27</td>
@@ -2693,7 +2693,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los QueryServiceImpls</td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
        <tr>
       <th rowspan="3">US02</th>
@@ -2703,7 +2703,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Comamands </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK29</td>
@@ -2711,7 +2711,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los CommandServices </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
       <tr>
       <td>TK30</td>
@@ -2719,7 +2719,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
 <tr>
       <th rowspan="3">US19</th>
@@ -2729,7 +2729,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Comamands </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK32</td>
@@ -2737,7 +2737,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los CommandServices </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
       <tr>
       <td>TK33</td>
@@ -2745,7 +2745,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
       <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
 <tr>
       <th rowspan="3">US12</th>
@@ -2755,7 +2755,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear los Comamands </td>
       <td>1</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK32</td>
@@ -2763,7 +2763,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear y definir los CommandServices </td>
       <td>1</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
       <tr>
       <td>TK33</td>
@@ -2771,7 +2771,7 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
       <td>David Rivas</td>
-      <td>In-Progress</td>
+      <td>Done</td>
     </tr>
      <tr>
       <th rowspan="11">US05</th>
