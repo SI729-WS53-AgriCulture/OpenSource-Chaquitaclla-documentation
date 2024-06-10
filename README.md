@@ -3585,6 +3585,7 @@ Recomendación: Para mejorar la usabilidad y libertad del usuario se recomienda 
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
+<img src="/resources/fotoVideoPruebaProduct.png"/>
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
