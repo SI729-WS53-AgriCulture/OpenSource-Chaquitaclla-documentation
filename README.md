@@ -3603,9 +3603,9 @@ Entrevista de validación usuario agricultor profesional 02:
 
 Entrevista de validación usuario agricultor profesional 03:
 
-|**Entrevistado 03**||
+|**Entrevistado 03**|Nelson Tineo|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>Durante la entrevista, el entrevistado mencionó la importancia de incluir una sección donde el usuario pueda indicar las implementaciones que está realizando en las plataformas para mejorar su producción. Este es un aspecto a considerar.</p><p>En la sección de la landing page, comentó que la información es adecuada. Sin embargo, en la gráfica sugirió incluir detalles sobre las mejoras implementadas en el producto, lo cual le encantó. También expresó que le gustó mucho la sección Forum.</p><p>En esta sección de Forum, mencionó que le parece muy interesante, ya que es una forma de interactuar con otros usuarios y, a su vez, permite obtener consejos útiles sobre agricultura.</p>|
 |Timing: |URL: |
 
 
@@ -3624,9 +3624,9 @@ Entrevista de validación usuario agricultor profesional 03:
 Entrevista de validación usuario jardinero en casa 03:
 
 
-|**Entrevistado 06**||
+|**Entrevistado 06**|Owen Pinedo|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>Durante la entrevista, mencionó que le parece una idea estupenda la creación de una plataforma como Chaquitaclla, la cual ayudará y revolucionará la manera de vivir de muchas personas</p><p>Asimismo, indicó que cada herramienta presentada en la plataforma es interesante, especialmente la sección Forum.</p><p>Destacó que esta sección es de gran ayuda para principiantes como él y que será una herramienta valiosa que muchos utilizarán para compartir información.<p/>|
 |Timing: |URL: |
 
 
