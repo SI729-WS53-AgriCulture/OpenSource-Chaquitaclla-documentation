@@ -3246,6 +3246,13 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
 
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
 
+|Alumno|Actividad|
+|-|-|
+|Guillen Luna, Paolo César|Reestructuración de la landing page. Elaboración de los endpoints con relacion a los controles de sowings. Redespliegue de la aplicación web actualizada y landing page en Firebase y github pages respectivamente. Añadir seccion de edicion de perfil en el frontend|
+|               |               |
+|Amner Llamo Sánchez |Elaboracion completa del apartado de foro tanto en backend como frontend, mejora de UI en la sección de foro de la aplicacion frontend|
+|Cantoral, Diego|               |
+|               |               |
 
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
