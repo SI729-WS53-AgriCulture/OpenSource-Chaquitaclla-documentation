@@ -3192,6 +3192,25 @@ Web Service:
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
 
+Para la entrega del sprint número tres se enfoco en hacer un despliegue y terminar el desarrollo completo de la landing page como la aplicación web frontend. Nuestro web service, el backend, está completado en una medida del 50% a más, puesto que los endpoints principales ya se encuentran realizados y quedaría refinarlos para que sigan más al funcionamiento de nuestra aplicación.
+
+
+* **Landing Page**
+
+Se terminó todo lo relacionado al landing page, se incluyo video sobre el producto así como del equipo de desarrollo de Chaquitaclla.
+
+
+
+* **Frontend-Web-Application**
+
+Se culminó el frontend web application, respecto al i18n hay incovenientes los cuales aún tratamos de resolver, sin embargo, en lo que respecta a funcionalidades de como debería ser nuestro producto se encuentra realizado y funciona de acuerdo a lo planteado inicialmente.
+
+
+
+* **Web Services Backend**
+
+Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se avanzó en el backend para el presente sprint, en lo que respecta al backend se trabajo en todos los endpoints principales con el fin de una conexión más sencilla entre frontend y backend.
+
 
 
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
