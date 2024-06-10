@@ -3646,6 +3646,8 @@ Principio violado: Usabilidad - Flexibilidad y eficiencia de uso
 
 Descripción del problema: En la sección "Diseases or Pest" de la página "Crop Information Management", donde se presenta información sobre enfermedades o plagas de cultivo y sus soluciones, no se proporciona una funcionalidad de búsqueda para ayudar a los usuarios a encontrar información específica de manera rápida y eficiente. Esto puede dificultar la navegación para los usuarios que desean buscar una enfermedad o plaga en particular y su solución correspondiente entre una gran cantidad de información.
 
+<img src="resources/heuristicas/diseases.png"><br>
+
 Recomendación: Para mejorar la usabilidad y la eficiencia de uso de la página, se recomienda implementar una funcionalidad de búsqueda que permita a los usuarios buscar enfermedades o plagas específicas y sus soluciones. Esto podría incluir la adición de un campo de búsqueda en la parte superior de la tabla o la implementación de filtros para permitir a los usuarios refinar los resultados según sus necesidades. La capacidad de búsqueda proporcionará a los usuarios una forma rápida y efectiva de acceder a la información relevante, mejorando así su experiencia en la aplicación web.
 
 PROBLEMA #05: Incapacidad para cerrar el diálogo de creación o edición de preguntas o respuestas usando el botón "x"
@@ -3656,6 +3658,8 @@ Principio violado: Usabilidad - Control y libertad del usuario
 
 Descripción del problema: Al abrir el diálogo para crear o editar una pregunta o respuesta en la página del "Forum", los usuarios no pueden cerrarlo utilizando el icono de la "x" en la esquina superior derecha del diálogo. Esta falta de funcionalidad limita la libertad de los usuarios para decidir si desean continuar o cancelar la acción de crear o editar una pregunta o respuesta.
 
+<img src="resources/heuristicas/dialogoForo.png"><br>
+
 Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios un mayor control sobre su experiencia, se recomienda habilitar la capacidad de cerrar el diálogo utilizando la "x". Esto puede lograrse agregando un evento de clic al botón de la "x" que cierre el diálogo de manera consistente con las expectativas del usuario.
 
 PROBLEMA #06: Ausencia de funcionalidad de traducción a español en la aplicación web
@@ -3665,6 +3669,8 @@ Escala de severidad: 02
 Principio violado: Usabilidad - Control y libertad del usuario
 
 Descripción del problema: La aplicación web está en inglés y no proporciona a los usuarios una opción para traducirla al español u otro idioma. Esto puede dificultar la accesibilidad y comprensión de la aplicación para usuarios que no hablan inglés con fluidez.
+
+<img src="resources/heuristicas/cambioIdioma.png"><br>
 
 Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios más control sobre su experiencia, se recomienda agregar una funcionalidad de traducción a la aplicación web. Esto podría incluir la implementación de un botón de traducción en la interfaz de usuario que permita a los usuarios seleccionar su idioma preferido, como español, y traducir automáticamente el contenido de la aplicación. Además, se debería proporcionar una opción para cambiar el idioma en cualquier momento, lo que brindaría a los usuarios más flexibilidad y libertad para adaptar la aplicación a sus necesidades lingüísticas.
 
@@ -3683,6 +3689,8 @@ Problema #08: Incapacidad para registrar el páis del usuario en "Sign In"
 Escala de severidad: 02
 
 Principio violado: Usabilidad - Control y libertad del usuario
+
+<img src="resources/heuristicas/registro_pais.png"><br>
 
 Descripción del problema: En la autenticación del usuario, al seleccionar "Sign Up" se presenta las opciones de registrar: "First Name", "Last Name", E-mail" y "Password", mas no se presenta la opción de seleccionar el país de residencia del usuario, lo cuál llega a ser un problema para llevar un registro adecuado de los usuarios que se registran dentro de la aplicación.
 Recomendación: Para mejorar la usabilidad y control de libertad del usuario, se recomienda agregar la opción de permitir el registro de país de los usuarios para que se pueda llevar un registro más adecuado de los usuarios y que el propio usuario tenga mayores opciones de especificar sus datos personales.
