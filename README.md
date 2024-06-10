@@ -3112,6 +3112,11 @@ Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja c
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
 
+| Endpoint | Detalles |
+| :--: | :--: | 
+|forum/questions |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", además del getQuestions desde el Placeholder Json para la tabla de las preguntas que se han registrado dentro de la sección de forum |
+|forum/answers |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", ademas de los getAnswers desde el Placeholder Json para la tabla de las respuestas de acuerdo a la pregunta que el usuario se encuentre interesado en saber más información |
+
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
 
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
