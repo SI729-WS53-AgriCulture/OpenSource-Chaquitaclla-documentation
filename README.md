@@ -3252,7 +3252,7 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
 |               |               |
 |Amner Llamo Sánchez |Elaboracion completa del apartado de foro tanto en backend como frontend, mejora de UI en la sección de foro de la aplicacion frontend|
 |Cantoral, Diego|               |
-|               |               |
+|Rivas Sarango, David|Elabotación completa del apartado de products, unión entre bc-products y bc-sowings |
 
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
