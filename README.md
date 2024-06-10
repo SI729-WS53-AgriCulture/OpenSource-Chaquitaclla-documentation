@@ -95,7 +95,7 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 
 **TB2 Github**
 <img src="resources/fotoPruebaEvidenciaReadmeTres/One.png" >
-<img src="resources/fotoPruebaEvidenciaReadmeTres/One.png" >
+<img src="resources/fotoPruebaEvidenciaReadmeTres/Two.png" >
 
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
