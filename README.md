@@ -3388,6 +3388,8 @@ Respecto a la colaboración de los integrantes, si bien dentro de los insights q
 **Web Services:**
 <img src="resources/insights/Nine.png"/> 
 <img src="resources/insights/Ten.png"/>
+<img src="resources/insights/Eleven.png"/>
+
 
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
