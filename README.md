@@ -3211,6 +3211,22 @@ Se culminó el frontend web application, respecto al i18n hay incovenientes los 
 
 Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se avanzó en el backend para el presente sprint, en lo que respecta al backend se trabajo en todos los endpoints principales con el fin de una conexión más sencilla entre frontend y backend.
 
+<img src="resources/evidenceSprintThree/foroEndpoints.png">
+
+<img src="resources/evidenceSprintThree/foroEndpoints.png">
+<img src="resources/evidenceSprintThree/foroGetQuestionById.png">
+<img src="resources/evidenceSprintThree/foroPutQuestion.png">
+<img src="resources/evidenceSprintThree/foroDeleteQuestion.png">
+<img src="resources/evidenceSprintThree/foroGetAllQuestions.png">
+<img src="resources/evidenceSprintThree/foroPostQuestion.png">
+<img src="resources/evidenceSprintThree/foroGetAllQuestionsByUserId.png">
+
+<img src="resources/evidenceSprintThree/foroGetAnswerById.png">
+<img src="resources/evidenceSprintThree/foroPutAnswer.png">
+<img src="resources/evidenceSprintThree/foroDeleteAnswer.png">
+<img src="resources/evidenceSprintThree/foroGetAllAnswers.png">
+<img src="resources/evidenceSprintThree/foroPostAnswer.png">
+<img src="resources/evidenceSprintThree/foroGetAllAnswersByQuestionId.png">
 
 
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
