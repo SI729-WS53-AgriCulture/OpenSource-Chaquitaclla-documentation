@@ -3596,9 +3596,11 @@ Entrevista de validación usuario agricultor profesional 01:
 
 Entrevista de validación usuario agricultor profesional 02:
 
-|**Entrevistado 02**||
+|**Entrevistado 02**|Walther Villar|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p> Durante la entrevista, el entrevistado menciona que la aplicación en el aspecto visual es agradable a la vista, destacando la composición de colores en la landing page, algo positivo a considerar. Además, menciona que los precios ofrecidos son asequibles, lo cual es un punto favorable.</p>
+<p>Dentro de la aplicación, el entrevistado comenta que le parece fácil de usar y valora la funcionalidad del registro de cultivos, ya que le permite llevar el control de sus plantas y los productos utilizados en ellas.</p>
+<p>Como recomendaciones finales, sugiere que en los diálogos sería de ayuda colocar ejemplos de cómo llenarlos u opciones para facilitar el proceso. También menciona que le gustaría tener más estadísticas disponibles dentro de la aplicación para un análisis más detallado.|</p>
 |Timing: |URL: |
 
 Entrevista de validación usuario agricultor profesional 03:
