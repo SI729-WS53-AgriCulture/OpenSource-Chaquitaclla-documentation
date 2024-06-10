@@ -3112,7 +3112,6 @@ Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja c
 * **US18**
 <img src="resources/evidenceSprintThree/foroEndpoints.png">
 
-<img src="resources/evidenceSprintThree/foroEndpoints.png">
 <img src="resources/evidenceSprintThree/foroGetQuestionById.png">
 <img src="resources/evidenceSprintThree/foroPutQuestion.png">
 <img src="resources/evidenceSprintThree/foroDeleteQuestion.png">
@@ -3230,7 +3229,6 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
 
 <img src="resources/evidenceSprintThree/foroEndpoints.png">
 
-<img src="resources/evidenceSprintThree/foroEndpoints.png">
 <img src="resources/evidenceSprintThree/foroGetQuestionById.png">
 <img src="resources/evidenceSprintThree/foroPutQuestion.png">
 <img src="resources/evidenceSprintThree/foroDeleteQuestion.png">
