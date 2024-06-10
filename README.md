@@ -3092,6 +3092,96 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5></div>
 
+**Landing Page**
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-landing-page|main| f252b96 | Update index.html |  | 31/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-landing-page|main| 170795e | Update index-es.html |  | 31/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-landing-page|main| 16afe03 | Update index.html |  | 10/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/OpenSource-Chaquitaclla-landing-page|main| e0d8d05 | Update index-es.html |  | 10/05/2024 |
+
+
+**Frontend-web-application**
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|feature/user-register| 7a0ddf7 | Merge pull request #39 from SI729-WS53-AgriCulture/feature/forum|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|feature/user-register| 8d136dc | Merge pull request #41 from SI729-WS53-AgriCulture/main|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|feature/user-register| 3685305 | Merge pull request #46 from SI729-WS53-AgriCulture/feature/user-register|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|develop| 092d5b6 |feat(forum): corrected forum management.|  | 04/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|develop| 4a2d4cf |feat(user): added user edit.|  | 04/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|develop| 54bcfb9 |feat(user): corrected imports.|  | 04/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|develop| 66a5073 |feat(user): corrected user edit.|  | 05/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|develop| 9c27a1f |feat(crops): corrected crops history.|  | 06/06/2024 |
+
+**Web Services**
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|4ea299e|user |  | 29/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|d7eb90a|Avance |  | 30/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|7f844be|Conector |  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|85e38be |City |  | 02/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|5d2f965 |Gaa |  | 02/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|3566441 |tablas |  | 02/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|21d0c80 |User |  | 02/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|2101222 |Tablas creadas |  | 02/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|ea69806 |XD |  | 02/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|4d31ab4|ComQue |  | 09/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|b805d3b|Service|  | 09/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|293bcf1 |UserT|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|e031841 |User |  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-users|d070f15 |f|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|96be8a5 |Merge branch 'bc-sowings' of https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services into bc-sowings|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|dfa6530 |changed certain things slightly|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|2c9e845 |testing commit|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|f2dc573 |needs fixing related to the controllers + services in a way that data could be obtained and registered|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|0c447c1 |feat: finished bc-swoing with its services and aggregates and whole domain|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|87ce041 |feat: added way to communicate with the api correctly, crud elements related to sowingControls are done.|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|0c447c1 |feat: finished bc-swoing with its services and aggregates and whole domain|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|0c447c1 |feat: finished bc-swoing with its services and aggregates and whole domain|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|0c447c1 |feat: finished bc-swoing with its services and aggregates and whole domain|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-sowings|0c447c1 |feat: finished bc-swoing with its services and aggregates and whole domain|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|480e98b |fixed: untill infrastructure advances with four v|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|bd8ab17 |feat: product interface layer|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|4991876 |Merge branch 'main' into bc-products|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|9aeb28f |resolving merging files|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|6390460|feat: first try for relation products_sowings|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|952aeab |fixed: functional CreateProduct and PostProduct|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-products|5fcc798 |feat: added relationship in sowing aggregate|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|112aade |feat(forum): added answer and question services implements.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|c519c4a |feat(forum): added question resource.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|c8c76e4 |feat(forum): added question controller.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|c761993 |feat(forum): change postgres password.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|2b38a61|feat(forum): merge.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|d56e236|feat(forum): corrected answer and question.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|6c52bfd|feat(forum): corrected answer and question commands.|  | 28/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|7dc8908|feat(forum): Corrected question create.|  | 31/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|2a2d78a|feat(forum): Corrected answer aggregate.|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|1f9d2f6|feat(forum): Corrected and added commands and queries.|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|9275b9a|feat(forum): Corrected repositories, command and queries services.|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|90925bc|feat(forum): Added resources and transforms.|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|f20afa3|feat(forum): Added functions to controllers.|  | 01/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|d1c56bf|feat(forum): Corrected methods get by.|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|2decb81|feat(forum): Corrected imports.|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|dec1879|feat(forum): changed question and answer variable.|  | 05/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|78631cb|feat(forum): added validation for questiontext and answertext.|  | 05/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|8851971|feat(forum): corrected answer and question controller and validation for questiontext and answertext.|  | 08/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|a185af4|feat(forum): corrected throw text.|  | 08/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-forum|1ccf084|feat(forum): added documentation in controllers.|  | 08/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|ae9a92e|feat(crops): deleted unnecesary entity and repository|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|6afa831|feat(crops): created resources and transforms related to the controllers managed by crops|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|e67d90d|feat(crops): added methods GET and POST to endpoint of crops|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|669e553|feat(crops): added commands related to disease controller|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|7479285|feat(crops): added all queries and repositories related to diseases|  | 03/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|3dbacc5|feat(crops): fixed the relation ManyToMany between crops and diseases|  | 04/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|30384bf|feat(crops): deleted unnecesary imports|  | 04/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|1224e4f|feat(crops): created the relation ManyToMany between pest and crops|  | 04/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|45c0c54|feat(crops): added SwaggerUI|  | 09/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|aae8e22|feat(crops): fixed the endpoints that weren't working properly and added endpoint care|  | 10/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|bc-crops|df71053|feat(crops): fixed the controllers|  | 10/06/2024 |
+
+
 
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
