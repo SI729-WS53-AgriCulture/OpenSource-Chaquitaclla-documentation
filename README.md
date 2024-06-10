@@ -3218,12 +3218,25 @@ Para la entrega del sprint número tres se enfoco en hacer un despliegue y termi
 
 Se terminó todo lo relacionado al landing page, se incluyo video sobre el producto así como del equipo de desarrollo de Chaquitaclla.
 
-
+<img src="resources/fotosDePruebaCompletaTres/Uno.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Dos.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Tres.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Cuatro.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Cinco.png"/>
 
 * **Frontend-Web-Application**
 
 Se culminó el frontend web application, respecto al i18n hay incovenientes los cuales aún tratamos de resolver, sin embargo, en lo que respecta a funcionalidades de como debería ser nuestro producto se encuentra realizado y funciona de acuerdo a lo planteado inicialmente.
 
+
+<img src="resources/fotosDePruebaCompletaTres/Seis.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Siete.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Ocho.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Nueve.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Diez.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Once.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Doce.png"/>
+<img src="resources/fotosDePruebaCompletaTres/Trece.png"/>
 
 
 * **Web Services Backend**
