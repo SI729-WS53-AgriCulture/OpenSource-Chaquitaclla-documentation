@@ -3133,6 +3133,14 @@ Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja c
 
 | Endpoint | Detalles |
 | :--: | :--: | 
+|users/subscriptions | Este endpoint proporciona información sobre los planes de suscripción disponibles. Cada plan tiene un id, nombre, descripción y precio. Por ejemplo, el plan "Básico" (id: 1) permite el registro de 5 cultivos y cuesta 9.99. |
+|users/users |Se implementaron las operaciones CRUD desde base.service.ts, logrando el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de los usuarios.|
+|users/countries | Este endpoint proporciona información sobre los países y sus ciudades. Cada país tiene un id, nombre y una lista de ciudades. Cada ciudad tiene un id y un nombre. Por ejemplo, Perú (id: 1) tiene ciudades como Lima (id: 1) y Cusco (id: 2). |
+|/crops/sowings	|CRUD para las siembras. Se implemento con ayuda del base.service.ts. Se obtienen datos como id, fechas, área, usuario, cultivo, fase fenológica y controles. Por ejemplo, la siembra de "Lemon" (id: 1) inició el 19/07/2024 en 500m².|
+|/crops/crops	|CRUD para los cultivos. Se obtienen id, nombre, imagen, descripción y tipo. Por ejemplo, "Lemon" (id: 1) es un cítrico usado medicinalmente.|
+|/crops/cares	|CRUD para los cuidados. Se obtienen id, siembra, fecha y sugerencia. Por ejemplo, para la siembra 1, el 25/07/2024 se recomendó regar por 30 minutos.|
+|/crops/diseases|CRUD para las enfermedades asociados con cultivos. Se obtienen id, cultivo, nombre, descripción y solución. Por ejemplo, "Bacterial stain" (id: 1) afecta a "Rice" y se controla con fungicidas de cobre.|
+|/crops/products|CRUD para los productos. Se obtienen id, siembra, fecha, tipo, nombre y cantidad. Por ejemplo, para la siembra 1, el 25/07/2024 se usaron 10 kg de "Aminofol Plus".|
 |forum/questions |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", además del getQuestions desde el Placeholder Json para la tabla de las preguntas que se han registrado dentro de la sección de forum |
 |forum/answers |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", ademas de los getAnswers desde el Placeholder Json para la tabla de las respuestas de acuerdo a la pregunta que el usuario se encuentre interesado en saber más información |
 
