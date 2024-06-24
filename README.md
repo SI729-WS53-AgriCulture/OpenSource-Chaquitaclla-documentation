@@ -3577,6 +3577,63 @@ Respecto a la colaboración de los integrantes, si bien dentro de los insights q
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
 
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>24/06/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>12:00 hrs</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Agriculture</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Tipo, Godofredo / Rivas Sarango, David Alejandro / Cantoral Paredes, Diego André</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>Se implementaron correctamente los endpoints de cada bounded context desarrollado por cada integrante.</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>Se evidenciaron algunas dificultades con la familiarizacion del backend pero se lograron completar a tiempo las actividades.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Perfeccionar los endpoints e inttegrar el frontend con el backend.</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>29</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>35</td>
+        </tr>
+    </tbody>
+</table>
+
 <div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
