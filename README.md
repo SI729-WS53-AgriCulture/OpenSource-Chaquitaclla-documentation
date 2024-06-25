@@ -3823,7 +3823,6 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Paolo</td>
           <td>Done</td>
         </tr>
-        
          <tr>
             <th rowspan="11">US22</th>
             <td rowspan="11">Inicio de Sesion IAM Backend</td>
@@ -4084,7 +4083,6 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Paolo</td>
           <td>Done</td>
         </tr>
-     </tr>
             <tr>
             <th rowspan="6">TS06</th>
             <td rowspan="6">Category</td>
