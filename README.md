@@ -3803,6 +3803,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
+En el Sprint 4, hemos culminado exitosamente el proyecto con la integración completa y funcional del frontend y backend. El front-end, que ya estaba operando eficazmente con json-server en sprints anteriores, ha sido completamente integrado con el back-end, permitiendo una interacción fluida y eficaz entre ambas partes del sistema
+
 Backend
 
 <img src ="resources/evidenceSprintThree/foroEndpoints.png">
@@ -3810,6 +3812,29 @@ Backend
 Frontend
 
 <img src="resources/fotosDePruebaCompletaTres/Seis.png">
+
+* **TS02:**
+<img src="resources/EvidenciasTrabajoFinal/TS02-1.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/TS02-2.png"/>
+
+* **US22:**
+<img src="resources/EvidenciasTrabajoFinal/US22-1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/US22-2.png"/>
+
+* **US23:**
+<img src="resources/EvidenciasTrabajoFinal/US23.png"/>
+
+* **TS03:**
+<img src="resources/EvidenciasTrabajoFinal/TS03.png"/>
+
+* **TS04:**
+<img src="resources/EvidenciasTrabajoFinal/TS04.png"/>
+
+* **TS06:**
+<img src="resources/EvidenciasTrabajoFinal/TS06.png"/>
+
+
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
