@@ -3661,6 +3661,8 @@ Frontend
 |https://github.com/SI729-WS53-AgriCulture/testing|main|3d50b0d|Merge pull request #9 from SI729-WS53-AgriCulture/feature/tf-rivas|Merge pull request #9 from SI729-WS53-AgriCulture/feature/tf-rivas|25/06/2024|
 |https://github.com/SI729-WS53-AgriCulture/testing|main|2b2c1e2|Merge pull request #8 from SI729-WS53-AgriCulture/feature/tp-Amner|Merge pull request #8 from SI729-WS53-AgriCulture/feature/tp-Amner|25/06/2024|
 |https://github.com/SI729-WS53-AgriCulture/testing|main|7ed073a|Merge pull request #7 from SI729-WS53-AgriCulture/feature/tp-Diego|Merge pull request #7 from SI729-WS53-AgriCulture/feature/tp-Diego|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|master|7ed073a|Merge pull request #16 from SI729-WS53-AgriCulture/feature/tb2-rivas|Merge pull request #16 from SI729-WS53-AgriCulture/feature/tb2-rivas|25/06/2024|
+
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
