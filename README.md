@@ -3692,7 +3692,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
         </tr>
          <tr>
             <td>US23</td>
-            <td>Visualizar equipo de Chaquitaclla</td>
+            <td>Restriccion de accesos</td>
             <td>23</td>
             <td></td>
             <td></td>
@@ -3706,7 +3706,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>03</td>
             <td></td>
             <td></td>
-            <td>3</td>
+            <td>1</td>
             <td>DavidRivas</td>
             <td>Done</td>
         </tr>
@@ -3716,7 +3716,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>04</td>
             <td></td>
             <td></td>
-            <td>3</td>
+            <td>1</td>
             <td>Godofredo Quispe</td>
             <td>Done</td>
         </tr>
