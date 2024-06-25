@@ -2187,12 +2187,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
   <td>Diego Cantoral</td>
   <td>Done</td>
 </tr>
-  </tbody>
-</table> <td>3</td>
-      <td>David Rivas</td>
-      <td>Done</td>
-    </tr>
-    <tr>
+     <tr>
       <td>TK11</td>
       <td>Implementar funcionalidad para editar cultivo</td>
       <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
@@ -2200,10 +2195,12 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>David Rivas</td>
       <td>Done</td>
     </tr>
-    <tr>
-      <th r
-
-
+  </tbody>
+</table> 
+<td>3</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
 
 <div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review</h5></div>
 
