@@ -3664,8 +3664,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>TS01</td>
             <td>Integracion de Front y Back</td>
             <td>01</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollo de la integración</td>
+            <td>Integrar los componentes frontend y backend para una comunicación eficiente y fluida.</td>
             <td>4</td>
             <td>Todos</td>
             <td>Done</td>
@@ -3674,8 +3674,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>TS02</td>
             <td>Inicio ed sesion IAM Frontend</td>
             <td>02</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollo del login frontend</td>
+            <td>Implementar el sistema de inicio de sesión utilizando IAM en la parte frontend.</td>
             <td>4</td>
             <td>Paolo Guillen</td>
             <td>Done</td>
@@ -3684,9 +3684,9 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>US22</td>
             <td>Inicio de Sesion IAM Backend</td>
             <td>22</td>
-            <td></td>
-            <td></td>
-            <td>3</td>
+            <td>Desarrollo del login backend</td>
+            <td>Implementar la funcionalidad de inicio de sesión utilizando IAM en la parte backend.</td>
+            <td>2</td>
             <td>Paolo Guillen</td>
             <td>Done</td>
         </tr>
@@ -3694,9 +3694,9 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>US23</td>
             <td>Restriccion de accesos</td>
             <td>23</td>
-            <td></td>
-            <td></td>
-            <td>4</td>
+            <td>Implementación de accesos</td>
+            <td>Desarrollar restricciones de acceso para usuarios basados en roles y permisos.</td>
+            <td>2</td>
             <td>Todos</td>
             <td>Done</td>
         </tr>
@@ -3704,8 +3704,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>TS03</td>
             <td>ProductSowings</td>
             <td>03</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollo del módulo de productSowings.</td>
+            <td>Implementar la relación y funcionalidad entre los productos y las sowings</td>
             <td>1</td>
             <td>DavidRivas</td>
             <td>Done</td>
@@ -3714,8 +3714,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>TS04</td>
             <td>Profile</td>
             <td>04</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollo del perfil de usuario</td>
+            <td>Crear y gestionar el perfil de usuario, permitiendo la actualización de información personal.</td>
             <td>1</td>
             <td>Godofredo Quispe</td>
             <td>Done</td>
@@ -3725,8 +3725,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>TS05</td>
             <td>Auditable</td>
             <td>05</td>
-            <td></td>
-            <td></td>
+            <td>Implementación de auditoría</td>
+            <td>Desarrollar funcionalidades auditables para rastrear cambios y acciones en el sistema.</td>
             <td>3</td>
             <td>Godofredo Quispe</td>
             <td>Done</td>
@@ -3736,8 +3736,8 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>TS06</td>
             <td>Category</td>
             <td>06</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollo del módulo de categorías</td>
+            <td>Implementar la gestión de categorías para organizar y clasificar los productos.</td>
             <td>3</td>
             <td>Amner</td>
             <td>Done</td>
