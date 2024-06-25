@@ -3978,7 +3978,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear los Comamands  </td>
           <td>Crear los Comamands  </td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -3986,7 +3986,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear los Queries</td>
           <td>Crear los Queries</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -3994,7 +3994,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear y definir los CommandServices</td>
           <td>Crear y definir los CommandServices</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4002,7 +4002,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear y definir los QueryServices</td>
           <td>Crear y definir los QueryServices</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4010,7 +4010,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear y definir los Repositories</td>
           <td>Crear y definir los Repositories</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4018,7 +4018,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementa los CommandServicesImpls </td>
           <td>Crear e implementa los CommandServicesImpls </td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4026,7 +4026,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementa los QueryServiceImpls </td>
           <td>Crear e implementa los QueryServiceImpls </td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4034,7 +4034,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementar los Controllers </td>
           <td>Crear e implementar los Controllers </td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>DavidRivas</td>
           <td>Done</td>
         </tr>
             <tr>
@@ -4052,7 +4052,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear y definir los QueryServices </td>
           <td>Crear y definir los QueryServices </td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Godofredo Quispe</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4060,7 +4060,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementa los QueryServiceImpls </td>
           <td>Crear e implementa los QueryServiceImpls </td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Godofredo Quispe</td>
           <td>Done</td>
         </tr>
          </tr>
@@ -4071,7 +4071,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>Presencia en todos los entities de los bounded-context</td>
             <td>Presencia en todos los entities de los bounded-context</td>
             <td>3</td>
-            <td>Godofredo Quispe</td>
+            <td>Todos</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -4079,7 +4079,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Presencia en todos los aggregatesde los bounded-context </td>
           <td>Presencia en todos los aggregatesde los bounded-context</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Todos</td>
           <td>Done</td>
         </tr>
             <tr>
@@ -4097,7 +4097,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear y definir los QueryServices </td>
           <td>Crear y definir los QueryServices</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Amner</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4105,7 +4105,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear y definir los Repositories </td>
           <td>Crear y definir los Repositories</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Amner</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4113,7 +4113,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementa los CommandServicesImpls </td>
           <td>Crear e implementa los CommandServicesImpls</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Amner</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4121,7 +4121,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementa los QueryServiceImpls</td>
           <td>Crear e implementa los QueryServiceImpls</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Amner</td>
           <td>Done</td>
         </tr>
         <tr>
@@ -4129,7 +4129,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Crear e implementar los Controllers </td>
           <td>Crear e implementar los Controllers</td>
           <td>1</td>
-          <td>Paolo</td>
+          <td>Amner</td>
           <td>Done</td>
         </tr>
     </tbody>
