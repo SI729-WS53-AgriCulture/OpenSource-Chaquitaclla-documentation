@@ -3670,6 +3670,14 @@ Frontend
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
 
+Backend Team Collaboration
+<img src="resources/sstb41.JPG">
+<img src="resources/sstb42.JPG">
+
+Frontend Team Collaboration
+<img src="resources/sstb43.JPG">
+<img src="resources/sstb44.JPG">
+
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 
