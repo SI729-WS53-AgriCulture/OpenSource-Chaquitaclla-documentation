@@ -3639,6 +3639,14 @@ En lo que respecta al cuarto sprint backlog, nos estuvimos enfocando en lo que e
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
 
+Backend
+
+<img src ="resources/evidenceSprintThree/foroEndpoints.png">
+
+Frontend
+
+<img src="resources/fotosDePruebaCompletaTres/Seis.png">
+
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
