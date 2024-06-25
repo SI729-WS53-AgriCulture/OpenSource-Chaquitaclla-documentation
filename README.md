@@ -3726,6 +3726,13 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 |https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 637b084 | feat: more related things to the project, btw almost finished the the register sowing section|  | 22/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 83599e4 |feat: only thing left are the updates command to introduce in the sowings, products, controls sections|  | 23/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 7bb0bdf |Merge pull request #58 from SI729-WS53-AgriCulture/feature/crud-crops|  | 24/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 222cdc9 |feat: finished statistics section|  | 24/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 94e510b |feat(forum): joined backend with frontend.|  | 24/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 11649cf |feat: finished crop-history|  | 25/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 9e7eea0 |feat(forum): joined answer frontend and backend.|  | 25/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 6d85b78 |merging time|  | 25/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 986df43 |Merge branch 'master' into feature/forum|  | 25/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 4271b9a |Merge pull request #59 from SI729-WS53-AgriCulture/feature/forum|  | 25/06/2024 |
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
