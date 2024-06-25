@@ -3803,7 +3803,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
-En el Sprint 4, hemos culminado exitosamente el proyecto con la integración completa y funcional del frontend y backend. El front-end, que ya estaba operando eficazmente con json-server en sprints anteriores, ha sido completamente integrado con el back-end, permitiendo una interacción fluida y eficaz entre ambas partes del sistema
+En el Sprint 4, hemos culminado exitosamente el proyecto con la integración completa y funcional del frontend y backend. El front-end, que ya estaba operando eficazmente con json-server en sprints anteriores, ha sido completamente integrado con el back-end, permitiendo una interacción fluida y eficaz entre ambas partes del sistema. Lo que más se trabajó en este sprint final, ha sido en la culminación del uso adecuado en el back-end, el cual desarrolla una API RESTful completa para la gestión eficiente de datos. A la vez que añade un sistema de gestión de usuarios y autenticación con tokens JWT para garantizar su seguridad y acceso.
 
 Backend
 
