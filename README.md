@@ -3803,13 +3803,19 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
+En lo que evidencia a lo que se realizo en este sprint fue más que nada actividades a que exista una correcta integracion entre el back y front, teniendo esto en cuenta se desarrollaron nuevos endpoints asi como nueva implementaciones de este, siendo los mas caracteristicos endpoint que tienen relacion con el core del negocio como crops y sowings, finalmente se integró lo que es el IAM (Identity Access Managemente) que permite dar una capa de seguridad adicional a la aplicacion. Se considera que casi todos los integrantes trabajaron por igual, de forma cooperativa y finalizando con la conclusión de un trabajo bien hecho entregando un MVP (Minimum Viable Product)
+
+**Frontend Web Application**
+***US22 Y US223***
+
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/1.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/2.png"/>
+
+
 Backend
 
 <img src ="resources/evidenceSprintThree/foroEndpoints.png">
 
-Frontend
-
-<img src="resources/fotosDePruebaCompletaTres/Seis.png">
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
@@ -4255,6 +4261,43 @@ Web Service:
 
 
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+Con el fin de demostrar todo lo que se logro en esta entrega final, se adjuntan las capturas de la landing page en su ultima version, la aplicación web frontend desplegado en su ultima version y el backend, el cual se realizó con springbott, con capturas de acuerdo a los endpoints que se realizaron:
+
+### Landing Page 
+
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/19.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/20.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/21.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/22.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/23.png"/>
+
+
+### Frontend Web Application
+
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/1.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/2.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/3.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/4.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/5.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/6.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/7.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/8.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/9.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/10.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/11.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/12.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/13.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/14.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/15.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/16.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/17.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/18.png"/>
+
+### Backend API (Web service)
+
+<img src="resources/EvidenciasTrabajoFinal/Authentication1.png"/>
+
 
 Se evidencia el desarrollo completo del backend de la aplicación
 
