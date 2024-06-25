@@ -4256,7 +4256,7 @@ Web Service:
 
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
 
-Se evidencia el desarrollo completo del back end de la aplicación
+Se evidencia el desarrollo completo del backend de la aplicación
 
 <img src="resources/EvidenciasTrabajoFinal/Authentication1.png"/>
 <img src="resources/EvidenciasTrabajoFinal/Authentication2.png"/>
