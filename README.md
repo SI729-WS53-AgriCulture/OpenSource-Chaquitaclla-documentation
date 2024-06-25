@@ -3676,29 +3676,158 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
     </thead>
     <tbody>
         <tr>
-            <td>TS01</td>
-            <td>Integracion de Front y Back</td>
-            <td>01</td>
+            <th rowspan="5">TS01</th>
+            <td rowspan="5">Integracion de Front y Back</td>
+            <td>TK01</td>
             <td>Desarrollo de la integración</td>
             <td>Integrar los componentes frontend y backend para una comunicación eficiente y fluida.</td>
             <td>4</td>
             <td>Todos</td>
             <td>Done</td>
         </tr>
+         <tr>
+          <td>TK02</td>
+          <td>BC-Profile</td>
+          <td>BC-Profile</td>
+          <td>1</td>
+          <td>Godofredo</td>
+          <td>Done</td>
+        </tr>
         <tr>
-            <td>TS02</td>
-            <td>Inicio ed sesion IAM Frontend</td>
-            <td>02</td>
+          <td>TK03</td>
+          <td>BC-Crops</td>
+          <td>BC-Crops</td>
+          <td>1</td>
+          <td>Cantoral</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK04</td>
+          <td>BC-Products</td>
+          <td>BC-Proucts</td>
+          <td>1</td>
+          <td>Rivas</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK05</td>
+          <td>BC-Sowings</td>
+          <td>BC-Sowings</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+            <th rowspan="11">TS02</th>
+            <td rowspan="11">Inicio ed sesion IAM Frontend</td>
+            <td>TK01</td>
             <td>Desarrollo del login frontend</td>
             <td>Implementar el sistema de inicio de sesión utilizando IAM en la parte frontend.</td>
             <td>4</td>
             <td>Paolo Guillen</td>
             <td>Done</td>
         </tr>
+        <tr>
+          <td>TK06</td>
+          <td>Crear y definir los ValueObject</td>
+          <td>Crear y definir los ValueObject</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK07</td>
+          <td>Crear y definir los entities</td>
+          <td>Crear y definir los entities</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK08</td>
+          <td>Crear y definir los aggragates</td>
+          <td>Crear y definir los aggragates</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK09</td>
+          <td>Crear los Comamands </td>
+          <td>Crear los Comamands </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK10</td>
+          <td>Crear los Queries</td>
+          <td>Crear los Queries</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK11</td>
+          <td>Crear y definir los CommandServices</td>
+          <td>Crear y definir los CommandServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK12</td>
+          <td>Crear y definir los QueryServices</td>
+          <td>Crear y definir los QueryServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK13</td>
+          <td>BC-Sowings</td>
+          <td>BC-Sowings</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK14</td>
+          <td>Crear y definir los Repositories</td>
+          <td>Crear y definir los Repositories</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK15</td>
+          <td>Crear e implementa los CommandServicesImpls</td>
+          <td>Crear e implementa los CommandServicesImpls</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK16</td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK17</td>
+          <td>Crear e implementar los Controllers</td>
+          <td>Crear e implementar los Controllers</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        
          <tr>
-            <td>US22</td>
-            <td>Inicio de Sesion IAM Backend</td>
-            <td>22</td>
+            <th rowspan="11">US22</th>
+            <td rowspan="11">Inicio de Sesion IAM Backend</td>
+            <td>TK18</td>
             <td>Desarrollo del login backend</td>
             <td>Implementar la funcionalidad de inicio de sesión utilizando IAM en la parte backend.</td>
             <td>2</td>
@@ -3706,56 +3835,305 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
             <td>Done</td>
         </tr>
          <tr>
-            <td>US23</td>
-            <td>Restriccion de accesos</td>
-            <td>23</td>
-            <td>Implementación de accesos</td>
-            <td>Desarrollar restricciones de acceso para usuarios basados en roles y permisos.</td>
+          <td>TK19</td>
+          <td>Crear y definir los ValueObject</td>
+          <td>Crear y definir los ValueObject</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK20</td>
+          <td>Crear y definir los entities</td>
+          <td>Crear y definir los entities</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK21</td>
+          <td>Crear y definir los aggragates</td>
+          <td>Crear y definir los aggragates</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK22</td>
+          <td>Crear los Comamands </td>
+          <td>Crear los Comamands </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK23</td>
+          <td>Crear los Queries</td>
+          <td>Crear los Queries</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK24</td>
+          <td>Crear y definir los CommandServices</td>
+          <td>Crear y definir los CommandServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK25</td>
+          <td>Crear y definir los QueryServices</td>
+          <td>Crear y definir los QueryServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK26</td>
+          <td>BC-Sowings</td>
+          <td>BC-Sowings</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK27</td>
+          <td>Crear y definir los Repositories</td>
+          <td>Crear y definir los Repositories</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK28</td>
+          <td>Crear e implementa los CommandServicesImpls</td>
+          <td>Crear e implementa los CommandServicesImpls</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK29</td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK30</td>
+          <td>Crear e implementar los Controllers</td>
+          <td>Crear e implementar los Controllers</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+         <tr>
+            <th rowspan="4">US23</th>
+            <td rowspan="4">Restriccion de accesos</td>
+            <td>TK31</td>
+            <td>Statistical Reports</td>
+            <td>Statistical Reports</td>
             <td>2</td>
             <td>Todos</td>
             <td>Done</td>
         </tr>
+        <tr>
+          <td>TK32</td>
+          <td>Crop Registration</td>
+          <td>Crop Registration</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK33</td>
+          <td>Consultation Forum</td>
+          <td>Consultation Forum</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK34</td>
+          <td>Crops History</td>
+          <td>Crops History</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
          <tr>
-            <td>TS03</td>
-            <td>ProductSowings</td>
-            <td>03</td>
-            <td>Desarrollo del módulo de productSowings.</td>
-            <td>Implementar la relación y funcionalidad entre los productos y las sowings</td>
+            <th rowspan="9">TS03</th>
+            <td rowspan="9">ProductSowings</td>
+            <td>TK35</td>
+            <td>Crear y definir los aggragates</td>
+            <td>Crear y definir los aggragates</td>
             <td>1</td>
             <td>DavidRivas</td>
             <td>Done</td>
         </tr>
+        <tr>
+          <td>TK36</td>
+          <td>Crear los Comamands  </td>
+          <td>Crear los Comamands  </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK37</td>
+          <td>Crear los Queries</td>
+          <td>Crear los Queries</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK38</td>
+          <td>Crear y definir los CommandServices</td>
+          <td>Crear y definir los CommandServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK39</td>
+          <td>Crear y definir los QueryServices</td>
+          <td>Crear y definir los QueryServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK40</td>
+          <td>Crear y definir los Repositories</td>
+          <td>Crear y definir los Repositories</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK41</td>
+          <td>Crear e implementa los CommandServicesImpls </td>
+          <td>Crear e implementa los CommandServicesImpls </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK42</td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK43</td>
+          <td>Crear e implementar los Controllers </td>
+          <td>Crear e implementar los Controllers </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        
             <tr>
-            <td>TS04</td>
-            <td>Profile</td>
-            <td>04</td>
-            <td>Desarrollo del perfil de usuario</td>
-            <td>Crear y gestionar el perfil de usuario, permitiendo la actualización de información personal.</td>
+            <th rowspan="3">TS04</th>
+            <td rowspan="3">Profile</td>
+            <td>TK44</td>
+            <td>Crear los Queries</td>
+            <td>Crear los Queries</td>
             <td>1</td>
             <td>Godofredo Quispe</td>
             <td>Done</td>
         </tr>
+        <tr>
+          <td>TK45</td>
+          <td>Crear y definir los QueryServices </td>
+          <td>Crear y definir los QueryServices </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK46</td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>Crear e implementa los QueryServiceImpls </td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
          </tr>
             <tr>
-            <td>TS05</td>
-            <td>Auditable</td>
-            <td>05</td>
-            <td>Implementación de auditoría</td>
-            <td>Desarrollar funcionalidades auditables para rastrear cambios y acciones en el sistema.</td>
+            <th rowspan="2">TS05</th>
+            <td rowspan="2">Auditable</td>
+            <td>TK47</td>
+            <td>Presencia en todos los entities de los bounded-context</td>
+            <td>Presencia en todos los entities de los bounded-context</td>
             <td>3</td>
             <td>Godofredo Quispe</td>
             <td>Done</td>
         </tr>
+        <tr>
+          <td>TK48</td>
+          <td>Presencia en todos los aggregatesde los bounded-context </td>
+          <td>Presencia en todos los aggregatesde los bounded-context</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
      </tr>
             <tr>
-            <td>TS06</td>
-            <td>Category</td>
-            <td>06</td>
-            <td>Desarrollo del módulo de categorías</td>
-            <td>Implementar la gestión de categorías para organizar y clasificar los productos.</td>
+            <th rowspan="6">TS06</th>
+            <td rowspan="6">Category</td>
+            <td>TK49</td>
+            <td>Crear y definir los aggragates</td>
+            <td>Crear y definir los aggragates</td>
             <td>3</td>
             <td>Amner</td>
             <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK50</td>
+          <td>Crear y definir los QueryServices </td>
+          <td>Crear y definir los QueryServices</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK51</td>
+          <td>Crear y definir los Repositories </td>
+          <td>Crear y definir los Repositories</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK52</td>
+          <td>Crear e implementa los CommandServicesImpls </td>
+          <td>Crear e implementa los CommandServicesImpls</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK53</td>
+          <td>Crear e implementa los QueryServiceImpls</td>
+          <td>Crear e implementa los QueryServiceImpls</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TK54</td>
+          <td>Crear e implementar los Controllers </td>
+          <td>Crear e implementar los Controllers</td>
+          <td>1</td>
+          <td>Paolo</td>
+          <td>Done</td>
         </tr>
     </tbody>
 </table>
