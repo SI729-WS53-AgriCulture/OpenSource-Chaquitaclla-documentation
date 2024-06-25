@@ -3645,14 +3645,14 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
-|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|0f39001|feat: integrated project to this branch a little bit better |  | 17/05/2024 |
-|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|60d54b3|products integration without token with iam |  | 18/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|0f39001|feat: integrated project to this branch a little bit better |  | 17/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|60d54b3|products integration without token with iam |  | 18/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7f844be|Actualizado |  | 18/06/2024 |
-|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|66ce1d|Funcional |  | 18/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|66ce1d|Funcional |  | 18/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7f844be|feat: added profiles bc |  | 20/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7f844be|feat: added profiles bc |  | 20/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|84557e4|Useer|  | 21/06/2024 |
-|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|a857fc7|fix: fixed almost everything |  | 21/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|a857fc7|fix: fixed almost everything |  | 21/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|759f3ed|feat: added snakeCaseWithPluralizedTablePhysicalNamingStrategy|  | 21/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7277248|feat: added snakeCaseWithPluralizedTablePhysicalNamingStrategy|  | 21/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|aber9957|Merge branch 'develop' into safe-develop|  | 21/06/2024 |
@@ -3660,7 +3660,15 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|0e9858c|Merge branch 'develop' into bc-users|  | 21/06/2024 |
 |https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|578343c|feat: fully functional bc-users|  | 21/06/2024 |
 
-**Frontend**
+**Frontend-web-application**
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| def5dd6 | feat: added iam bc in addition to integration with backend and frontend|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| ac2a7f9 |Merge branch 'refs/heads/develop' into feature/crud-crops|  | 22/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| ac25df8 | feat: added authorization service|  | 22/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 637b084 | feat: more related things to the project, btw almost finished the the register sowing section|  | 22/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 83599e4 |feat: only thing left are the updates command to introduce in the sowings, products, controls sections|  | 23/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Frontend-Web-Applications|master| 7bb0bdf |Merge pull request #58 from SI729-WS53-AgriCulture/feature/crud-crops|  | 24/06/2024 |
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
