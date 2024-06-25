@@ -4194,7 +4194,7 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
 En lo que evidencia a lo que se realizo en este sprint fue más que nada actividades a que exista una correcta integracion entre el back y front, teniendo esto en cuenta se desarrollaron nuevos endpoints asi como nueva implementaciones de este, siendo los mas caracteristicos endpoint que tienen relacion con el core del negocio como crops y sowings, finalmente se integró lo que es el IAM (Identity Access Managemente) que permite dar una capa de seguridad adicional a la aplicacion. Se considera que casi todos los integrantes trabajaron por igual, de forma cooperativa y finalizando con la conclusión de un trabajo bien hecho entregando un MVP (Minimum Viable Product)
-
+Enlace del video: [https://youtu.be/NrzBO_7Q6rY]
 
 **Frontend Web Application**
 ***US22 Y US223***
