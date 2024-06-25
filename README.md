@@ -3638,6 +3638,114 @@ En lo que respecta al cuarto sprint backlog, nos estuvimos enfocando en lo que e
 
 Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
 
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>Title</td>
+            <td>ID</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned to</td>
+            <td>Status (To-Do/In-Process/To-Review/Done)</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>TS01</td>
+            <td>Integracion de Front y Back</td>
+            <td>01</td>
+            <td></td>
+            <td></td>
+            <td>4</td>
+            <td>Todos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Inicio ed sesion IAM Frontend</td>
+            <td>02</td>
+            <td></td>
+            <td></td>
+            <td>4</td>
+            <td>Paolo Guillen</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US22</td>
+            <td>Inicio de Sesion IAM Backend</td>
+            <td>22</td>
+            <td></td>
+            <td></td>
+            <td>3</td>
+            <td>Paolo Guillen</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US23</td>
+            <td>Visualizar equipo de Chaquitaclla</td>
+            <td>23</td>
+            <td></td>
+            <td></td>
+            <td>4</td>
+            <td>Todos</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>TS03</td>
+            <td>ProductSowings</td>
+            <td>03</td>
+            <td></td>
+            <td></td>
+            <td>3</td>
+            <td>DavidRivas</td>
+            <td>Done</td>
+        </tr>
+            <tr>
+            <td>TS04</td>
+            <td>Profile</td>
+            <td>04</td>
+            <td></td>
+            <td></td>
+            <td>3</td>
+            <td>Godofredo Quispe</td>
+            <td>Done</td>
+        </tr>
+         </tr>
+            <tr>
+            <td>TS05</td>
+            <td>Auditable</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>3</td>
+            <td>Godofredo Quispe</td>
+            <td>Done</td>
+        </tr>
+     </tr>
+            <tr>
+            <td>TS06</td>
+            <td>Category</td>
+            <td>06</td>
+            <td></td>
+            <td></td>
+            <td>3</td>
+            <td>Amner</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
 
 **Web Services**
