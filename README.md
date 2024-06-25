@@ -97,6 +97,21 @@ Para esta entrega se enfoco en lo que es la entrega del front-end web applicatio
 <img src="resources/fotoPruebaEvidenciaReadmeTres/One.png" >
 <img src="resources/fotoPruebaEvidenciaReadmeTres/Two.png" >
 
+**TF** 
+Siendo la entrega final se desplegó la pagina final de nuestra aplicación frotnend en firebase con un correcto funcionamiento con el bakcend que se ha realizado, se considera exitoso el proyecto pues cada integrante participo de cierta forma en el trabajo.
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Guillen Luna, Paolo César|Desarrollo del bc-sowings del backend, creando relaciones con sus controles y un correcto registro junto a los crops que estos son asociados. De igual forma integre el IAM tanto al back como al front|
+|Cantoral Paredes, Diego André|Desarrollo del backend, la seccion de bc-crops para el registro de los cultivos, se mejoró de forma que un crop pueda tener distintas enfermedades, cuidados y pestes asignadas|
+|Rivas Sarango, David Alejandro|Me enfoque en el desarrllo del backend, la seccion de bc-products, añadiendo value object de tipo de producto con el fin de tener un mayor control al momento de obtener estadisticas de los sowings.|
+|Llamo Sánchez,Amner Levi|Desarrollo de la sección de consultas/preguntas/foro del backend, más especificamente el bc-forum, además de su integración respectiva con el frontend|
+|Quispe Tipo, Godofredo|Encargado de realizar la seccion de perfiles del backend|
+
+**TB2 Github**
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalUno.png" >
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalDos.png" >
+
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
 1.1. [***Startup Profile***](#1.1.) <br>
@@ -4416,13 +4431,26 @@ Se evidencia el desarrollo completo del backend de la aplicación
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
 
+|Alumno|Actividad|
+|-|-|
+|Guillen Luna, Paolo César|Mejora significativa del backend, la seccion de bc-sowings asi como participe en la integracion total del proyecto|
+|Cantoral, Diego| Ejecución y elaboración del bc-crops del backend y su respectiva integración|
+|Amner Llamo Sánchez |Elaboracion completa del apartado de foro tanto en backend como frontend, mejora de UI en la sección de foro de la aplicacion frontend y su integración final entre estas dos secciones|
+|Quispe, Godofredo|Elaboración completa del bc-users, más especificamente la rama, en lo que respecta al backend, las carpetas de perfiles.|
+|Rivas Sarango, David|Elabotación completa del apartado de products, unión entre bc-products y bc-sowings así como la integración respectiva de los productos de acuerdo al sowingId tanto front como back|
+
+Como github no muestra de forma literal cada vez que un usuario cambia una linea de codigo, a veces se percibe que un integrante trabajo menos por no hacer tantos commits, por esta razón se adjuntan las evidencias respectivas del trabajo de todos los integrantes que apoyaron al trabajo.
+
+
 Backend Team Collaboration
-<img src="resources/sstb41.JPG">
-<img src="resources/sstb42.JPG">
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalTres.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalCuatro.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalCinco.png"/>
 
 Frontend Team Collaboration
-<img src="resources/sstb43.JPG">
-<img src="resources/sstb44.JPG">
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalSeis.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalSiete.png"/>
+<img src="resources/ImagenesTrabajoFinalPuntosCincoCreo/finalOcho.png"/>
 
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
@@ -4743,6 +4771,8 @@ Enlace al video sobre el producto en onedrive: [https://upcedupe-my.sharepoint.c
 **TP:** Para este TP, el uso de gitflow, nos facilito demasiado en lo que es trabajar de forma remota, sobre todo para lo que es la implementación de una aplicación web, esto fue crucial, puesto que nos ayudo a juntar cada uno de nuestros feature de una forma más eficiente, para que nosotros como equipo entendamos el código de forma general y nos ayude a comprender que función tiene cada componente respectivamente.
 
 **TB2:** Para este TB2, el uso de un control de versiones nos ayudo demasiado al momento de finalizar el desarrollo de la aplicación web, esto nos ayudo a ser eficientes y terminar a tiempo su desarrollo para concentrarnos en el desarrollo del backend, en lo que respecto a lo ultimo, consideramos que terminamos su desarrollo en un 50% o incluso más, esto puesto que los endpoints principales se encuentran funcionales con operaciones CRUD simples y algunos de estos endpoints tienen alguna relacion directa a como funciona nuestro negocio, al menos en sus apartados respectivos.
+
+**TF:** Al concluir el proyecto, determinamos que Spring Boot es una herramienta excelente para el desarrollo backend, y Angular demostró ser igualmente eficaz para el desarrollo frontend. Ambas tecnologías han contribuido significativamente al éxito de nuestro proyecto. En lo que respecta al student outcome, concluimos que gracias a las herramientas de gitflow, trello entre otras de comunicación como google meets, son esenciales para un correcto trabajo en equipo a distancia, gracias a estas herramientas pudimos comunicar lo que necesitabamos para el proyecto tanto de forma oral y por escrito. Algo que nos gustaría recalcar fue el uso de gitlow, el cual nos facilitó mucha la tarea de controlar las versiones de nuestro trabajo.
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
