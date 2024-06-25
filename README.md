@@ -3637,15 +3637,26 @@ En lo que respecta al cuarto sprint backlog, nos estuvimos enfocando en lo que e
 
 <img src ="resources/ssTB4TRELLO.JPG">
 
+Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
+
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
 
-Backend
-
-<img src ="resources/evidenceSprintThree/foroEndpoints.png">
-
-Frontend
-
-<img src="resources/fotosDePruebaCompletaTres/Seis.png">
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|0f39001|feat: integrated project to this branch a little bit better |  | 17/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|60d54b3|products integration without token with iam |  | 18/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7f844be|Actualizado |  | 18/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|66ce1d|Funcional |  | 18/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7f844be|feat: added profiles bc |  | 20/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7f844be|feat: added profiles bc |  | 20/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|84557e4|Useer|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|a857fc7|fix: fixed almost everything |  | 21/05/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|759f3ed|feat: added snakeCaseWithPluralizedTablePhysicalNamingStrategy|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|7277248|feat: added snakeCaseWithPluralizedTablePhysicalNamingStrategy|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|aber9957|Merge branch 'develop' into safe-develop|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|8d209d|feat: added something|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|0e9858c|Merge branch 'develop' into bc-users|  | 21/06/2024 |
+|https://github.com/SI729-WS53-AgriCulture/Chaquitaclla-web-services|develop|578343c|feat: fully functional bc-users|  | 21/06/2024 |
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
@@ -3665,6 +3676,14 @@ Frontend
 
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
+
+Backend
+
+<img src ="resources/evidenceSprintThree/foroEndpoints.png">
+
+Frontend
+
+<img src="resources/fotosDePruebaCompletaTres/Seis.png">
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
