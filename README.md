@@ -3641,6 +3641,19 @@ En lo que respecta al cuarto sprint backlog, nos estuvimos enfocando en lo que e
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/SI729-WS53-AgriCulture/testing|main|9f31c4c|Merge pull request #16 from SI729-WS53-AgriCulture/feature/tb2-rivas|Merge pull request #16 from SI729-WS53-AgriCulture/feature/tb2-rivas|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|9224e78|Merge pull request #15 from SI729-WS53-AgriCulture/feature/tb2-Paolo|Merge pull request #15 from SI729-WS53-AgriCulture/feature/tb2-Paolo|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|cc6ddb5|Merge pull request #14 from SI729-WS53-AgriCulture/feature/tb2-Godofredo|Merge pull request #14 from SI729-WS53-AgriCulture/feature/tb2-Godofredo|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|d1ea45c|Merge pull request #13 from SI729-WS53-AgriCulture/feature/tf-Godofredo|Merge pull request #13 from SI729-WS53-AgriCulture/feature/tf-Godofredo|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|8f432a2|Merge pull request #12 from SI729-WS53-AgriCulture/feature/tf-amner|Merge pull request #12 from SI729-WS53-AgriCulture/feature/tf-amner|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|182a248|Merge pull request #11 from SI729-WS53-AgriCulture/feature/tf-diego|Merge pull request #11 from SI729-WS53-AgriCulture/feature/tf-diego|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|030f4fa|Merge pull request #10 from SI729-WS53-AgriCulture/feature/tf-paolo|Merge pull request #10 from SI729-WS53-AgriCulture/feature/tf-paolo|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|3d50b0d|Merge pull request #9 from SI729-WS53-AgriCulture/feature/tf-rivas|Merge pull request #9 from SI729-WS53-AgriCulture/feature/tf-rivas|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|2b2c1e2|Merge pull request #8 from SI729-WS53-AgriCulture/feature/tp-Amner|Merge pull request #8 from SI729-WS53-AgriCulture/feature/tp-Amner|25/06/2024|
+|https://github.com/SI729-WS53-AgriCulture/testing|main|7ed073a|Merge pull request #7 from SI729-WS53-AgriCulture/feature/tp-Diego|Merge pull request #7 from SI729-WS53-AgriCulture/feature/tp-Diego|25/06/2024|
+
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
