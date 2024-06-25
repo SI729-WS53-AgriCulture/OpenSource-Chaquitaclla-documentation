@@ -3636,6 +3636,8 @@ Respecto a la colaboración de los integrantes, si bien dentro de los insights q
 
 <div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
 
+<img src ="resources/ssTB4TRELLO.JPG">
+
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
