@@ -4037,7 +4037,6 @@ Link: [https://trello.com/b/z6sAUeNp/si729-2401-ws53-grupo-1]
           <td>Paolo</td>
           <td>Done</td>
         </tr>
-        
             <tr>
             <th rowspan="3">TS04</th>
             <td rowspan="3">Profile</td>
