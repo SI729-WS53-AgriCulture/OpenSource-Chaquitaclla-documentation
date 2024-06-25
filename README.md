@@ -3636,6 +3636,8 @@ Respecto a la colaboración de los integrantes, si bien dentro de los insights q
 
 <div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
 
+En lo que respecta al cuarto sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio  la integración entre back y front, además de esto el equipo se enfoco en finalizar lo que restaba del backend service, con el fin de entregar un MVP (Minimum viable product), la interfaz gráfica principalmente en lo que respecta al aspecto visual se mejoró un poco y se añadio procesos de login y registro.
+
 <img src ="resources/ssTB4TRELLO.JPG">
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
