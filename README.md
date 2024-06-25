@@ -3505,94 +3505,36 @@ Se culminó el frontend web application, respecto al i18n hay incovenientes los 
 
 Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se avanzó en el backend para el presente sprint, en lo que respecta al backend se trabajo en todos los endpoints principales con el fin de una conexión más sencilla entre frontend y backend.
 
-<img src="resources/EvidenciasTrabajoFinal/Authentication1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Authentication2.png"/>
+<img src="resources/fotosEjecucionSprint/US05.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Answers1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Answers2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Answers3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Answers4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Answers5.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Answers6.png"/>
+<img src="resources/fotosEjecucionSprint/US05Back.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Care1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Care2.png"/>
+<img src="resources/fotosEjecucionSprint/US06.png"/>
+<img src="resources/fotosEjecucionSprint/US06Back.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Categories1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Categories2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Categories3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Categories4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Categories5.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/City1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/City2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/City3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/City4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/City5.png"/>
+<img src="resources/fotosEjecucionSprint/US11Back.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Country1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Country2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Country3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Country4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Country5.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Crops1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Crops2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Crops3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Crops4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Crops5.png"/>
+<img src="resources/fotosEjecucionSprint/US18BACK.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Disease1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Disease2.png"/>
 
-<img src="resources/EvidenciasTrabajoFinal/Pest1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Pest2.png"/>
+<img src="resources/evidenceSprintThree/foroEndpoints.png">
 
-<img src="resources/EvidenciasTrabajoFinal/Product1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Product2.png"/>
+<img src="resources/evidenceSprintThree/foroGetQuestionById.png">
+<img src="resources/evidenceSprintThree/foroPutQuestion.png">
+<img src="resources/evidenceSprintThree/foroDeleteQuestion.png">
+<img src="resources/evidenceSprintThree/foroGetAllQuestions.png">
+<img src="resources/evidenceSprintThree/foroPostQuestion.png">
+<img src="resources/evidenceSprintThree/foroGetAllQuestionsByUserId.png">
 
-<img src="resources/EvidenciasTrabajoFinal/Profiles1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Profiles2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Profiles3.png"/>
+<img src="resources/evidenceSprintThree/foroGetAnswerById.png">
+<img src="resources/evidenceSprintThree/foroPutAnswer.png">
+<img src="resources/evidenceSprintThree/foroDeleteAnswer.png">
+<img src="resources/evidenceSprintThree/foroGetAllAnswers.png">
+<img src="resources/evidenceSprintThree/foroPostAnswer.png">
+<img src="resources/evidenceSprintThree/foroGetAllAnswersByQuestionId.png">
 
-<img src="resources/EvidenciasTrabajoFinal/Questions1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Questions2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Questions3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Questions4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Questions5.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Questions6.png"/>
-
-<img src="resources/EvidenciasTrabajoFinal/Roles1.png"/>
-
-<img src="resources/EvidenciasTrabajoFinal/Sowing1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing5.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing6.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing7.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing8.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing9.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing10.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing11.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing12.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Sowing13.png"/>
-
-<img src="resources/EvidenciasTrabajoFinal/Subscription1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Subscription2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Subscription3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Subscription4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Subscription5.png"/>
-
-<img src="resources/EvidenciasTrabajoFinal/UserProfile1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/UserProfile2.png"/>
-<img src="resources/EvidenciasTrabajoFinal/UserProfile3.png"/>
-<img src="resources/EvidenciasTrabajoFinal/UserProfile4.png"/>
-<img src="resources/EvidenciasTrabajoFinal/UserProfile5.png"/>
-<img src="resources/EvidenciasTrabajoFinal/UserProfile6.png"/>
-
-<img src="resources/EvidenciasTrabajoFinal/Users1.png"/>
-<img src="resources/EvidenciasTrabajoFinal/Users2.png"/>
 
 
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
@@ -4205,6 +4147,97 @@ Web Service:
 
 
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+Se evidencia el desarrollo completo del back end de la aplicación
+
+<img src="resources/EvidenciasTrabajoFinal/Authentication1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Authentication2.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Answers1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Answers2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Answers3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Answers4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Answers5.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Answers6.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Care1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Care2.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Categories1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Categories2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Categories3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Categories4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Categories5.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/City1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/City2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/City3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/City4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/City5.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Country1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Country2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Country3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Country4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Country5.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Crops1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Crops2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Crops3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Crops4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Crops5.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Disease1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Disease2.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Pest1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Pest2.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Product1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Product2.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Profiles1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Profiles2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Profiles3.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Questions1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Questions2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Questions3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Questions4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Questions5.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Questions6.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Roles1.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Sowing1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing5.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing6.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing7.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing8.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing9.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing10.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing11.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing12.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Sowing13.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Subscription1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Subscription2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Subscription3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Subscription4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Subscription5.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/UserProfile1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/UserProfile2.png"/>
+<img src="resources/EvidenciasTrabajoFinal/UserProfile3.png"/>
+<img src="resources/EvidenciasTrabajoFinal/UserProfile4.png"/>
+<img src="resources/EvidenciasTrabajoFinal/UserProfile5.png"/>
+<img src="resources/EvidenciasTrabajoFinal/UserProfile6.png"/>
+
+<img src="resources/EvidenciasTrabajoFinal/Users1.png"/>
+<img src="resources/EvidenciasTrabajoFinal/Users2.png"/>
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
 
