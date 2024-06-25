@@ -3622,11 +3622,11 @@ Respecto a la colaboración de los integrantes, si bien dentro de los insights q
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
-            <td>29</td>
+            <td>15</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>35</td>
+            <td>20</td>
         </tr>
     </tbody>
 </table>
