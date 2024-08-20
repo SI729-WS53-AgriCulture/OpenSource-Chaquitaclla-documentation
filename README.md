@@ -1,13 +1,13 @@
 <h1 style="text-align: center;"> Informe del TB2  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
-<h4 style="text-align: center;"> Ingeniería de Software </h4>
-<h4 style="text-align: center;"> Desarollo de Aplicaciones Open Source </h4>
-<h4 style="text-align: center;"> Ciclo 2024-01 </h4>
-<h4 style="text-align: center;"> WS53 </h4>
-<h4 style="text-align: center;"> Docente: Juan Antonio Flores Moroco </h4>
-<h4 style="text-align: center;"> Startup: AgriCulture </h4>
-<h4 style="text-align: center;"> Producto: Chaquitaclla  </h4>
+<h3 style="text-align: center;"> Ingeniería de Software </h3>
+<h3 style="text-align: center;"> Desarollo de Aplicaciones Open Source </h3>
+<h3 style="text-align: center;"> Ciclo 2024-01 </h3>
+<h3 style="text-align: center;"> WS53 </h3>
+<h3 style="text-align: center;"> Docente: Juan Antonio Flores Moroco </h3>
+<h3 style="text-align: center;"> Startup: AgriCulture </h3>
+<h3 style="text-align: center;"> Producto: Chaquitaclla  </h3>
 
 ## Team Members
 | Nombre |Código de alumno|
